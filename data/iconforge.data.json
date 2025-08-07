@@ -1,0 +1,2201 @@
+{
+  "version": 1,
+  "classes": [
+    {
+        "name": "if-iconforge",
+        "description": "Offical IconForge Logo",
+        "documentation": "Offical IconForge Logo",
+        "svg": ""
+    },
+    {
+        "name": "if-iconforge-alt",
+        "description": "Offical IconForge Logo",
+        "documentation": "Offical IconForge Logo",
+        "svg": ""
+    },
+    {
+      "name": "is-color-white",
+      "description": "Color White",
+      "documentation": "Hex: #fff",
+      "color": "#fff"
+    },
+    {
+      "name": "is-bg-white",
+      "description": "Background White",
+      "documentation": "Hex: #fff",
+      "color": "#fff"
+    },
+    {
+      "name": "is-color-black",
+      "description": "Color Black",
+      "documentation": "Hex: #000",
+      "color": "#000"
+    },
+    {
+      "name": "is-bg-black",
+      "description": "Background Black",
+      "documentation": "Hex: #000",
+      "color": "#000"
+    },
+    {
+      "name": "is-color-red-1",
+      "description": "Color Red 1",
+      "documentation": "Hex: #FFE5E5",
+      "color": "#FFE5E5"
+    },
+    {
+      "name": "is-color-red-2",
+      "description": "Color Red 2",
+      "documentation": "Hex: #FFB3B3",
+      "color": "#FFB3B3"
+    },
+    {
+      "name": "is-color-red-3",
+      "description": "Color Red 3",
+      "documentation": "Hex: #FF8080",
+      "color": "#FF8080"
+    },
+    {
+      "name": "is-color-red-4",
+      "description": "Color Red 4",
+      "documentation": "Hex: #FF4D4D",
+      "color": "#FF4D4D"
+    },
+    {
+      "name": "is-color-red-5",
+      "description": "Color Red 5",
+      "documentation": "Hex: #FF1A1A",
+      "color": "#FF1A1A"
+    },
+    {
+      "name": "is-color-red-6",
+      "description": "Color Red 6",
+      "documentation": "Hex: #E60000",
+      "color": "#E60000"
+    },
+    {
+      "name": "is-color-red-7",
+      "description": "Color Red 7",
+      "documentation": "Hex: #B30000",
+      "color": "#B30000"
+    },
+    {
+      "name": "is-color-red-8",
+      "description": "Color Red 8",
+      "documentation": "Hex: #800000",
+      "color": "#800000"
+    },
+    {
+      "name": "is-color-red-9",
+      "description": "Color Red 9",
+      "documentation": "Hex: #4D0000",
+      "color": "#4D0000"
+    },
+    {
+      "name": "is-color-red-10",
+      "description": "Color Red 10",
+      "documentation": "Hex: #1A0000",
+      "color": "#1A0000"
+    },
+    {
+      "name": "is-bg-red-1",
+      "description": "Background Red 1",
+      "documentation": "Hex: #ffe5e5",
+      "color": "#ffe5e5"
+    },
+    {
+      "name": "is-bg-red-2",
+      "description": "Background Red 2",
+      "documentation": "Hex: #fcbaba",
+      "color": "#fcbaba"
+    },
+    {
+      "name": "is-bg-red-3",
+      "description": "Background Red 3",
+      "documentation": "Hex: #f28f8f",
+      "color": "#f28f8f"
+    },
+    {
+      "name": "is-bg-red-4",
+      "description": "Background Red 4",
+      "documentation": "Hex: #e65f5f",
+      "color": "#e65f5f"
+    },
+    {
+      "name": "is-bg-red-5",
+      "description": "Background Red 5",
+      "documentation": "Hex: #dc2626",
+      "color": "#dc2626"
+    },
+    {
+      "name": "is-bg-red-6",
+      "description": "Background Red 6",
+      "documentation": "Hex: #b91c1c",
+      "color": "#b91c1c"
+    },
+    {
+      "name": "is-bg-red-7",
+      "description": "Background Red 7",
+      "documentation": "Hex: #991b1b",
+      "color": "#991b1b"
+    },
+    {
+      "name": "is-bg-red-8",
+      "description": "Background Red 8",
+      "documentation": "Hex: #7f1d1d",
+      "color": "#7f1d1d"
+    },
+    {
+      "name": "is-bg-red-9",
+      "description": "Background Red 9",
+      "documentation": "Hex: #611616",
+      "color": "#611616"
+    },
+    {
+      "name": "is-bg-red-10",
+      "description": "Background Red 10",
+      "documentation": "Hex: #4b0f0f",
+      "color": "#4b0f0f"
+    },
+    {
+      "name": "is-color-orange-1",
+      "description": "Color Orange 1",
+      "documentation": "Hex: #FFF0E0",
+      "color": "#FFF0E0"
+    },
+    {
+      "name": "is-color-orange-2",
+      "description": "Color Orange 2",
+      "documentation": "Hex: #FFD8B3",
+      "color": "#FFD8B3"
+    },
+    {
+      "name": "is-color-orange-3",
+      "description": "Color Orange 3",
+      "documentation": "Hex: #FFBB80",
+      "color": "#FFBB80"
+    },
+    {
+      "name": "is-color-orange-4",
+      "description": "Color Orange 4",
+      "documentation": "Hex: #FF994D",
+      "color": "#FF994D"
+    },
+    {
+      "name": "is-color-orange-5",
+      "description": "Color Orange 5",
+      "documentation": "Hex: #FF8000",
+      "color": "#FF8000"
+    },
+    {
+      "name": "is-color-orange-6",
+      "description": "Color Orange 6",
+      "documentation": "Hex: #E67300",
+      "color": "#E67300"
+    },
+    {
+      "name": "is-color-orange-7",
+      "description": "Color Orange 7",
+      "documentation": "Hex: #B35900",
+      "color": "#B35900"
+    },
+    {
+      "name": "is-color-orange-8",
+      "description": "Color Orange 8",
+      "documentation": "Hex: #804000",
+      "color": "#804000"
+    },
+    {
+      "name": "is-color-orange-9",
+      "description": "Color Orange 9",
+      "documentation": "Hex: #4D2600",
+      "color": "#4D2600"
+    },
+    {
+      "name": "is-color-orange-10",
+      "description": "Color Orange 10",
+      "documentation": "Hex: #1A0D00",
+      "color": "#1A0D00"
+    },
+    {
+      "name": "is-bg-orange-1",
+      "description": "Background Orange 1",
+      "documentation": "Hex: #fff1e6",
+      "color": "#fff1e6"
+    },
+    {
+      "name": "is-bg-orange-2",
+      "description": "Background Orange 2",
+      "documentation": "Hex: #ffd8b5",
+      "color": "#ffd8b5"
+    },
+    {
+      "name": "is-bg-orange-3",
+      "description": "Background Orange 3",
+      "documentation": "Hex: #ffc084",
+      "color": "#ffc084"
+    },
+    {
+      "name": "is-bg-orange-4",
+      "description": "Background Orange 4",
+      "documentation": "Hex: #ffa952",
+      "color": "#ffa952"
+    },
+    {
+      "name": "is-bg-orange-5",
+      "description": "Background Orange 5",
+      "documentation": "Hex: #f97316",
+      "color": "#f97316"
+    },
+    {
+      "name": "is-bg-orange-6",
+      "description": "Background Orange 6",
+      "documentation": "Hex: #ea580c",
+      "color": "#ea580c"
+    },
+    {
+      "name": "is-bg-orange-7",
+      "description": "Background Orange 7",
+      "documentation": "Hex: #c2410c",
+      "color": "#c2410c"
+    },
+    {
+      "name": "is-bg-orange-8",
+      "description": "Background Orange 8",
+      "documentation": "Hex: #9a3412",
+      "color": "#9a3412"
+    },
+    {
+      "name": "is-bg-orange-9",
+      "description": "Background Orange 9",
+      "documentation": "Hex: #7c2d12",
+      "color": "#7c2d12"
+    },
+    {
+      "name": "is-bg-orange-10",
+      "description": "Background Orange 10",
+      "documentation": "Hex: #5a1e0f",
+      "color": "#5a1e0f"
+    },
+    {
+      "name": "is-color-yellow-1",
+      "description": "Color Yellow 1",
+      "documentation": "Hex: #FFFFE0",
+      "color": "#FFFFE0"
+    },
+    {
+      "name": "is-color-yellow-2",
+      "description": "Color Yellow 2",
+      "documentation": "Hex: #FFFFB3",
+      "color": "#FFFFB3"
+    },
+    {
+      "name": "is-color-yellow-3",
+      "description": "Color Yellow 3",
+      "documentation": "Hex: #FFFF80",
+      "color": "#FFFF80"
+    },
+    {
+      "name": "is-color-yellow-4",
+      "description": "Color Yellow 4",
+      "documentation": "Hex: #FFFF4D",
+      "color": "#FFFF4D"
+    },
+    {
+      "name": "is-color-yellow-5",
+      "description": "Color Yellow 5",
+      "documentation": "Hex: #FFFF00",
+      "color": "#FFFF00"
+    },
+    {
+      "name": "is-color-yellow-6",
+      "description": "Color Yellow 6",
+      "documentation": "Hex: #E6E600",
+      "color": "#E6E600"
+    },
+    {
+      "name": "is-color-yellow-7",
+      "description": "Color Yellow 7",
+      "documentation": "Hex: #B3B300",
+      "color": "#B3B300"
+    },
+    {
+      "name": "is-color-yellow-8",
+      "description": "Color Yellow 8",
+      "documentation": "Hex: #808000",
+      "color": "#808000"
+    },
+    {
+      "name": "is-color-yellow-9",
+      "description": "Color Yellow 9",
+      "documentation": "Hex: #4D4D00",
+      "color": "#4D4D00"
+    },
+    {
+      "name": "is-color-yellow-10",
+      "description": "Color Yellow 10",
+      "documentation": "Hex: #1A1A00",
+      "color": "#1A1A00"
+    },
+    {
+      "name": "is-bg-yellow-1",
+      "description": "Background Yellow 1",
+      "documentation": "Hex: #fffde7",
+      "color": "#fffde7"
+    },
+    {
+      "name": "is-bg-yellow-2",
+      "description": "Background Yellow 2",
+      "documentation": "Hex: #fff9c4",
+      "color": "#fff9c4"
+    },
+    {
+      "name": "is-bg-yellow-3",
+      "description": "Background Yellow 3",
+      "documentation": "Hex: #fff176",
+      "color": "#fff176"
+    },
+    {
+      "name": "is-bg-yellow-4",
+      "description": "Background Yellow 4",
+      "documentation": "Hex: #ffeb3b",
+      "color": "#ffeb3b"
+    },
+    {
+      "name": "is-bg-yellow-5",
+      "description": "Background Yellow 5",
+      "documentation": "Hex: #eab308",
+      "color": "#eab308"
+    },
+    {
+      "name": "is-bg-yellow-6",
+      "description": "Background Yellow 6",
+      "documentation": "Hex: #ca8a04",
+      "color": "#ca8a04"
+    },
+    {
+      "name": "is-bg-yellow-7",
+      "description": "Background Yellow 7",
+      "documentation": "Hex: #a16207",
+      "color": "#a16207"
+    },
+    {
+      "name": "is-bg-yellow-8",
+      "description": "Background Yellow 8",
+      "documentation": "Hex: #854d0e",
+      "color": "#854d0e"
+    },
+    {
+      "name": "is-bg-yellow-9",
+      "description": "Background Yellow 9",
+      "documentation": "Hex: #713f12",
+      "color": "#713f12"
+    },
+    {
+      "name": "is-bg-yellow-10",
+      "description": "Background Yellow 10",
+      "documentation": "Hex: #5a3410",
+      "color": "#5a3410"
+    },
+    {
+      "name": "is-color-green-1",
+      "description": "Color Green 1",
+      "documentation": "Hex: #E6FFE6",
+      "color": "#E6FFE6"
+    },
+    {
+      "name": "is-color-green-2",
+      "description": "Color Green 2",
+      "documentation": "Hex: #B3FFB3",
+      "color": "#B3FFB3"
+    },
+    {
+      "name": "is-color-green-3",
+      "description": "Color Green 3",
+      "documentation": "Hex: #80FF80",
+      "color": "#80FF80"
+    },
+    {
+      "name": "is-color-green-4",
+      "description": "Color Green 4",
+      "documentation": "Hex: #4DFF4D",
+      "color": "#4DFF4D"
+    },
+    {
+      "name": "is-color-green-5",
+      "description": "Color Green 5",
+      "documentation": "Hex: #1AFF1A",
+      "color": "#1AFF1A"
+    },
+    {
+      "name": "is-color-green-6",
+      "description": "Color Green 6",
+      "documentation": "Hex: #00E600",
+      "color": "#00E600"
+    },
+    {
+      "name": "is-color-green-7",
+      "description": "Color Green 7",
+      "documentation": "Hex: #00B300",
+      "color": "#00B300"
+    },
+    {
+      "name": "is-color-green-8",
+      "description": "Color Green 8",
+      "documentation": "Hex: #008000",
+      "color": "#008000"
+    },
+    {
+      "name": "is-color-green-9",
+      "description": "Color Green 9",
+      "documentation": "Hex: #004D00",
+      "color": "#004D00"
+    },
+    {
+      "name": "is-color-green-10",
+      "description": "Color Green 10",
+      "documentation": "Hex: #001A00",
+      "color": "#001A00"
+    },
+    {
+      "name": "is-bg-green-1",
+      "description": "Background Green 1",
+      "documentation": "Hex: #e6fce6",
+      "color": "#e6fce6"
+    },
+    {
+      "name": "is-bg-green-2",
+      "description": "Background Green 2",
+      "documentation": "Hex: #b2f2b2",
+      "color": "#b2f2b2"
+    },
+    {
+      "name": "is-bg-green-3",
+      "description": "Background Green 3",
+      "documentation": "Hex: #75e175",
+      "color": "#75e175"
+    },
+    {
+      "name": "is-bg-green-4",
+      "description": "Background Green 4",
+      "documentation": "Hex: #4ade80",
+      "color": "#4ade80"
+    },
+    {
+      "name": "is-bg-green-5",
+      "description": "Background Green 5",
+      "documentation": "Hex: #22c55e",
+      "color": "#22c55e"
+    },
+    {
+      "name": "is-bg-green-6",
+      "description": "Background Green 6",
+      "documentation": "Hex: #16a34a",
+      "color": "#16a34a"
+    },
+    {
+      "name": "is-bg-green-7",
+      "description": "Background Green 7",
+      "documentation": "Hex: #15803d",
+      "color": "#15803d"
+    },
+    {
+      "name": "is-bg-green-8",
+      "description": "Background Green 8",
+      "documentation": "Hex: #166534",
+      "color": "#166534"
+    },
+    {
+      "name": "is-bg-green-9",
+      "description": "Background Green 9",
+      "documentation": "Hex: #14532d",
+      "color": "#14532d"
+    },
+    {
+      "name": "is-bg-green-10",
+      "description": "Background Green 10",
+      "documentation": "Hex: #0e3f21",
+      "color": "#0e3f21"
+    },
+    {
+      "name": "is-color-blue-1",
+      "description": "Color Blue 1",
+      "documentation": "Hex: #E6F0FF",
+      "color": "#E6F0FF"
+    },
+    {
+      "name": "is-color-blue-2",
+      "description": "Color Blue 2",
+      "documentation": "Hex: #B3D1FF",
+      "color": "#B3D1FF"
+    },
+    {
+      "name": "is-color-blue-3",
+      "description": "Color Blue 3",
+      "documentation": "Hex: #80B3FF",
+      "color": "#80B3FF"
+    },
+    {
+      "name": "is-color-blue-4",
+      "description": "Color Blue 4",
+      "documentation": "Hex: #4D94FF",
+      "color": "#4D94FF"
+    },
+    {
+      "name": "is-color-blue-5",
+      "description": "Color Blue 5",
+      "documentation": "Hex: #1A75FF",
+      "color": "#1A75FF"
+    },
+    {
+      "name": "is-color-blue-6",
+      "description": "Color Blue 6",
+      "documentation": "Hex: #005CE6",
+      "color": "#005CE6"
+    },
+    {
+      "name": "is-color-blue-7",
+      "description": "Color Blue 7",
+      "documentation": "Hex: #0047B3",
+      "color": "#0047B3"
+    },
+    {
+      "name": "is-color-blue-8",
+      "description": "Color Blue 8",
+      "documentation": "Hex: #003280",
+      "color": "#003280"
+    },
+    {
+      "name": "is-color-blue-9",
+      "description": "Color Blue 9",
+      "documentation": "Hex: #001D4D",
+      "color": "#001D4D"
+    },
+    {
+      "name": "is-color-blue-10",
+      "description": "Color Blue 10",
+      "documentation": "Hex: #00091A",
+      "color": "#00091A"
+    },
+    {
+      "name": "is-bg-blue-1",
+      "description": "Background Blue 1",
+      "documentation": "Hex: #ebf8ff",
+      "color": "#ebf8ff"
+    },
+    {
+      "name": "is-bg-blue-2",
+      "description": "Background Blue 2",
+      "documentation": "Hex: #bee3f8",
+      "color": "#bee3f8"
+    },
+    {
+      "name": "is-bg-blue-3",
+      "description": "Background Blue 3",
+      "documentation": "Hex: #90cdf4",
+      "color": "#90cdf4"
+    },
+    {
+      "name": "is-bg-blue-4",
+      "description": "Background Blue 4",
+      "documentation": "Hex: #63b3ed",
+      "color": "#63b3ed"
+    },
+    {
+      "name": "is-bg-blue-5",
+      "description": "Background Blue 5",
+      "documentation": "Hex: #4299e1",
+      "color": "#4299e1"
+    },
+    {
+      "name": "is-bg-blue-6",
+      "description": "Background Blue 6",
+      "documentation": "Hex: #3182ce",
+      "color": "#3182ce"
+    },
+    {
+      "name": "is-bg-blue-7",
+      "description": "Background Blue 7",
+      "documentation": "Hex: #2b6cb0",
+      "color": "#2b6cb0"
+    },
+    {
+      "name": "is-bg-blue-8",
+      "description": "Background Blue 8",
+      "documentation": "Hex: #2c5282",
+      "color": "#2c5282"
+    },
+    {
+      "name": "is-bg-blue-9",
+      "description": "Background Blue 9",
+      "documentation": "Hex: #2a4365",
+      "color": "#2a4365"
+    },
+    {
+      "name": "is-bg-blue-10",
+      "description": "Background Blue 10",
+      "documentation": "Hex: #1a365d",
+      "color": "#1a365d"
+    },
+    {
+      "name": "is-color-purple-1",
+      "description": "Color Purple 1",
+      "documentation": "Hex: #F3E6FF",
+      "color": "#F3E6FF"
+    },
+    {
+      "name": "is-color-purple-2",
+      "description": "Color Purple 2",
+      "documentation": "Hex: #D9B3FF",
+      "color": "#D9B3FF"
+    },
+    {
+      "name": "is-color-purple-3",
+      "description": "Color Purple 3",
+      "documentation": "Hex: #BF80FF",
+      "color": "#BF80FF"
+    },
+    {
+      "name": "is-color-purple-4",
+      "description": "Color Purple 4",
+      "documentation": "Hex: #A64DFF",
+      "color": "#A64DFF"
+    },
+    {
+      "name": "is-color-purple-5",
+      "description": "Color Purple 5",
+      "documentation": "Hex: #8C1AFF",
+      "color": "#8C1AFF"
+    },
+    {
+      "name": "is-color-purple-6",
+      "description": "Color Purple 6",
+      "documentation": "Hex: #7300E6",
+      "color": "#7300E6"
+    },
+    {
+      "name": "is-color-purple-7",
+      "description": "Color Purple 7",
+      "documentation": "Hex: #5900B3",
+      "color": "#5900B3"
+    },
+    {
+      "name": "is-color-purple-8",
+      "description": "Color Purple 8",
+      "documentation": "Hex: #400080",
+      "color": "#400080"
+    },
+    {
+      "name": "is-color-purple-9",
+      "description": "Color Purple 9",
+      "documentation": "Hex: #26004D",
+      "color": "#26004D"
+    },
+    {
+      "name": "is-color-purple-10",
+      "description": "Color Purple 10",
+      "documentation": "Hex: #0D001A",
+      "color": "#0D001A"
+    },
+    {
+      "name": "is-bg-purple-1",
+      "description": "Background Purple 1",
+      "documentation": "Hex: #f3e8ff",
+      "color": "#f3e8ff"
+    },
+    {
+      "name": "is-bg-purple-2",
+      "description": "Background Purple 2",
+      "documentation": "Hex: #e9d5ff",
+      "color": "#e9d5ff"
+    },
+    {
+      "name": "is-bg-purple-3",
+      "description": "Background Purple 3",
+      "documentation": "Hex: #d8b4fe",
+      "color": "#d8b4fe"
+    },
+    {
+      "name": "is-bg-purple-4",
+      "description": "Background Purple 4",
+      "documentation": "Hex: #c084fc",
+      "color": "#c084fc"
+    },
+    {
+      "name": "is-bg-purple-5",
+      "description": "Background Purple 5",
+      "documentation": "Hex: #a855f7",
+      "color": "#a855f7"
+    },
+    {
+      "name": "is-bg-purple-6",
+      "description": "Background Purple 6",
+      "documentation": "Hex: #9333ea",
+      "color": "#9333ea"
+    },
+    {
+      "name": "is-bg-purple-7",
+      "description": "Background Purple 7",
+      "documentation": "Hex: #7e22ce",
+      "color": "#7e22ce"
+    },
+    {
+      "name": "is-bg-purple-8",
+      "description": "Background Purple 8",
+      "documentation": "Hex: #6b21a8",
+      "color": "#6b21a8"
+    },
+    {
+      "name": "is-bg-purple-9",
+      "description": "Background Purple 9",
+      "documentation": "Hex: #581c87",
+      "color": "#581c87"
+    },
+    {
+      "name": "is-bg-purple-10",
+      "description": "Background Purple 10",
+      "documentation": "Hex: #3b0764",
+      "color": "#3b0764"
+    },
+    {
+      "name": "is-color-blush-1",
+      "description": "Color Blush 1",
+      "documentation": "Hex: #FFF0F3",
+      "color": "#FFF0F3"
+    },
+    {
+      "name": "is-color-blush-2",
+      "description": "Color Blush 2",
+      "documentation": "Hex: #FFD9DF",
+      "color": "#FFD9DF"
+    },
+    {
+      "name": "is-color-blush-3",
+      "description": "Color Blush 3",
+      "documentation": "Hex: #FFC0C9",
+      "color": "#FFC0C9"
+    },
+    {
+      "name": "is-color-blush-4",
+      "description": "Color Blush 4",
+      "documentation": "Hex: #FFA7B3",
+      "color": "#FFA7B3"
+    },
+    {
+      "name": "is-color-blush-5",
+      "description": "Color Blush 5",
+      "documentation": "Hex: #FF8C9C",
+      "color": "#FF8C9C"
+    },
+    {
+      "name": "is-color-blush-6",
+      "description": "Color Blush 6",
+      "documentation": "Hex: #FF6B81",
+      "color": "#FF6B81"
+    },
+    {
+      "name": "is-color-blush-7",
+      "description": "Color Blush 7",
+      "documentation": "Hex: #E0546A",
+      "color": "#E0546A"
+    },
+    {
+      "name": "is-color-blush-8",
+      "description": "Color Blush 8",
+      "documentation": "Hex: #B34053",
+      "color": "#B34053"
+    },
+    {
+      "name": "is-color-blush-9",
+      "description": "Color Blush 9",
+      "documentation": "Hex: #802D3B",
+      "color": "#802D3B"
+    },
+    {
+      "name": "is-color-blush-10",
+      "description": "Color Blush 10",
+      "documentation": "Hex: #4D1A24",
+      "color": "#4D1A24"
+    },
+    {
+      "name": "is-bg-blush-1",
+      "description": "Background Blush 1",
+      "documentation": "Hex: #FFF0F3",
+      "color": "#FFF0F3"
+    },
+    {
+      "name": "is-bg-blush-2",
+      "description": "Background Blush 2",
+      "documentation": "Hex: #FFD9DF",
+      "color": "#FFD9DF"
+    },
+    {
+      "name": "is-bg-blush-3",
+      "description": "Background Blush 3",
+      "documentation": "Hex: #FFC0C9",
+      "color": "#FFC0C9"
+    },
+    {
+      "name": "is-bg-blush-4",
+      "description": "Background Blush 4",
+      "documentation": "Hex: #FFA7B3",
+      "color": "#FFA7B3"
+    },
+    {
+      "name": "is-bg-blush-5",
+      "description": "Background Blush 5",
+      "documentation": "Hex: #FF8C9C",
+      "color": "#FF8C9C"
+    },
+    {
+      "name": "is-bg-blush-6",
+      "description": "Background Blush 6",
+      "documentation": "Hex: #FF6B81",
+      "color": "#FF6B81"
+    },
+    {
+      "name": "is-bg-blush-7",
+      "description": "Background Blush 7",
+      "documentation": "Hex: #E0546A",
+      "color": "#E0546A"
+    },
+    {
+      "name": "is-bg-blush-8",
+      "description": "Background Blush 8",
+      "documentation": "Hex: #B34053",
+      "color": "#B34053"
+    },
+    {
+      "name": "is-bg-blush-9",
+      "description": "Background Blush 9",
+      "documentation": "Hex: #802D3B",
+      "color": "#802D3B"
+    },
+    {
+      "name": "is-bg-blush-10",
+      "description": "Background Blush 10",
+      "documentation": "Hex: #4D1A24",
+      "color": "#4D1A24"
+    },
+    {
+      "name": "is-color-peach-1",
+      "description": "Color Peach 1",
+      "documentation": "Hex: #FFF3EC",
+      "color": "#FFF3EC"
+    },
+    {
+      "name": "is-color-peach-2",
+      "description": "Color Peach 2",
+      "documentation": "Hex: #FFE0D0",
+      "color": "#FFE0D0"
+    },
+    {
+      "name": "is-color-peach-3",
+      "description": "Color Peach 3",
+      "documentation": "Hex: #FFCAB3",
+      "color": "#FFCAB3"
+    },
+    {
+      "name": "is-color-peach-4",
+      "description": "Color Peach 4",
+      "documentation": "Hex: #FFAD8C",
+      "color": "#FFAD8C"
+    },
+    {
+      "name": "is-color-peach-5",
+      "description": "Color Peach 5",
+      "documentation": "Hex: #FF9266",
+      "color": "#FF9266"
+    },
+    {
+      "name": "is-color-peach-6",
+      "description": "Color Peach 6",
+      "documentation": "Hex: #FF7043",
+      "color": "#FF7043"
+    },
+    {
+      "name": "is-color-peach-7",
+      "description": "Color Peach 7",
+      "documentation": "Hex: #E65F36",
+      "color": "#E65F36"
+    },
+    {
+      "name": "is-color-peach-8",
+      "description": "Color Peach 8",
+      "documentation": "Hex: #B34A2A",
+      "color": "#B34A2A"
+    },
+    {
+      "name": "is-color-peach-9",
+      "description": "Color Peach 9",
+      "documentation": "Hex: #80351F",
+      "color": "#80351F"
+    },
+    {
+      "name": "is-color-peach-10",
+      "description": "Color Peach 10",
+      "documentation": "Hex: #4D2113",
+      "color": "#4D2113"
+    },
+    {
+      "name": "is-bg-peach-1",
+      "description": "Background Peach 1",
+      "documentation": "Hex: #FFF3EC",
+      "color": "#FFF3EC"
+    },
+    {
+      "name": "is-bg-peach-2",
+      "description": "Background Peach 2",
+      "documentation": "Hex: #FFE0D0",
+      "color": "#FFE0D0"
+    },
+    {
+      "name": "is-bg-peach-3",
+      "description": "Background Peach 3",
+      "documentation": "Hex: #FFCAB3",
+      "color": "#FFCAB3"
+    },
+    {
+      "name": "is-bg-peach-4",
+      "description": "Background Peach 4",
+      "documentation": "Hex: #FFAD8C",
+      "color": "#FFAD8C"
+    },
+    {
+      "name": "is-bg-peach-5",
+      "description": "Background Peach 5",
+      "documentation": "Hex: #FF9266",
+      "color": "#FF9266"
+    },
+    {
+      "name": "is-bg-peach-6",
+      "description": "Background Peach 6",
+      "documentation": "Hex: #FF7043",
+      "color": "#FF7043"
+    },
+    {
+      "name": "is-bg-peach-7",
+      "description": "Background Peach 7",
+      "documentation": "Hex: #E65F36",
+      "color": "#E65F36"
+    },
+    {
+      "name": "is-bg-peach-8",
+      "description": "Background Peach 8",
+      "documentation": "Hex: #B34A2A",
+      "color": "#B34A2A"
+    },
+    {
+      "name": "is-bg-peach-9",
+      "description": "Background Peach 9",
+      "documentation": "Hex: #80351F",
+      "color": "#80351F"
+    },
+    {
+      "name": "is-bg-peach-10",
+      "description": "Background Peach 10",
+      "documentation": "Hex: #4D2113",
+      "color": "#4D2113"
+    },
+    {
+      "name": "is-color-amber-1",
+      "description": "Color Amber 1",
+      "documentation": "Hex: #FFF8E1",
+      "color": "#FFF8E1"
+    },
+    {
+      "name": "is-color-amber-2",
+      "description": "Color Amber 2",
+      "documentation": "Hex: #FFECB3",
+      "color": "#FFECB3"
+    },
+    {
+      "name": "is-color-amber-3",
+      "description": "Color Amber 3",
+      "documentation": "Hex: #FFE082",
+      "color": "#FFE082"
+    },
+    {
+      "name": "is-color-amber-4",
+      "description": "Color Amber 4",
+      "documentation": "Hex: #FFD54F",
+      "color": "#FFD54F"
+    },
+    {
+      "name": "is-color-amber-5",
+      "description": "Color Amber 5",
+      "documentation": "Hex: #FFCA28",
+      "color": "#FFCA28"
+    },
+    {
+      "name": "is-color-amber-6",
+      "description": "Color Amber 6",
+      "documentation": "Hex: #FFC107",
+      "color": "#FFC107"
+    },
+    {
+      "name": "is-color-amber-7",
+      "description": "Color Amber 7",
+      "documentation": "Hex: #FFB300",
+      "color": "#FFB300"
+    },
+    {
+      "name": "is-color-amber-8",
+      "description": "Color Amber 8",
+      "documentation": "Hex: #FFA000",
+      "color": "#FFA000"
+    },
+    {
+      "name": "is-color-amber-9",
+      "description": "Color Amber 9",
+      "documentation": "Hex: #FF8F00",
+      "color": "#FF8F00"
+    },
+    {
+      "name": "is-color-amber-10",
+      "description": "Color Amber 10",
+      "documentation": "Hex: #FF6F00",
+      "color": "#FF6F00"
+    },
+    {
+      "name": "is-bg-amber-1",
+      "description": "Background Amber 1",
+      "documentation": "Hex: #FFF8E1",
+      "color": "#FFF8E1"
+    },
+    {
+      "name": "is-bg-amber-2",
+      "description": "Background Amber 2",
+      "documentation": "Hex: #FFECB3",
+      "color": "#FFECB3"
+    },
+    {
+      "name": "is-bg-amber-3",
+      "description": "Background Amber 3",
+      "documentation": "Hex: #FFE082",
+      "color": "#FFE082"
+    },
+    {
+      "name": "is-bg-amber-4",
+      "description": "Background Amber 4",
+      "documentation": "Hex: #FFD54F",
+      "color": "#FFD54F"
+    },
+    {
+      "name": "is-bg-amber-5",
+      "description": "Background Amber 5",
+      "documentation": "Hex: #FFCA28",
+      "color": "#FFCA28"
+    },
+    {
+      "name": "is-bg-amber-6",
+      "description": "Background Amber 6",
+      "documentation": "Hex: #FFC107",
+      "color": "#FFC107"
+    },
+    {
+      "name": "is-bg-amber-7",
+      "description": "Background Amber 7",
+      "documentation": "Hex: #FFB300",
+      "color": "#FFB300"
+    },
+    {
+      "name": "is-bg-amber-8",
+      "description": "Background Amber 8",
+      "documentation": "Hex: #FFA000",
+      "color": "#FFA000"
+    },
+    {
+      "name": "is-bg-amber-9",
+      "description": "Background Amber 9",
+      "documentation": "Hex: #FF8F00",
+      "color": "#FF8F00"
+    },
+    {
+      "name": "is-bg-amber-10",
+      "description": "Background Amber 10",
+      "documentation": "Hex: #FF6F00",
+      "color": "#FF6F00"
+    },
+    {
+      "name": "is-color-zest-1",
+      "description": "Color Zest 1",
+      "documentation": "Hex: #f7fee7",
+      "color": "#f7fee7"
+    },
+    {
+      "name": "is-color-zest-2",
+      "description": "Color Zest 2",
+      "documentation": "Hex: #ecfccb",
+      "color": "#ecfccb"
+    },
+    {
+      "name": "is-color-zest-3",
+      "description": "Color Zest 3",
+      "documentation": "Hex: #d9f99d",
+      "color": "#d9f99d"
+    },
+    {
+      "name": "is-color-zest-4",
+      "description": "Color Zest 4",
+      "documentation": "Hex: #bef264",
+      "color": "#bef264"
+    },
+    {
+      "name": "is-color-zest-5",
+      "description": "Color Zest 5",
+      "documentation": "Hex: #a3e635",
+      "color": "#a3e635"
+    },
+    {
+      "name": "is-color-zest-6",
+      "description": "Color Zest 6",
+      "documentation": "Hex: #84cc16",
+      "color": "#84cc16"
+    },
+    {
+      "name": "is-color-zest-7",
+      "description": "Color Zest 7",
+      "documentation": "Hex: #65a30d",
+      "color": "#65a30d"
+    },
+    {
+      "name": "is-color-zest-8",
+      "description": "Color Zest 8",
+      "documentation": "Hex: #4d7c0f",
+      "color": "#4d7c0f"
+    },
+    {
+      "name": "is-color-zest-9",
+      "description": "Color Zest 9",
+      "documentation": "Hex: #3f6212",
+      "color": "#3f6212"
+    },
+    {
+      "name": "is-color-zest-10",
+      "description": "Color Zest 10",
+      "documentation": "Hex: #365314",
+      "color": "#365314"
+    },
+    {
+      "name": "is-bg-zest-1",
+      "description": "Background Zest 1",
+      "documentation": "Hex: #f7fee7",
+      "color": "#f7fee7"
+    },
+    {
+      "name": "is-bg-zest-2",
+      "description": "Background Zest 2",
+      "documentation": "Hex: #ecfccb",
+      "color": "#ecfccb"
+    },
+    {
+      "name": "is-bg-zest-3",
+      "description": "Background Zest 3",
+      "documentation": "Hex: #d9f99d",
+      "color": "#d9f99d"
+    },
+    {
+      "name": "is-bg-zest-4",
+      "description": "Background Zest 4",
+      "documentation": "Hex: #bef264",
+      "color": "#bef264"
+    },
+    {
+      "name": "is-bg-zest-5",
+      "description": "Background Zest 5",
+      "documentation": "Hex: #a3e635",
+      "color": "#a3e635"
+    },
+    {
+      "name": "is-bg-zest-6",
+      "description": "Background Zest 6",
+      "documentation": "Hex: #84cc16",
+      "color": "#84cc16"
+    },
+    {
+      "name": "is-bg-zest-7",
+      "description": "Background Zest 7",
+      "documentation": "Hex: #65a30d",
+      "color": "#65a30d"
+    },
+    {
+      "name": "is-bg-zest-8",
+      "description": "Background Zest 8",
+      "documentation": "Hex: #4d7c0f",
+      "color": "#4d7c0f"
+    },
+    {
+      "name": "is-bg-zest-9",
+      "description": "Background Zest 9",
+      "documentation": "Hex: #3f6212",
+      "color": "#3f6212"
+    },
+    {
+      "name": "is-bg-zest-10",
+      "description": "Background Zest 10",
+      "documentation": "Hex: #365314",
+      "color": "#365314"
+    },
+    {
+      "name": "is-color-frost-1",
+      "description": "Color Frost 1",
+      "documentation": "Hex: #ecfeff",
+      "color": "#ecfeff"
+    },
+    {
+      "name": "is-color-frost-2",
+      "description": "Color Frost 2",
+      "documentation": "Hex: #cffafe",
+      "color": "#cffafe"
+    },
+    {
+      "name": "is-color-frost-3",
+      "description": "Color Frost 3",
+      "documentation": "Hex: #a5f3fc",
+      "color": "#a5f3fc"
+    },
+    {
+      "name": "is-color-frost-4",
+      "description": "Color Frost 4",
+      "documentation": "Hex: #67e8f9",
+      "color": "#67e8f9"
+    },
+    {
+      "name": "is-color-frost-5",
+      "description": "Color Frost 5",
+      "documentation": "Hex: #22d3ee",
+      "color": "#22d3ee"
+    },
+    {
+      "name": "is-color-frost-6",
+      "description": "Color Frost 6",
+      "documentation": "Hex: #06b6d4",
+      "color": "#06b6d4"
+    },
+    {
+      "name": "is-color-frost-7",
+      "description": "Color Frost 7",
+      "documentation": "Hex: #0891b2",
+      "color": "#0891b2"
+    },
+    {
+      "name": "is-color-frost-8",
+      "description": "Color Frost 8",
+      "documentation": "Hex: #0e7490",
+      "color": "#0e7490"
+    },
+    {
+      "name": "is-color-frost-9",
+      "description": "Color Frost 9",
+      "documentation": "Hex: #155e75",
+      "color": "#155e75"
+    },
+    {
+      "name": "is-color-frost-10",
+      "description": "Color Frost 10",
+      "documentation": "Hex: #164e63",
+      "color": "#164e63"
+    },
+    {
+      "name": "is-bg-frost-1",
+      "description": "Background Frost 1",
+      "documentation": "Hex: #ecfeff",
+      "color": "#ecfeff"
+    },
+    {
+      "name": "is-bg-frost-2",
+      "description": "Background Frost 2",
+      "documentation": "Hex: #cffafe",
+      "color": "#cffafe"
+    },
+    {
+      "name": "is-bg-frost-3",
+      "description": "Background Frost 3",
+      "documentation": "Hex: #a5f3fc",
+      "color": "#a5f3fc"
+    },
+    {
+      "name": "is-bg-frost-4",
+      "description": "Background Frost 4",
+      "documentation": "Hex: #67e8f9",
+      "color": "#67e8f9"
+    },
+    {
+      "name": "is-bg-frost-5",
+      "description": "Background Frost 5",
+      "documentation": "Hex: #22d3ee",
+      "color": "#22d3ee"
+    },
+    {
+      "name": "is-bg-frost-6",
+      "description": "Background Frost 6",
+      "documentation": "Hex: #06b6d4",
+      "color": "#06b6d4"
+    },
+    {
+      "name": "is-bg-frost-7",
+      "description": "Background Frost 7",
+      "documentation": "Hex: #0891b2",
+      "color": "#0891b2"
+    },
+    {
+      "name": "is-bg-frost-8",
+      "description": "Background Frost 8",
+      "documentation": "Hex: #0e7490",
+      "color": "#0e7490"
+    },
+    {
+      "name": "is-bg-frost-9",
+      "description": "Background Frost 9",
+      "documentation": "Hex: #155e75",
+      "color": "#155e75"
+    },
+    {
+      "name": "is-bg-frost-10",
+      "description": "Background Frost 10",
+      "documentation": "Hex: #164e63",
+      "color": "#164e63"
+    },
+    {
+      "name": "is-color-twilight-1",
+      "description": "Color Twilight 1",
+      "documentation": "Hex: #EEF0FF",
+      "color": "#EEF0FF"
+    },
+    {
+      "name": "is-color-twilight-2",
+      "description": "Color Twilight 2",
+      "documentation": "Hex: #D1D6FF",
+      "color": "#D1D6FF"
+    },
+    {
+      "name": "is-color-twilight-3",
+      "description": "Color Twilight 3",
+      "documentation": "Hex: #B3BBFF",
+      "color": "#B3BBFF"
+    },
+    {
+      "name": "is-color-twilight-4",
+      "description": "Color Twilight 4",
+      "documentation": "Hex: #949EFF",
+      "color": "#949EFF"
+    },
+    {
+      "name": "is-color-twilight-5",
+      "description": "Color Twilight 5",
+      "documentation": "Hex: #767FFF",
+      "color": "#767FFF"
+    },
+    {
+      "name": "is-color-twilight-6",
+      "description": "Color Twilight 6",
+      "documentation": "Hex: #5B61FF",
+      "color": "#5B61FF"
+    },
+    {
+      "name": "is-color-twilight-7",
+      "description": "Color Twilight 7",
+      "documentation": "Hex: #444ACC",
+      "color": "#444ACC"
+    },
+    {
+      "name": "is-color-twilight-8",
+      "description": "Color Twilight 8",
+      "documentation": "Hex: #333899",
+      "color": "#333899"
+    },
+    {
+      "name": "is-color-twilight-9",
+      "description": "Color Twilight 9",
+      "documentation": "Hex: #222566",
+      "color": "#222566"
+    },
+    {
+      "name": "is-color-twilight-10",
+      "description": "Color Twilight 10",
+      "documentation": "Hex: #111233",
+      "color": "#111233"
+    },
+    {
+      "name": "is-bg-twilight-1",
+      "description": "Background Twilight 1",
+      "documentation": "Hex: #EEF0FF",
+      "color": "#EEF0FF"
+    },
+    {
+      "name": "is-bg-twilight-2",
+      "description": "Background Twilight 2",
+      "documentation": "Hex: #D1D6FF",
+      "color": "#D1D6FF"
+    },
+    {
+      "name": "is-bg-twilight-3",
+      "description": "Background Twilight 3",
+      "documentation": "Hex: #B3BBFF",
+      "color": "#B3BBFF"
+    },
+    {
+      "name": "is-bg-twilight-4",
+      "description": "Background Twilight 4",
+      "documentation": "Hex: #949EFF",
+      "color": "#949EFF"
+    },
+    {
+      "name": "is-bg-twilight-5",
+      "description": "Background Twilight 5",
+      "documentation": "Hex: #767FFF",
+      "color": "#767FFF"
+    },
+    {
+      "name": "is-bg-twilight-6",
+      "description": "Background Twilight 6",
+      "documentation": "Hex: #5B61FF",
+      "color": "#5B61FF"
+    },
+    {
+      "name": "is-bg-twilight-7",
+      "description": "Background Twilight 7",
+      "documentation": "Hex: #444ACC",
+      "color": "#444ACC"
+    },
+    {
+      "name": "is-bg-twilight-8",
+      "description": "Background Twilight 8",
+      "documentation": "Hex: #333899",
+      "color": "#333899"
+    },
+    {
+      "name": "is-bg-twilight-9",
+      "description": "Background Twilight 9",
+      "documentation": "Hex: #222566",
+      "color": "#222566"
+    },
+    {
+      "name": "is-bg-twilight-10",
+      "description": "Background Twilight 10",
+      "documentation": "Hex: #111233",
+      "color": "#111233"
+    },
+    {
+      "name": "is-color-dune-1",
+      "description": "Color Dune 1",
+      "documentation": "Hex: #fafaf9",
+      "color": "#fafaf9"
+    },
+    {
+      "name": "is-color-dune-2",
+      "description": "Color Dune 2",
+      "documentation": "Hex: #f5f5f4",
+      "color": "#f5f5f4"
+    },
+    {
+      "name": "is-color-dune-3",
+      "description": "Color Dune 3",
+      "documentation": "Hex: #e7e5e4",
+      "color": "#e7e5e4"
+    },
+    {
+      "name": "is-color-dune-4",
+      "description": "Color Dune 4",
+      "documentation": "Hex: #d6d3d1",
+      "color": "#d6d3d1"
+    },
+    {
+      "name": "is-color-dune-5",
+      "description": "Color Dune 5",
+      "documentation": "Hex: #a8a29e",
+      "color": "#a8a29e"
+    },
+    {
+      "name": "is-color-dune-6",
+      "description": "Color Dune 6",
+      "documentation": "Hex: #78716c",
+      "color": "#78716c"
+    },
+    {
+      "name": "is-color-dune-7",
+      "description": "Color Dune 7",
+      "documentation": "Hex: #57534e",
+      "color": "#57534e"
+    },
+    {
+      "name": "is-color-dune-8",
+      "description": "Color Dune 8",
+      "documentation": "Hex: #44403c",
+      "color": "#44403c"
+    },
+    {
+      "name": "is-color-dune-9",
+      "description": "Color Dune 9",
+      "documentation": "Hex: #292524",
+      "color": "#292524"
+    },
+    {
+      "name": "is-color-dune-10",
+      "description": "Color Dune 10",
+      "documentation": "Hex: #1c1917",
+      "color": "#1c1917"
+    },
+    {
+      "name": "is-bg-dune-1",
+      "description": "Background Dune 1",
+      "documentation": "Hex: #fafaf9",
+      "color": "#fafaf9"
+    },
+    {
+      "name": "is-bg-dune-2",
+      "description": "Background Dune 2",
+      "documentation": "Hex: #f5f5f4",
+      "color": "#f5f5f4"
+    },
+    {
+      "name": "is-bg-dune-3",
+      "description": "Background Dune 3",
+      "documentation": "Hex: #e7e5e4",
+      "color": "#e7e5e4"
+    },
+    {
+      "name": "is-bg-dune-4",
+      "description": "Background Dune 4",
+      "documentation": "Hex: #d6d3d1",
+      "color": "#d6d3d1"
+    },
+    {
+      "name": "is-bg-dune-5",
+      "description": "Background Dune 5",
+      "documentation": "Hex: #a8a29e",
+      "color": "#a8a29e"
+    },
+    {
+      "name": "is-bg-dune-6",
+      "description": "Background Dune 6",
+      "documentation": "Hex: #78716c",
+      "color": "#78716c"
+    },
+    {
+      "name": "is-bg-dune-7",
+      "description": "Background Dune 7",
+      "documentation": "Hex: #57534e",
+      "color": "#57534e"
+    },
+    {
+      "name": "is-bg-dune-8",
+      "description": "Background Dune 8",
+      "documentation": "Hex: #44403c",
+      "color": "#44403c"
+    },
+    {
+      "name": "is-bg-dune-9",
+      "description": "Background Dune 9",
+      "documentation": "Hex: #292524",
+      "color": "#292524"
+    },
+    {
+      "name": "is-bg-dune-10",
+      "description": "Background Dune 10",
+      "documentation": "Hex: #1c1917",
+      "color": "#1c1917"
+    },
+    {
+      "name": "is-color-cloud-1",
+      "description": "Color Cloud 1",
+      "documentation": "Hex: #ffffff",
+      "color": "#ffffff"
+    },
+    {
+      "name": "is-color-cloud-2",
+      "description": "Color Cloud 2",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-color-cloud-3",
+      "description": "Color Cloud 3",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-color-cloud-4",
+      "description": "Color Cloud 4",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-color-cloud-5",
+      "description": "Color Cloud 5",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-color-cloud-6",
+      "description": "Color Cloud 6",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-color-cloud-7",
+      "description": "Color Cloud 7",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-color-cloud-8",
+      "description": "Color Cloud 8",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-color-cloud-9",
+      "description": "Color Cloud 9",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-color-cloud-10",
+      "description": "Color Cloud 10",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-bg-cloud-1",
+      "description": "Background Cloud 1",
+      "documentation": "Hex: #ffffff",
+      "color": "#ffffff"
+    },
+    {
+      "name": "is-bg-cloud-2",
+      "description": "Background Cloud 2",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-bg-cloud-3",
+      "description": "Background Cloud 3",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-bg-cloud-4",
+      "description": "Background Cloud 4",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-bg-cloud-5",
+      "description": "Background Cloud 5",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-bg-cloud-6",
+      "description": "Background Cloud 6",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-bg-cloud-7",
+      "description": "Background Cloud 7",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-bg-cloud-8",
+      "description": "Background Cloud 8",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-bg-cloud-9",
+      "description": "Background Cloud 9",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-bg-cloud-10",
+      "description": "Background Cloud 10",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-color-mist-1",
+      "description": "Color Mist 1",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-color-mist-2",
+      "description": "Color Mist 2",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-color-mist-3",
+      "description": "Color Mist 3",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-color-mist-4",
+      "description": "Color Mist 4",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-color-mist-5",
+      "description": "Color Mist 5",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-color-mist-6",
+      "description": "Color Mist 6",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-color-mist-7",
+      "description": "Color Mist 7",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-color-mist-8",
+      "description": "Color Mist 8",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-color-mist-9",
+      "description": "Color Mist 9",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-color-mist-10",
+      "description": "Color Mist 10",
+      "documentation": "Hex: #111827",
+      "color": "#111827"
+    },
+    {
+      "name": "is-bg-mist-1",
+      "description": "Background Mist 1",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-bg-mist-2",
+      "description": "Background Mist 2",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-bg-mist-3",
+      "description": "Background Mist 3",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-bg-mist-4",
+      "description": "Background Mist 4",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-bg-mist-5",
+      "description": "Background Mist 5",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-bg-mist-6",
+      "description": "Background Mist 6",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-bg-mist-7",
+      "description": "Background Mist 7",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-bg-mist-8",
+      "description": "Background Mist 8",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-bg-mist-9",
+      "description": "Background Mist 9",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-bg-mist-10",
+      "description": "Background Mist 10",
+      "documentation": "Hex: #111827",
+      "color": "#111827"
+    },
+    {
+      "name": "is-color-ash-1",
+      "description": "Color Ash 1",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-color-ash-2",
+      "description": "Color Ash 2",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-color-ash-3",
+      "description": "Color Ash 3",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-color-ash-4",
+      "description": "Color Ash 4",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-color-ash-5",
+      "description": "Color Ash 5",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-color-ash-6",
+      "description": "Color Ash 6",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-color-ash-7",
+      "description": "Color Ash 7",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-color-ash-8",
+      "description": "Color Ash 8",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-color-ash-9",
+      "description": "Color Ash 9",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-color-ash-10",
+      "description": "Color Ash 10",
+      "documentation": "Hex: #111827",
+      "color": "#111827"
+    },
+    {
+      "name": "is-bg-ash-1",
+      "description": "Background Ash 1",
+      "documentation": "Hex: #f9fafb",
+      "color": "#f9fafb"
+    },
+    {
+      "name": "is-bg-ash-2",
+      "description": "Background Ash 2",
+      "documentation": "Hex: #f3f4f6",
+      "color": "#f3f4f6"
+    },
+    {
+      "name": "is-bg-ash-3",
+      "description": "Background Ash 3",
+      "documentation": "Hex: #e5e7eb",
+      "color": "#e5e7eb"
+    },
+    {
+      "name": "is-bg-ash-4",
+      "description": "Background Ash 4",
+      "documentation": "Hex: #d1d5db",
+      "color": "#d1d5db"
+    },
+    {
+      "name": "is-bg-ash-5",
+      "description": "Background Ash 5",
+      "documentation": "Hex: #9ca3af",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "is-bg-ash-6",
+      "description": "Background Ash 6",
+      "documentation": "Hex: #6b7280",
+      "color": "#6b7280"
+    },
+    {
+      "name": "is-bg-ash-7",
+      "description": "Background Ash 7",
+      "documentation": "Hex: #4b5563",
+      "color": "#4b5563"
+    },
+    {
+      "name": "is-bg-ash-8",
+      "description": "Background Ash 8",
+      "documentation": "Hex: #374151",
+      "color": "#374151"
+    },
+    {
+      "name": "is-bg-ash-9",
+      "description": "Background Ash 9",
+      "documentation": "Hex: #1f2937",
+      "color": "#1f2937"
+    },
+    {
+      "name": "is-bg-ash-10",
+      "description": "Background Ash 10",
+      "documentation": "Hex: #111827",
+      "color": "#111827"
+    },
+    {
+      "name": "is-color-ink-1",
+      "description": "Color Ink 1",
+      "documentation": "Hex: #f8fafc",
+      "color": "#f8fafc"
+    },
+    {
+      "name": "is-color-ink-2",
+      "description": "Color Ink 2",
+      "documentation": "Hex: #f1f5f9",
+      "color": "#f1f5f9"
+    },
+    {
+      "name": "is-color-ink-3",
+      "description": "Color Ink 3",
+      "documentation": "Hex: #e2e8f0",
+      "color": "#e2e8f0"
+    },
+    {
+      "name": "is-color-ink-4",
+      "description": "Color Ink 4",
+      "documentation": "Hex: #cbd5e1",
+      "color": "#cbd5e1"
+    },
+    {
+      "name": "is-color-ink-5",
+      "description": "Color Ink 5",
+      "documentation": "Hex: #94a3b8",
+      "color": "#94a3b8"
+    },
+    {
+      "name": "is-color-ink-6",
+      "description": "Color Ink 6",
+      "documentation": "Hex: #64748b",
+      "color": "#64748b"
+    },
+    {
+      "name": "is-color-ink-7",
+      "description": "Color Ink 7",
+      "documentation": "Hex: #475569",
+      "color": "#475569"
+    },
+    {
+      "name": "is-color-ink-8",
+      "description": "Color Ink 8",
+      "documentation": "Hex: #334155",
+      "color": "#334155"
+    },
+    {
+      "name": "is-color-ink-9",
+      "description": "Color Ink 9",
+      "documentation": "Hex: #1e293b",
+      "color": "#1e293b"
+    },
+    {
+      "name": "is-color-ink-10",
+      "description": "Color Ink 10",
+      "documentation": "Hex: #0f172a",
+      "color": "#0f172a"
+    },
+    {
+      "name": "is-bg-ink-1",
+      "description": "Background Ink 1",
+      "documentation": "Hex: #f8fafc",
+      "color": "#f8fafc"
+    },
+    {
+      "name": "is-bg-ink-2",
+      "description": "Background Ink 2",
+      "documentation": "Hex: #f1f5f9",
+      "color": "#f1f5f9"
+    },
+    {
+      "name": "is-bg-ink-3",
+      "description": "Background Ink 3",
+      "documentation": "Hex: #e2e8f0",
+      "color": "#e2e8f0"
+    },
+    {
+      "name": "is-bg-ink-4",
+      "description": "Background Ink 4",
+      "documentation": "Hex: #cbd5e1",
+      "color": "#cbd5e1"
+    },
+    {
+      "name": "is-bg-ink-5",
+      "description": "Background Ink 5",
+      "documentation": "Hex: #94a3b8",
+      "color": "#94a3b8"
+    },
+    {
+      "name": "is-bg-ink-6",
+      "description": "Background Ink 6",
+      "documentation": "Hex: #64748b",
+      "color": "#64748b"
+    },
+    {
+      "name": "is-bg-ink-7",
+      "description": "Background Ink 7",
+      "documentation": "Hex: #475569",
+      "color": "#475569"
+    },
+    {
+      "name": "is-bg-ink-8",
+      "description": "Background Ink 8",
+      "documentation": "Hex: #334155",
+      "color": "#334155"
+    },
+    {
+      "name": "is-bg-ink-9",
+      "description": "Background Ink 9",
+      "documentation": "Hex: #1e293b",
+      "color": "#1e293b"
+    },
+    {
+      "name": "is-bg-ink-10",
+      "description": "Background Ink 10",
+      "documentation": "Hex: #0f172a",
+      "color": "#0f172a"
+    },
+    {
+      "name": "is-color-coal-1",
+      "description": "Color Coal 1",
+      "documentation": "Hex: #f1f5f9",
+      "color": "#f1f5f9"
+    },
+    {
+      "name": "is-color-coal-2",
+      "description": "Color Coal 2",
+      "documentation": "Hex: #e2e8f0",
+      "color": "#e2e8f0"
+    },
+    {
+      "name": "is-color-coal-3",
+      "description": "Color Coal 3",
+      "documentation": "Hex: #cbd5e1",
+      "color": "#cbd5e1"
+    },
+    {
+      "name": "is-color-coal-4",
+      "description": "Color Coal 4",
+      "documentation": "Hex: #94a3b8",
+      "color": "#94a3b8"
+    },
+    {
+      "name": "is-color-coal-5",
+      "description": "Color Coal 5",
+      "documentation": "Hex: #64748b",
+      "color": "#64748b"
+    },
+    {
+      "name": "is-color-coal-6",
+      "description": "Color Coal 6",
+      "documentation": "Hex: #475569",
+      "color": "#475569"
+    },
+    {
+      "name": "is-color-coal-7",
+      "description": "Color Coal 7",
+      "documentation": "Hex: #334155",
+      "color": "#334155"
+    },
+    {
+      "name": "is-color-coal-8",
+      "description": "Color Coal 8",
+      "documentation": "Hex: #1e293b",
+      "color": "#1e293b"
+    },
+    {
+      "name": "is-color-coal-9",
+      "description": "Color Coal 9",
+      "documentation": "Hex: #0f172a",
+      "color": "#0f172a"
+    },
+    {
+      "name": "is-color-coal-10",
+      "description": "Color Coal 10",
+      "documentation": "Hex: #0a0e1a",
+      "color": "#0a0e1a"
+    },
+    {
+      "name": "is-bg-coal-1",
+      "description": "Background Coal 1",
+      "documentation": "Hex: #f1f5f9",
+      "color": "#f1f5f9"
+    },
+    {
+      "name": "is-bg-coal-2",
+      "description": "Background Coal 2",
+      "documentation": "Hex: #e2e8f0",
+      "color": "#e2e8f0"
+    },
+    {
+      "name": "is-bg-coal-3",
+      "description": "Background Coal 3",
+      "documentation": "Hex: #cbd5e1",
+      "color": "#cbd5e1"
+    },
+    {
+      "name": "is-bg-coal-4",
+      "description": "Background Coal 4",
+      "documentation": "Hex: #94a3b8",
+      "color": "#94a3b8"
+    },
+    {
+      "name": "is-bg-coal-5",
+      "description": "Background Coal 5",
+      "documentation": "Hex: #64748b",
+      "color": "#64748b"
+    },
+    {
+      "name": "is-bg-coal-6",
+      "description": "Background Coal 6",
+      "documentation": "Hex: #475569",
+      "color": "#475569"
+    },
+    {
+      "name": "is-bg-coal-7",
+      "description": "Background Coal 7",
+      "documentation": "Hex: #334155",
+      "color": "#334155"
+    },
+    {
+      "name": "is-bg-coal-8",
+      "description": "Background Coal 8",
+      "documentation": "Hex: #1e293b",
+      "color": "#1e293b"
+    },
+    {
+      "name": "is-bg-coal-9",
+      "description": "Background Coal 9",
+      "documentation": "Hex: #0f172a",
+      "color": "#0f172a"
+    },
+    {
+      "name": "is-bg-coal-10",
+      "description": "Background Coal 10",
+      "documentation": "Hex: #0a0e1a",
+      "color": "#0a0e1a"
+    }
+  ]
+}
