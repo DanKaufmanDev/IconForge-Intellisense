@@ -1,6 +1,7 @@
 {
-  "name": "IconForge-Intellisense",
-  "displayName": "iconforge-intellisense",
+  "name": "iconforge-intellisense",
+  "publisher": "DanKaufmanDev",
+  "displayName": "IconForge-Intellisense",
   "description": "Autocomplete and hover support for IconForge utility classes.",
   "version": "0.1.0",
   "engines": {
