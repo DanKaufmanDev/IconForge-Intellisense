@@ -14,10 +14,2075 @@
         "svg": ""
     },
     {
+      "name": "if-html",
+      "description": "Html5 Logo",
+      "documentation": "html5 Logo"
+    },
+    {
+      "name": "if-css",
+      "description": "css3 Logo",
+      "documentation": "css3 Logo"
+    },
+    {
+      "name": "if-javascript",
+      "description": "JavaScript Logo",
+      "documentation": "JavaScript Logo"
+    },
+    {
+      "name": "if-tailwindcss",
+      "description": "Tailwindcss Logo",
+      "documentation": "Tailwindcss Logo"
+    },
+    {
+      "name": "if-c",
+      "description": "C Language Logo",
+      "documentation": "C Language Logo"
+    },
+    {
+      "name": "if-cpp",
+      "description": "C++ Logo",
+      "documentation": "C++ Logo"
+    },
+    {
+      "name": "if-csharp",
+      "description": "C# Logo",
+      "documentation": "C# Logo"
+    },
+    {
+      "name": "if-typescript",
+      "description": "TypeScript Logo",
+      "documentation": "TypeScript Logo"
+    },
+    {
+      "name": "if-vuejs",
+      "description": "Vue.js Logo",
+      "documentation": "Vue.js Logo"
+    },
+    {
+      "name": "if-jquery",
+      "description": "Jquery Logo",
+      "documentation": "Jquery Logo"
+    },
+    {
+      "name": "if-angularjs",
+      "description": "Angular.js Logo",
+      "documentation": "Angular.js Logo"
+    },
+    {
+      "name": "if-react",
+      "description": "React Logo",
+      "documentation": "React Logo"
+    },
+    {
+      "name": "if-java",
+      "description": "Java Logo",
+      "documentation": "Java Logo"
+    },
+    {
+      "name": "if-swift",
+      "description": "Swift Logo",
+      "documentation": "Swift Logo"
+    },
+    {
+      "name": "if-flutter",
+      "description": "Flutter Logo",
+      "documentation": "Flutter Logo"
+    },
+    {
+      "name": "if-kotlin",
+      "description": "Kotlin Logo",
+      "documentation": "Kotlin Logo"
+    },
+    {
+      "name": "if-php",
+      "description": "php Logo",
+      "documentation": "php Logo"
+    },
+    {
+      "name": "if-ruby",
+      "description": "Ruby Logo",
+      "documentation": "Ruby Logo"
+    },
+    {
+      "name": "if-lua",
+      "description": "Lua Logo",
+      "documentation": "Lua Logo"
+    },
+    {
+      "name": "if-express",
+      "description": "Express.js Logo",
+      "documentation": "Express.js Logo"
+    },
+    {
+      "name": "if-python",
+      "description": "Python Programming Language Logo",
+      "documentation": "Python Programming Language Logo"
+    },
+    {
+      "name": "if-flask",
+      "description": "Flask Logo",
+      "documentation": "Flask Logo"
+    },
+    {
+      "name": "if-dart",
+      "description": "Dart Logo",
+      "documentation": "Dart Logo"
+    },
+    {
       "name": "is-color-white",
       "description": "Color White",
       "documentation": "Hex: #fff",
       "color": "#fff"
+    },
+    {
+      "name": "if-rust",
+      "description": "Rust Logo",
+      "documentation": "Rust Logo"
+    },
+    {
+      "name": "if-golang",
+      "description": "Golang Logo",
+      "documentation": "Golang Logo"
+    },
+    {
+      "name": "if-mysql",
+      "description": "MySQL Logo",
+      "documentation": "MySQL Logo"
+    },
+    {
+      "name": "if-postgressql",
+      "description": "PostgresSQL Logo",
+      "documentation": "PostgresSQL Logo"
+    },
+    {
+      "name": "if-sqlite",
+      "description": "SQLite Logo",
+      "documentation": "SQLite Logo"
+    },
+    {
+      "name": "if-nodejs",
+      "description": "Node.js Logo",
+      "documentation": "Node.js Logo"
+    },
+    {
+      "name": "if-git",
+      "description": "Git Logo",
+      "documentation": "GitLogo"
+    },
+    {
+      "name": "if-github",
+      "description": "GitHub Logo",
+      "documentation": "GitHub Logo"
+    },
+    {
+      "name": "if-gitlab",
+      "description": "GitLab Logo",
+      "documentation": "GitLab Logo"
+    },
+    {
+      "name": "if-django",
+      "description": "django Logo",
+      "documentation": "django Logo"
+    },
+    {
+      "name": "if-bootstrap",
+      "description": "Bootstrap Logo",
+      "documentation": "Bootstrap Logo"
+    },
+    {
+      "name": "if-docker",
+      "description": "Docker Logo",
+      "documentation": "Docker Logo"
+    },
+    {
+      "name": "if-terraform",
+      "description": "Terraform Logo",
+      "documentation": "Terraform Logo"
+    },
+    {
+      "name": "if-sass",
+      "description": "Sass Logo",
+      "documentation": "Sass Logo"
+    },
+    {
+      "name": "if-redux",
+      "description": "Redux Logo",
+      "documentation": "Redux Logo"
+    },
+    {
+      "name": "if-webhook",
+      "description": "Webhook Logo",
+      "documentation": "Webhook Logo"
+    },
+    {
+      "name": "if-jupyter",
+      "description": "Jupyter Logo",
+      "documentation": "Jupyter Logo"
+    },
+    {
+      "name": "if-graphql",
+      "description": "GraphQL Logo",
+      "documentation": "GraphQL Logo"
+    },
+    {
+      "name": "if-webgl",
+      "description": "WebGL Logo",
+      "documentation": "WebGL Logo"
+    },
+    {
+      "name": "if-bitbucket",
+      "description": "Bitbucket Logo",
+      "documentation": "Bitbucket Logo"
+    },
+    {
+      "name": "if-ionic",
+      "description": "Ionic Logo",
+      "documentation": "Ionic Logo"
+    },
+    {
+      "name": "if-solidity",
+      "description": "Solidity Logo",
+      "documentation": "Solidity Logo"
+    },
+    {
+      "name": "if-haskell",
+      "description": "Haskell Logo",
+      "documentation": "Haskell Logo"
+    },
+    {
+      "name": "if-nextjs",
+      "description": "Next.js Logo",
+      "documentation": "Next.js Logo"
+    },
+    {
+      "name": "if-nuxtjs",
+      "description": "Nuxt.js Logo",
+      "documentation": "Nuxt.js Logo"
+    },
+    {
+      "name": "if-npm",
+      "description": "npm Logo",
+      "documentation": "npm Logo"
+    },
+    {
+      "name": "if-vmware",
+      "description": "vmware Logo",
+      "documentation": "vmware Logo"
+    },
+    {
+      "name": "if-facebook",
+      "description": "Facebook Logo",
+      "documentation": "Facebook Logo"
+    },
+    {
+      "name": "if-instagram",
+      "description": "Instagram Logo",
+      "documentation": "Instagram Logo"
+    },
+    {
+      "name": "if-threads",
+      "description": "Threads Logo",
+      "documentation": "Threads Logo"
+    },
+    {
+      "name": "if-whatsapp",
+      "description": "Whatsapp Logo",
+      "documentation": "Whatsapp Logo"
+    },
+    {
+      "name": "if-x",
+      "description": "X Logo (Formally Twitter)",
+      "documentation": "X Logo (Formally Twitter)"
+    },
+    {
+      "name": "if-youtube",
+      "description": "YouTube Logo",
+      "documentation": "YouTube Logo"
+    },
+    {
+      "name": "if-tumblr",
+      "description": "Tumblr Logo",
+      "documentation": "Tumblr Logo"
+    },
+    {
+      "name": "if-twitch",
+      "description": "Twitch Logo",
+      "documentation": "Twitch Logo"
+    },
+    {
+      "name": "if-snapchat",
+      "description": "Snapchat Logo",
+      "documentation": "Snapchat Logo"
+    },
+    {
+      "name": "if-stackoverflow",
+      "description": "Stackoverflow Logo",
+      "documentation": "Stackoverflow Logo"
+    },
+    {
+      "name": "if-reddit",
+      "description": "Reddit Logo",
+      "documentation": "Reddit Logo"
+    },
+    {
+      "name": "if-wordpress",
+      "description": "Wordrpess Logo",
+      "documentation": "Wordpress Logo"
+    },
+    {
+      "name": "if-behance",
+      "description": "Behance Logo",
+      "documentation": "behance Logo"
+    },
+    {
+      "name": "if-devianart",
+      "description": "Devianart Logo",
+      "documentation": "Devianart Logo"
+    },
+    {
+      "name": "if-dribble",
+      "description": "dribble Logo",
+      "documentation": "dribble Logo"
+    },
+    {
+      "name": "if-flickr",
+      "description": "Flickr Logo",
+      "documentation": "Flickr Logo"
+    },
+    {
+      "name": "if-tiktok",
+      "description": "TikTok Logo",
+      "documentation": "TikTok Logo"
+    },
+    {
+      "name": "if-medium",
+      "description": "Medium Logo",
+      "documentation": "Medium Logo"
+    },
+    {
+      "name": "if-linkedin",
+      "description": "Linkedin Logo",
+      "documentation": "Linkedin Logo"
+    },
+    {
+      "name": "if-stumbleupon",
+      "description": "Stumbleupon Logo",
+      "documentation": "Stumbleupon Logo"
+    },
+    {
+      "name": "if-digg",
+      "description": "digg Logo",
+      "documentation": "digg Logo"
+    },
+    {
+      "name": "if-discord",
+      "description": "Discord Logo",
+      "documentation": "Discord Logo"
+    },
+    {
+      "name": "if-pinterest",
+      "description": "Pinterest Logo",
+      "documentation": "Pinterest Logo"
+    },
+    {
+      "name": "if-messenger",
+      "description": "Facebook Messenger Logo",
+      "documentation": "Facebook Messenger Logo"
+    },
+    {
+      "name": "if-bebo",
+      "description": "bebo Logo",
+      "documentation": "bebo Logo"
+    },
+    {
+      "name": "if-myspace",
+      "description": "Myspace Logo",
+      "documentation": "Myspace Logo"
+    },
+    {
+      "name": "if-wechat",
+      "description": "WeChat Logo",
+      "documentation": "WeChat Logo"
+    },
+    {
+      "name": "if-slack",
+      "description": "Slack Logo",
+      "documentation": "Slack Logo"
+    },
+    {
+      "name": "if-trello",
+      "description": "Trello Logo",
+      "documentation": "Trello Logo"
+    },
+    {
+      "name": "if-telegram",
+      "description": "Telegram Logo",
+      "documentation": "Telegram Logo"
+    },
+    {
+      "name": "if-adidas",
+      "description": "Adidas Logo",
+      "documentation": "Adidas Logo"
+    },
+    {
+      "name": "if-adobe",
+      "description": "Adobe Logo",
+      "documentation": "Adobe Logo"
+    },
+    {
+      "name": "if-ae",
+      "description": "American Eagle Logo",
+      "documentation": "American Eagle Logo"
+    },
+    {
+      "name": "if-airbnb",
+      "description": "Airbnb Logo",
+      "documentation": "Airbnb Logo"
+    },
+    {
+      "name": "if-aircanada",
+      "description": "Air Canada Logo",
+      "documentation": "Air Canada Logo"
+    },
+    {
+      "name": "if-amazon",
+      "description": "Amazon Logo",
+      "documentation": "Amazon Logo"
+    },
+    {
+      "name": "if-amazonmusic",
+      "description": "Amazon Music Logo",
+      "documentation": "Amazon Music Logo"
+    },
+    {
+      "name": "if-amd",
+      "description": "AMD Logo",
+      "documentation": "AMD Logo"
+    },
+    {
+      "name": "if-android",
+      "description": "Android Logo",
+      "documentation": "Android Logo"
+    },
+    {
+      "name": "if-apple",
+      "description": "Apple Logo",
+      "documentation": "Apple Logo"
+    },
+    {
+      "name": "if-aseprite",
+      "description": "Aseprite Logo",
+      "documentation": "Aseprite Logo"
+    },
+    {
+      "name": "if-asus",
+      "description": "Asus Logo",
+      "documentation": "Asus Logo"
+    },
+    {
+      "name": "if-aws",
+      "description": "AWS Logo",
+      "documentation": "AWS Logo"
+    },
+    {
+      "name": "if-blackberry",
+      "description": "Blackberry Logo",
+      "documentation": "Blackberry Logo"
+    },
+    {
+      "name": "if-blender",
+      "description": "Blender Logo",
+      "documentation": "Blender Logo"
+    },
+    {
+      "name": "if-burgerking",
+      "description": "Burger King Logo",
+      "documentation": "Burger King Logo"
+    },
+    {
+      "name": "if-canva",
+      "description": "Canva Logo",
+      "documentation": "Canva Logo"
+    },
+    {
+      "name": "if-cat",
+      "description": "CAT Logo",
+      "documentation": "CAT Logo"
+    },
+    {
+      "name": "if-cloudflare",
+      "description": "Cloudflare Logo",
+      "documentation": "Cloudflare Logo"
+    },
+    {
+      "name": "if-cnn",
+      "description": "CNN Logo",
+      "documentation": "CNN Logo"
+    },
+    {
+      "name": "if-cocacola",
+      "description": "Coca Cola Logo",
+      "documentation": "Coca Cola Logo"
+    },
+    {
+      "name": "if-dell",
+      "description": "Dell Logo",
+      "documentation": "Dell Logo"
+    },
+    {
+      "name": "if-ea",
+      "description": "EA Logo",
+      "documentation": "EA Logo"
+    },
+    {
+      "name": "if-ebay",
+      "description": "Ebay Logo",
+      "documentation": "Ebay Logo"
+    },
+    {
+      "name": "if-electron",
+      "description": "Electron Logo",
+      "documentation": "Electron Logo"
+    },
+    {
+      "name": "if-etsy",
+      "description": "Etsy Logo",
+      "documentation": "Etsy Logo"
+    },
+    {
+      "name": "if-figma",
+      "description": "Figma Logo",
+      "documentation": "Figma Logo"
+    },
+    {
+      "name": "if-ge",
+      "description": "General Electronic Logo",
+      "documentation": "General Electronic Logo"
+    },
+    {
+      "name": "if-google",
+      "description": "Google Logo",
+      "documentation": "Google Logo"
+    },
+    {
+      "name": "if-gpay",
+      "description": "Google Pay Logo",
+      "documentation": "Google Pay Logo"
+    },
+    {
+      "name": "if-gucci",
+      "description": "Gucci Logo",
+      "documentation": "Gucci Logo"
+    },
+    {
+      "name": "if-handm",
+      "description": "H&M Logo",
+      "documentation": "H&M Logo"
+    },
+    {
+      "name": "if-hf",
+      "description": "Hello Fresh Logo",
+      "documentation": "Hello Fresh Logo"
+    },
+    {
+      "name": "if-hinge",
+      "description": "Hinge Logo",
+      "documentation": "Hinge Logo"
+    },
+    {
+      "name": "if-hollister",
+      "description": "Hollister Logo",
+      "documentation": "Hollister Logo"
+    },
+    {
+      "name": "if-hp",
+      "description": "Hewlett Packard Logo",
+      "documentation": "Hewlett Packard Logo"
+    },
+    {
+      "name": "if-ibm",
+      "description": "IBM Logo",
+      "documentation": "IBM Logo"
+    },
+    {
+      "name": "if-ios",
+      "description": "Apple IOS Logo",
+      "documentation": "Apple IOS Logo"
+    },
+    {
+      "name": "if-jordan",
+      "description": "Jordan Jumpman Logo",
+      "documentation": "Jordan Jumpman Logo"
+    },
+    {
+      "name": "if-lego",
+      "description": "Lego Logo",
+      "documentation": "Lego Logo"
+    },
+    {
+      "name": "if-lg",
+      "description": "Lucky Goldstar Logo",
+      "documentation": "Lucky Goldstar Logo"
+    },
+    {
+      "name": "if-logi",
+      "description": "Logitech Logi Logo",
+      "documentation": "Logitech Logi Logo"
+    },
+    {
+      "name": "if-logitech",
+      "description": "logitech Logo",
+      "documentation": "Logitech Logo`"
+    },
+    {
+      "name": "if-lyft",
+      "description": "Lyft Logo",
+      "documentation": "Lyft Logo"
+    },
+    {
+      "name": "if-mcdonalds",
+      "description": "McDonald's Logo",
+      "documentation": "McDonald's Logo"
+    },
+    {
+      "name": "if-music",
+      "description": "Music Logo",
+      "documentation": "Music Logo"
+    },
+    {
+      "name": "if-nike",
+      "description": "Nike Logo",
+      "documentation": "Nike Logo"
+    },
+    {
+      "name": "if-nzxt",
+      "description": "NZXT Logo",
+      "documentation": "NZXT Logo"
+    },
+    {
+      "name": "if-of",
+      "description": "OnlyFans Logo",
+      "documentation": "OnlyFans Logo"
+    },
+    {
+      "name": "if-oracle",
+      "description": "ORACLE Logo",
+      "documentation": "ORACLE Logo"
+    },
+    {
+      "name": "if-origin",
+      "description": "Origin Logo",
+      "documentation": "Origin Logo"
+    },
+    {
+      "name": "if-playstation",
+      "description": "PlayStation Logo",
+      "documentation": "PlayStation Logo"
+    },
+    {
+      "name": "if-rss",
+      "description": "RSS Feed Logo",
+      "documentation": "RSS Feed Logo"
+    },
+    {
+      "name": "if-skype",
+      "description": "Skype Logo",
+      "documentation": "Skype Logo"
+    },
+    {
+      "name": "if-soundcloud",
+      "description": "Soundcloud Logo",
+      "documentation": "Soundcloud Logo"
+    },
+    {
+      "name": "if-spotify",
+      "description": "Spotify Logo",
+      "documentation": "Spotify Logo"
+    },
+    {
+      "name": "if-sprite",
+      "description": "Sprite Logo",
+      "documentation": "Sprite Logo"
+    },
+    {
+      "name": "if-square",
+      "description": "Square Logo",
+      "documentation": "Square Logo"
+    },
+    {
+      "name": "if-starbucks",
+      "description": "Starbucks Logo",
+      "documentation": "Starbucks Logo"
+    },
+    {
+      "name": "if-steam",
+      "description": "Steam Logo",
+      "documentation": "Steam Logo"
+    },
+    {
+      "name": "if-tesla",
+      "description": "Tesla Logo",
+      "documentation": "Tesla Logo"
+    },
+    {
+      "name": "if-tidal",
+      "description": "Tidal Logo",
+      "documentation": "Tidal Logo"
+    },
+    {
+      "name": "if-tinder",
+      "description": "Tinder Logo",
+      "documentation": "Tinder Logo"
+    },
+    {
+      "name": "if-venmo",
+      "description": "Venmo Logo",
+      "documentation": "Venmo Logo"
+    },
+    {
+      "name": "if-vlc",
+      "description": "VLC Logo",
+      "documentation": "VLC Logo"
+    },
+    {
+      "name": "if-wendys",
+      "description": "Wendy's Logo",
+      "documentation": "Wendy's Logo"
+    },
+    {
+      "name": "if-wish",
+      "description": "Wish Logo",
+      "documentation": "Wish Logo"
+    },
+    {
+      "name": "if-xbox",
+      "description": "Xbox Logo",
+      "documentation": "Xbox Logo"
+    },
+    {
+      "name": "if-yahoo",
+      "description": "Yahoo! Logo",
+      "documentation": "Yahoo! Logo"
+    },
+    {
+      "name": "if-ytmusic",
+      "description": "YouTube Music Logo",
+      "documentation": "YouTube Music Logo"
+    },
+    {
+      "name": "if-zillow",
+      "description": "Zillow Logo",
+      "documentation": "Zillow Logo"
+    },
+    {
+      "name": "if-zoom",
+      "description": "Zoom Logo",
+      "documentation": "Zoom Logo"
+    },
+    {
+      "name": "if-amex",
+      "description": "American Express Logo",
+      "documentation": "American Express Logo"
+    },
+    {
+      "name": "if-apple-pay",
+      "description": "Apple Pay Logo",
+      "documentation": "Apple Pay Logo"
+    },
+    {
+      "name": "if-discover",
+      "description": "Discover Card Logo",
+      "documentation": "Discover Card Logo"
+    },
+    {
+      "name": "if-mastercard",
+      "description": "Master Card Logo",
+      "documentation": "Master Card Logo"
+    },
+    {
+      "name": "if-paypal",
+      "description": "PayPal Logo",
+      "documentation": "PayPal Logo"
+    },
+    {
+      "name": "if-visa",
+      "description": "Visa Card Logo",
+      "documentation": "Visa Card Logo"
+    },
+    {
+      "name": "if-brave",
+      "description": "Brave Logo",
+      "documentation": "Brave Logo"
+    },
+    {
+      "name": "if-chrome",
+      "description": "Google Chrome Logo",
+      "documentation": ""
+    },
+    {
+      "name": "if-edge",
+      "description": "Microsoft Edge logo",
+      "documentation": "Microsoft Edge Logo"
+    },
+    {
+      "name": "if-firefox",
+      "description": "FireFox Logo",
+      "documentation": "FireFox Logo"
+    },
+    {
+      "name": "if-ie",
+      "description": "Internet Explore Logo",
+      "documentation": "Internet Explore Logo"
+    },
+    {
+      "name": "if-linux",
+      "description": "Linux Logo",
+      "documentation": "Linux Logo"
+    },
+    {
+      "name": "if-opera",
+      "description": "Opera GX Logo",
+      "documentation": "Opera GX Logo"
+    },
+    {
+      "name": "if-safari",
+      "description": "Safari Logo",
+      "documentation": "Safari Logo"
+    },
+    {
+      "name": "if-windows10",
+      "description": "Windows 10 Logo",
+      "documentation": "Windows 10 Logo"
+    },
+    {
+      "name": "if-windows11",
+      "description": "Windows 11 Logo",
+      "documentation": "Windows 11 Logo"
+    },
+    {
+      "name": "if-windowsxp",
+      "description": "Windows XP Logo",
+      "documentation": "Windows XP Logo"
+    },
+    {
+      "name": "if-uploadsuccess",
+      "description": "Upload Successful Icon",
+      "documentation": "Upload Success Icon"
+    },
+    {
+      "name": "if-upload",
+      "description": "Upload Icon",
+      "documentation": "Upload Icon"
+    },
+    {
+      "name": "if-ungroup",
+      "description": "Ungroup Icon",
+      "documentation": "Ungroup Icon"
+    },
+    {
+      "name": "if-undo",
+      "description": "Undo Icon",
+      "documentation": "Undo Icon"
+    },
+    {
+      "name": "if-trashcan",
+      "description": "Trashcan Icon",
+      "documentation": "Trashcan Icon"
+    },
+    {
+      "name": "if-touch",
+      "description": "Touch Icon",
+      "documentation": "Touch Icon"
+    },
+    {
+      "name": "if-tosearch",
+      "description": "To Search Icon",
+      "documentation": "To Search Icon"
+    },
+    {
+      "name": "if-tobepublished",
+      "description": "To Be Published Icon",
+      "documentation": "To Be Published Icon"
+    },
+    {
+      "name": "if-startdataanalysis",
+      "description": "Data Analysis Start Icon",
+      "documentation": "Data Analysis Start Icon"
+    },
+    {
+      "name": "if-starcancelled",
+      "description": "Star Icon with Line Through it",
+      "documentation": "Star Icon with Line Through it"
+    },
+    {
+      "name": "if-staradd",
+      "description": "Star Icon with a plus",
+      "documentation": "Star Icon with a plus"
+    },
+    {
+      "name": "if-sortdescending",
+      "description": "Sort Icon in Descending Order",
+      "documentation": "Sort Icon in Descending Order"
+    },
+    {
+      "name": "if-sortascending",
+      "description": "Sort Icon in Ascending Order",
+      "documentation": "Sort Icon in Ascending Order"
+    },
+    {
+      "name": "if-sort",
+      "description": "Sort Icon",
+      "documentation": "Sort Icon"
+    },
+    {
+      "name": "if-reset",
+      "description": "Reset Icon",
+      "documentation": "Reset Icon"
+    },
+    {
+      "name": "if-removeeye",
+      "description": "Eye Icon with a minus",
+      "documentation": "Eye Icon with a minus"
+    },
+    {
+      "name": "if-reload",
+      "description": "Reload Icon",
+      "documentation": "Reload Icon"
+    },
+    {
+      "name": "if-refreshcancelled",
+      "description": "Refresh Icon Crossedout",
+      "documentation": "Refresh Icon Crossedout"
+    },
+    {
+      "name": "if-refresh",
+      "description": "Refresh Icon",
+      "documentation": "Refresh Icon"
+    },
+    {
+      "name": "if-redo",
+      "description": "Redo Icon",
+      "documentation": "Redo Icon"
+    },
+    {
+      "name": "if-random",
+      "description": "A Icon of a Dice",
+      "documentation": "A Icon of a Dice"
+    },
+    {
+      "name": "if-publish",
+      "description": "Publish Icon",
+      "documentation": "Publish Icon"
+    },
+    {
+      "name": "if-print",
+      "description": "Printer Icon",
+      "documentation": "Print Icon"
+    },
+    {
+      "name": "if-pointup",
+      "description": "Mouse Pointer Up",
+      "documentation": "Mouse Pointer Up"
+    },
+    {
+      "name": "if-plus",
+      "description": "Plus Icon",
+      "documentation": "Plus Icon"
+    },
+    {
+      "name": "if-pin",
+      "description": "Pin Icon",
+      "documentation": "Pin Icon"
+    },
+    {
+      "name": "if-pan",
+      "description": "Pan Icon",
+      "documentation": "Pan Icon"
+    },
+    {
+      "name": "if-optimize",
+      "description": "An Icon of an Ascending Arrow",
+      "documentation": "An Icon of an Ascending Arrow"
+    },
+    {
+      "name": "if-openfile",
+      "description": "Open Folder Icon",
+      "documentation": "Open Folder Icon"
+    },
+    {
+      "name": "if-openexternal",
+      "description": "Open External File Icon",
+      "documentation": "Open External File Icon"
+    },
+    {
+      "name": "if-mouseselect",
+      "description": "Mouse Pointer Icon",
+      "documentation": "Mouse Pointer Icon"
+    },
+    {
+      "name": "if-mouseclick",
+      "description": "Mouse Click Icon",
+      "documentation": "Mouse Click Icon"
+    },
+    {
+      "name": "if-mix",
+      "description": "Random Mix/Shuffle Icon",
+      "documentation": "Random Mix/Shuffle Icon"
+    },
+    {
+      "name": "if-minus",
+      "description": "Minus Icon",
+      "documentation": "Minus Icon"
+    },
+    {
+      "name": "if-link",
+      "description": "Link Icon",
+      "documentation": "Link Icon"
+    },
+    {
+      "name": "if-group",
+      "description": "Group Icon",
+      "documentation": "Group Icon"
+    },
+    {
+      "name": "if-eyecancelled",
+      "description": "Eye icon with a line through it",
+      "documentation": "Eye icon with a line through it"
+    },
+    {
+      "name": "if-duplicate",
+      "description": "Duplicate Icon",
+      "documentation": "Duplicate"
+    },
+    {
+      "name": "if-combine",
+      "description": "Combine Icon",
+      "documentation": "Combine Icon"
+    },
+    {
+      "name": "if-closesmall",
+      "description": "Small Close Icon",
+      "documentation": "Small Close Icon"
+    },
+    {
+      "name": "if-close",
+      "description": "Close Icon",
+      "documentation": "Close Icon"
+    },
+    {
+      "name": "if-clear",
+      "description": "Clear Icon with circle around it",
+      "documentation": "Clear Icon with circle around it"
+    },
+    {
+      "name": "if-cancel",
+      "description": "A X Icon",
+      "documentation": "A X Icon"
+    },
+    {
+      "name": "if-attachmentupload",
+      "description": "Paperclip with a small up arrow",
+      "documentation": "Paperclip with a small up arrow"
+    },
+    {
+      "name": "if-attach",
+      "description": "Paperclip Icon",
+      "documentation": "Paperclip Icon"
+    },
+    {
+      "name": "if-analyze",
+      "description": "a magnify glass looking over a chart",
+      "documentation": "a magnify glass looking over a chart"
+    },
+    {
+      "name": "if-addeye",
+      "description": "eye with a small plus",
+      "documentation": "eye with a small plus"
+    },
+    {
+      "name": "if-addcircle",
+      "description": "plus icon with a circle around it",
+      "documentation": "plus icon with a circle around it"
+    },
+    {
+      "name": "if-add",
+      "description": "add icon",
+      "documentation": "add icon"
+    },
+    {
+      "name": "if-swap",
+      "description": "an icon of two arrows pointing left and right",
+      "documentation": "an icon of two arrows pointing left and right"
+    },
+    {
+      "name": "if-repeat",
+      "description": "an icon of two arrows in an oval",
+      "documentation": "an icon of two arrows in an oval"
+    },
+    {
+      "name": "if-limit-upper",
+      "description": "arrow pointing up to a line",
+      "documentation": "arrow pointing up to a line"
+    },
+    {
+      "name": "if-limit-lower",
+      "description": "arrow pointing down to a line",
+      "documentation": "arrow pointing down to a line"
+    },
+    {
+      "name": "if-import",
+      "description": "arrow pointing into a box",
+      "documentation": "arrow pointing into a box"
+    },
+    {
+      "name": "if-goto",
+      "description": "right angle arrow pointing down",
+      "documentation": "right angle arrow pointing down"
+    },
+    {
+      "name": "if-export",
+      "description": "arrow pointing out of a box",
+      "documentation": "arrow pointing out of a box"
+    },
+    {
+      "name": "if-download",
+      "description": "down arrow pointing to line",
+      "documentation": "down arrow pointing to line"
+    },
+    {
+      "name": "if-download-list",
+      "description": "arrow pointing to line with list icon",
+      "documentation": "arrow pointing to line with list icon"
+    },
+    {
+      "name": "if-download-add",
+      "description": "arrow pointing to line with a plus",
+      "documentation": "arrow pointing to line with a plus"
+    },
+    {
+      "name": "if-chevron-up",
+      "description": "chevron pointing up",
+      "documentation": "chevron pointing up"
+    },
+    {
+      "name": "if-chevron-up-small",
+      "description": "small chevron pointing up",
+      "documentation": "small chevron pointing up"
+    },
+    {
+      "name": "if-chevron-up-double",
+      "description": "double chevron pointing up",
+      "documentation": "double chevron pointing up"
+    },
+    {
+      "name": "if-chevron-right",
+      "description": "chevron pointing right",
+      "documentation": "chevron pointing right"
+    },
+    {
+      "name": "if-chevron-right-small",
+      "description": "small chevron pointing right",
+      "documentation": "small chevron pointing right"
+    },
+    {
+      "name": "if-chevron-right-double",
+      "description": "double chevron pointing right",
+      "documentation": "double chevron pointing right"
+    },
+    {
+      "name": "if-chevron-left",
+      "description": "chevron pointing left",
+      "documentation": "chevron pointing left"
+    },
+    {
+      "name": "if-chevron-left-small",
+      "description": "small chevron pointing left",
+      "documentation": "small chevron pointing left"
+    },
+    {
+      "name": "if-chevron-left-double",
+      "description": "double chevron pointing left",
+      "documentation": "double chevron pointing left"
+    },
+    {
+      "name": "if-chevron-down",
+      "description": "chevron pointing down",
+      "documentation": "chevron pointing down"
+    },
+    {
+      "name": "if-chevron-down-small",
+      "description": "small chevron pointing down",
+      "documentation": "small chevron pointing down"
+    },
+    {
+      "name": "if-chevron-down-double",
+      "description": "double chevron pointing down",
+      "documentation": "double chevron pointing down"
+    },
+    {
+      "name": "if-arrow-up",
+      "description": "arrow pointing up",
+      "documentation": "arrow pointing up"
+    },
+    {
+      "name": "if-arrow-up-left",
+      "description": "arrow pointing up left",
+      "documentation": "arrow pointing up left"
+    },
+    {
+      "name": "if-arrow-right",
+      "description": "arrow pointing right",
+      "documentation": "arrow pointing right"
+    },
+    {
+      "name": "if-arrow-left",
+      "description": "arrow pointing left",
+      "documentation": "arrow pointing left"
+    },
+    {
+      "name": "if-arrow-down",
+      "description": "arrow pointing down",
+      "documentation": "arrow pointing down"
+    },
+    {
+      "name": "if-arrow-down-right",
+      "description": "arrow pointing down right",
+      "documentation": "arrow pointing down right"
+    },
+    {
+      "name": "if-waveform",
+      "description": "waveform icon",
+      "documentation": "waveform icon"
+    },
+    {
+      "name": "if-stop",
+      "description": "outline of square stop icon",
+      "documentation": "outline of ssquare stop icon"
+    },
+    {
+      "name": "if-stop-circle",
+      "description": "square stop icon in a circle",
+      "documentation": "square stop icon in a circle"
+    },
+    {
+      "name": "if-sound-quiet",
+      "description": "speaker with one volume bar",
+      "documentation": "speaker with one voulume bar"
+    },
+    {
+      "name": "if-sound-off",
+      "description": "speaker with a line through it",
+      "documentation": "speaker with a line through it"
+    },
+    {
+      "name": "if-sound-mute",
+      "description": "speaker with an X next to it",
+      "documentation": "speaker with an X next to it"
+    },
+    {
+      "name": "if-sound-loud",
+      "description": "speaker with two volume bars",
+      "documentation": "speaker with two voulume bars"
+    },
+    {
+      "name": "if-skip-next",
+      "description": "triangle skip icon to the right",
+      "documentation": "triangle skip icon to the right"
+    },
+    {
+      "name": "if-skip-back",
+      "description": "triangle skip icon to the left",
+      "documentation": "triangle skip icon to the left"
+    },
+    {
+      "name": "if-radiowaves",
+      "description": "circle with waves coming out",
+      "documentation": "circle with waves coming out"
+    },
+    {
+      "name": "if-radiowaves-off",
+      "description": "circle with waves coming out crossedout",
+      "documentation": "circle with waves coming out crossedout"
+    },
+    {
+      "name": "if-play",
+      "description": "triangle play icon outline",
+      "documentation": "triangle play icon outline"
+    },
+    {
+      "name": "if-play-circle",
+      "description": "triangle play icon in circle",
+      "documentation": "triangle play icon in circle"
+    },
+    {
+      "name": "if-pause",
+      "description": "double bar pause icon",
+      "documentation": "double bar pause icon"
+    },
+    {
+      "name": "if-pause-circle",
+      "description": "double bar pause icon in circle",
+      "documentation": "double bar pause icon in circle"
+    },
+    {
+      "name": "if-microphone",
+      "description": "microphone icon",
+      "documentation": "microphone icon"
+    },
+    {
+      "name": "if-audio-description",
+      "description": "AD icon with waves coming out the right",
+      "documentation": "AD icon with waves coming out the right"
+    },
+    {
+      "name": "if-audio-description-alt",
+      "description": "ear with audio waves",
+      "documentation": "ear with audio waves"
+    },
+    {
+      "name": "if-y-axis-settings",
+      "description": "arrow up on the y axis with a setting cog",
+      "documentation": "arrow up on the y axis with a settings cog"
+    },
+    {
+      "name": "if-x-axis-settings",
+      "description": "arrow right on the x axis with a settings cog",
+      "documentation": "arrow right on the x axis with a settings cog"
+    },
+    {
+      "name": "if-trend",
+      "description": "graph showing trend",
+      "documentation": "graph showing trend"
+    },
+    {
+      "name": "if-threshold-on",
+      "description": "graph showing threshold",
+      "documentation": "graph showing threshold"
+    },
+    {
+      "name": "if-threshold-off",
+      "description": "graph showing threshold",
+      "documentation": "graph showing threshold"
+    },
+    {
+      "name": "if-threshold-cancelled",
+      "description": "threshold graph crossedout",
+      "documentation": "threshold graph crossedout"
+    },
+    {
+      "name": "if-scatterplot",
+      "description": "scatterplot graph",
+      "documentation": "scatterplot graph"
+    },
+    {
+      "name": "if-polar-plot",
+      "description": "polar plot graph",
+      "documentation": "polar plot graph"
+    },
+    {
+      "name": "if-pie-chart",
+      "description": "pie chart icon",
+      "documentation": "pie chart icon"
+    },
+    {
+      "name": "if-pi-diagram",
+      "description": "a pi diagram",
+      "documentation": "a pi diagram"
+    },
+    {
+      "name": "if-chart-reportline",
+      "description": "chart reportline",
+      "documentation": "chart reportline"
+    },
+    {
+      "name": "if-chart-reportbar",
+      "description": "reportbar chart",
+      "documentation": "reportbar chart"
+    },
+    {
+      "name": "if-chart-radar",
+      "description": "radar chart",
+      "documentation": "radar chart"
+    },
+    {
+      "name": "if-chart-labels",
+      "description": "labels for a chart",
+      "documentation": "labels for a chart"
+    },
+    {
+      "name": "if-chart-gauge",
+      "description": "chart gauge",
+      "documentation": "chart gauge"
+    },
+    {
+      "name": "if-chart-curve-stepped",
+      "description": "stepped chart curve",
+      "documentation": "stepped chart curve"
+    },
+    {
+      "name": "if-chart-curve-spline",
+      "description": "spline curve chart",
+      "documentation": "spline curve chart"
+    },
+    {
+      "name": "if-chart-curve-linear",
+      "description": "linear chart curve",
+      "documentation": "linear chart curve"
+    },
+    {
+      "name": "if-chart-cursor",
+      "description": "chart cursor",
+      "documentation": "chart cursor"
+    },
+    {
+      "name": "if-chart-connector",
+      "description": "chart connection",
+      "documentation": "chart connection"
+    },
+    {
+      "name": "if-chart-bar",
+      "description": "bar chart",
+      "documentation": "bar chart"
+    },
+    {
+      "name": "if-capacity",
+      "description": "square quad with smaller quad",
+      "documentation": "square quad with smaller quad"
+    },
+    {
+      "name": "if-average",
+      "description": "circle crossedout",
+      "documentation": "circle crossedout"
+    },
+    {
+      "name": "if-cloud",
+      "description": "cloud icon",
+      "documentation": "cloud icon"
+    },
+    {
+      "name": "if-cloud-upload",
+      "description": "cloud icon with up arrow",
+      "documentation": "cloud icon with up arrow"
+    },
+    {
+      "name": "if-cloud-success",
+      "description": "cloud with checkmark",
+      "documentation": "cloud with checkmark"
+    },
+    {
+      "name": "if-cloud-new",
+      "description": "cloud icon with plus icon",
+      "documentation": "cloud icon with plus icon"
+    },
+    {
+      "name": "if-cloud-download",
+      "description": "cloud with download arrow",
+      "documentation": "cloud with download arrow"
+    },
+    {
+      "name": "if-cloud-download-list",
+      "description": "cloud with download arrow and list icon",
+      "documentation": "cloud with download arrow and list icon"
+    },
+    {
+      "name": "if-cloud-download-add",
+      "description": "cloud with download arrow and add icon",
+      "documentation": "cloud with download arrow and add icon"
+    },
+    {
+      "name": "if-shout",
+      "description": "megaphone icon",
+      "documentation": "megaphone icon"
+    },
+    {
+      "name": "if-mail",
+      "description": "envelope icon",
+      "documentation": "envelope icon"
+    },
+    {
+      "name": "if-mail-inquiry",
+      "description": "envelope icon with questionmark",
+      "documentation": "envelope icon with questionmark"
+    },
+    {
+      "name": "if-inquiry",
+      "description": "chat box with questionmark",
+      "documentation": "chat bax with questionmark"
+    },
+    {
+      "name": "if-email",
+      "description": "envelope with @ symbol",
+      "documentation": "envelope with @ symbol"
+    },
+    {
+      "name": "if-document-xml",
+      "description": "document with xml icon",
+      "documentation": "document with xml icon"
+    },
+    {
+      "name": "if-document-xls",
+      "description": "document with xls icon",
+      "documentation": "document with xls icon"
+    },
+    {
+      "name": "if-upload-document",
+      "description": "document icon with upload arrow",
+      "documentation": "document icon with upload arrow"
+    },
+    {
+      "name": "if-document-txt",
+      "description": "document with txt icon",
+      "documentation": "document with txt icon"
+    },
+    {
+      "name": "if-text-document",
+      "description": "document with text lines",
+      "documentation": "document with text lines"
+    },
+    {
+      "name": "if-document-svg",
+      "description": "document with svg icon",
+      "documentation": "document with svg icon"
+    },
+    {
+      "name": "if-report-text",
+      "description": "report document with text",
+      "documentation": "report document with text"
+    },
+    {
+      "name": "if-quality-report",
+      "description": "report document with diamond",
+      "documentation": "report document with diamond"
+    },
+    {
+      "name": "if-publish-document",
+      "description": "document with up arrow",
+      "documentation": "document with up arrow"
+    },
+    {
+      "name": "if-document-ppt",
+      "description": "document with ppt icon",
+      "documentation": "document with ppt icon"
+    },
+    {
+      "name": "if-document-pdp",
+      "description": "document with pdf icon",
+      "documentation": "document with pdf icon"
+    },
+    {
+      "name": "if-note",
+      "description": "stickynote icon",
+      "documentation": "stickynote icon"
+    },
+    {
+      "name": "if-document-mp4",
+      "description": "document with mp4 icon",
+      "documentation": "document with mp4 icon"
+    },
+    {
+      "name": "if-maintenance-document",
+      "description": "document with wrench",
+      "documentation": "document with wrench"
+    },
+    {
+      "name": "if-log",
+      "description": "document with log icon",
+      "documentation": "document with log file"
+    },
+    {
+      "name": "if-ingestion-report",
+      "description": "report with incoming arrow",
+      "documentation": "report with incoming arrow"
+    },
+    {
+      "name": "if-duplicate-document",
+      "description": "duplicate document icon",
+      "documentation": "duplicate document icon"
+    },
+    {
+      "name": "if-document-success",
+      "description": "document with check icon",
+      "documentation": "document with check file"
+    },
+    {
+      "name": "if-document-settings",
+      "description": "document with cog",
+      "documentation": "document with cog"
+    },
+    {
+      "name": "if-document-reference",
+      "description": "document with reeference arrow",
+      "documentation": "document with reference arrow"
+    },
+    {
+      "name": "if-doocument-management",
+      "description": "document with DB icon",
+      "documentation": "document with DB icon"
+    },
+    {
+      "name": "if-document-link",
+      "description": "document with link",
+      "documentation": "document with link"
+    },
+    {
+      "name": "if-document-info",
+      "description": "document with I iocn",
+      "documentation": "document with I icon"
+    },
+    {
+      "name": "if-bulk-document",
+      "description": "group of documents",
+      "documentation": "group of documents"
+    },
+    {
+      "name": "if-document",
+      "description": "document page",
+      "documentation": "document page"
+    },
+    {
+      "name": "if-document-doc",
+      "description": "document with doc icon",
+      "documentation": "document with doc icon"
+    },
+    {
+      "name": "if-audit-report",
+      "description": "document with an eye",
+      "documentation": "document with an eye"
+    },
+    {
+      "name": "if-add-document-note",
+      "description": "compose/add document icon",
+      "documentation": "compose/add document icon"
+    },
+    {
+      "name": "if-rename",
+      "description": "rename icon",
+      "documentation": "rename icon"
+    },
+    {
+      "name": "if-pencil",
+      "description": "pencil icon",
+      "documentation": "pencil icon"
+    },
+    {
+      "name": "if-paste",
+      "description": "paste icon",
+      "documentation": "paste icon"
+    },
+    {
+      "name": "if-pen",
+      "description": "pen icon",
+      "documentation": "pen icon"
+    },
+    {
+      "name": "if-highlight",
+      "description": "highlighter icon",
+      "documentation": "highlighter icon"
+    },
+    {
+      "name": "if-save",
+      "description": "save disk icon",
+      "documentation": "save disk icon"
+    },
+    {
+      "name": "if-cut",
+      "description": "sccisors iocn",
+      "documentation": "sccisors icon"
+    },
+    {
+      "name": "if-copy",
+      "description": "copy icon",
+      "documentation": "copy icon"
+    },
+    {
+      "name": "if-folder-vdi",
+      "description": "folder with vdi icon",
+      "documentation": "folder with vdi icon"
+    },
+    {
+      "name": "if-folder-up",
+      "description": "folder with up arrow",
+      "documentation": "folder with up arrow"
+    },
+    {
+      "name": "if-folder-alt",
+      "description": "folder icon",
+      "documentation": "folder icon"
+    },
+    {
+      "name": "if-folder-open-alt",
+      "description": "folder open icon",
+      "documentation": "folder open icon"
+    },
+    {
+      "name": "if-folder-open",
+      "description": "folder open icon",
+      "documentation": "folder open icon"
+    },
+    {
+      "name": "if-folder-new-alt",
+      "description": "new folder icon",
+      "documentation": "new folder icon"
+    },
+    {
+      "name": "if-folder-new",
+      "description": "new folder icon",
+      "documentation": "new folder icon"
+    },
+    {
+      "name": "if-folder-down",
+      "description": "folder with down arrow",
+      "documentation": "folder with down arrow"
+    },
+    {
+      "name": "if-folder",
+      "description": "folder icon",
+      "documentation": "folder icon"
+    },
+    {
+      "name": "if-support",
+      "description": "support headset icon",
+      "documentation": "support headset icon"
+    },
+    {
+      "name": "if-spatial",
+      "description": "a cube outline",
+      "documentation": "a cube ouline"
+    },
+    {
+      "name": "if-reference",
+      "description": "reference arrow",
+      "documentation": "reference arrow"
+    },
+    {
+      "name": "if-qrcode",
+      "description": "qrcode icon",
+      "documentation": "qrcode icon"
+    },
+    {
+      "name": "if-license",
+      "description": "certificate license icon",
+      "documentation": "certificate license icon"
+    },
+    {
+      "name": "if-library-new",
+      "description": "library icon with plus icon",
+      "documentation": "library icon with plus icon"
+    },
+    {
+      "name": "if-library",
+      "description": "book on shelf icon",
+      "documentation": "book on shelf icon"
+    },
+    {
+      "name": "if-legal",
+      "description": "legal icon",
+      "documentation": "legal icon"
+    },
+    {
+      "name": "if-language",
+      "description": "language icon",
+      "documentation": "language icon"
+    },
+    {
+      "name": "if-flag",
+      "description": "flag icon",
+      "documentation": "flag icon"
+    },
+    {
+      "name": "if-eye",
+      "description": "eyeball icon",
+      "documentation": "eyeball icon"
+    },
+    {
+      "name": "if-explore",
+      "description": "telescope icon",
+      "documentation": "telescope icon"
+    },
+    {
+      "name": "if-map",
+      "description": "map icon",
+      "documentation": "map icon"
+    },
+    {
+      "name": "if-location-alt",
+      "description": "location pin",
+      "documentation": "location pin"
+    },
+    {
+      "name": "if-location",
+      "description": "location pin",
+      "documentation": "location pin"
+    },
+    {
+      "name": "if-home",
+      "description": "home icon",
+      "documentation": "home icon"
+    },
+    {
+      "name": "if-building-alt",
+      "description": "building icon",
+      "documentation": "building icon"
+    },
+    {
+      "name": "if-building",
+      "description": "building icon",
+      "documentation": "building icon"
+    },
+    {
+      "name": "if-logout",
+      "description": "logout door with arrow",
+      "documentation": "logout door with arrow"
+    },
+    {
+      "name": "if-login",
+      "description": "login icon door with key",
+      "documentation": "login icon door with key"
+    },
+    {
+      "name": "if-webcam",
+      "description": "webcam icon",
+      "documentation": "webcam icon"
+    },
+    {
+      "name": "if-video-file",
+      "description": "video file icon",
+      "documentation": "video file icon"
+    },
+    {
+      "name": "if-screenshot",
+      "description": "screenshot icon",
+      "documentation": "screenshot icon"
+    },
+    {
+      "name": "if-screen",
+      "description": "monitor screen",
+      "documentation": "monitor screen"
+    },
+    {
+      "name": "if-camera",
+      "description": "camera icon",
+      "documentation": "camera icon"
+    },
+    {
+      "name": "if-image",
+      "description": "image icon",
+      "documentation": "image icon"
+    },
+    {
+      "name": "if-disc",
+      "description": "disc icon",
+      "documentation": "disc icon"
+    },
+    {
+      "name": "if-capture",
+      "description": "capture icon",
+      "documentation": "caprture icon"
+    },
+    {
+      "name": "if-wifi-lg",
+      "description": "strong wifi icon",
+      "documentation": "strong wifi icon"
+    },
+    {
+      "name": "if-wifi-md",
+      "description": "medium wifi icon",
+      "documentation": "medium wifi icon"
+    },
+    {
+      "name": "if-wifi-sm",
+      "description": "small wifi icon",
+      "documentation": "small wifi icon"
+    },
+    {
+      "name": "if-wifi-error",
+      "description": "wifi error with exclamation mark",
+      "documentation": "wifi error with exclamation mark"
+    },
+    {
+      "name": "if-wifi-no",
+      "description": "no wifi icon",
+      "documentation": "no wifi icon"
+    },
+    {
+      "name": "if-signal-8",
+      "description": "signal level 8",
+      "documentation": "signal level 8"
+    },
+    {
+      "name": "if-signal-7",
+      "description": "signal level 7",
+      "documentation": "signal level 7"
+    },
+    {
+      "name": "if-signal-6",
+      "description": "signal level 6",
+      "documentation": "signal level 6"
+    },
+    {
+      "name": "if-signal-5",
+      "description": "signal level 5",
+      "documentation": "signal level 5"
+    },
+    {
+      "name": "if-signal-4",
+      "description": "signal level 4",
+      "documentation": "signal level 4"
+    },
+    {
+      "name": "if-signal-3",
+      "description": "signal level 3",
+      "documentation": "signal level 3"
+    },
+    {
+      "name": "if-signal-2",
+      "description": "signal level 2",
+      "documentation": "signal level 2"
+    },
+    {
+      "name": "if-signal-1",
+      "description": "signal level 1",
+      "documentation": "signal level 1"
+    },
+    {
+      "name": "if-signal-0",
+      "description": "signal level 0",
+      "documentation": "signal level 0"
+    },
+    {
+      "name": "if-phone",
+      "description": "phone icon",
+      "documentation": "phone icon"
+    },
+    {
+      "name": "if-battery-x",
+      "description": "no battery icon",
+      "documentation": "no bhattery icon"
+    },
+    {
+      "name": "if-battery-threequarter",
+      "description": "battery 3/4",
+      "documentation": "battery 3/4"
+    },
+    {
+      "name": "if-battery-slash",
+      "description": "battery with slash",
+      "documentation": "battery with slash"
+    },
+    {
+      "name": "if-battery-quarter",
+      "description": "batter 1/4",
+      "documentation": "battery 1/4"
+    },
+    {
+      "name": "if-battery-low",
+      "description": "low battery icon",
+      "documentation": "low battery icon"
+    },
+    {
+      "name": "if-battery-half",
+      "description": "battery 1/2",
+      "documentation": "battery 1/2"
+    },
+    {
+      "name": "if-battery-full-check",
+      "description": "full battery with check",
+      "documentation": "full battery with check"
+    },
+    {
+      "name": "if-battery-full",
+      "description": "full battery icon",
+      "documentation": "full battery icon"
+    },
+    {
+      "name": "if-battery-exclamation",
+      "description": "battery with exclamation",
+      "documentation": "battery with exclamation"
+    },
+    {
+      "name": "if-battery-question",
+      "description": "battery with questionmark",
+      "documentation": "battery with questionmark"
+    },
+    {
+      "name": "if-battery-empty",
+      "description": "empty battery icon",
+      "documentation": "empty battery icon"
+    },
+    {
+      "name": "if-battery-check",
+      "description": "battery with check",
+      "documentation": "battery with check"
+    },
+    {
+      "name": "if-surveillance",
+      "description": "surveillence camera",
+      "documentation": "surveillence camera"
+    },
+    {
+      "name": "if-monitor",
+      "description": "monitor screen with magnify glass",
+      "documentation": "monitor screen with magnify glass"
+    },
+    {
+      "name": "if-maintenance",
+      "description": "wrench",
+      "documentation": "wrench"
+    },
+    {
+      "name": "if-maintenance-warning",
+      "description": "wrench in circle",
+      "documentation": "wrench in circle"
+    },
+    {
+      "name": "if-maintenance-info",
+      "description": "wrench with I icon",
+      "documentation": "wrench with I icon"
+    },
+    {
+      "name": "if-gauge",
+      "description": "a gauge icon",
+      "documentation": "gauge icon"
+    },
+    {
+      "name": "if-navigation-right",
+      "description": "navigation bar right",
+      "documentation": "navigation bar right"
+    },
+    {
+      "name": "if-navigation-left",
+      "description": "navigation bar left",
+      "documentation": "navigation bar left"
+    },
+    {
+      "name": "if-navigation",
+      "description": "compass",
+      "documentation": "compass"
+    },
+    {
+      "name": "if-notifications",
+      "description": "notification icon",
+      "documentation": "notification icon"
+    },
+    {
+      "name": "if-notification",
+      "description": "single notification icon",
+      "documentation": "single notification icon"
+    },
+    {
+      "name": "if-alarm-bell-cancelled",
+      "description": "alarmbell crossedout",
+      "documentation": "alarmbell crossedout"
+    },
+    {
+      "name": "if-alarm-bell",
+      "description": "alarm bell",
+      "documentation": "alarm bell"
+    },
+    {
+      "name": "if-warning",
+      "description": "warning icon",
+      "documentation": "warning icon"
     },
     {
       "name": "is-bg-white",
@@ -2196,6 +4261,176 @@
       "description": "Background Coal 10",
       "documentation": "Hex: #0a0e1a",
       "color": "#0a0e1a"
+    },
+    {
+      "name": "is-size-xs",
+      "description": "font-size: 0.75rem;",
+      "documentation": "font-size: 0.75rem"
+    },
+    {
+      "name": "is-size-sm",
+      "description": "font-size: 0.875rem;",
+      "documentation": "font-size: 0.875rem"
+    },
+    {
+      "name": "is-size-md",
+      "description": "font-size: 1rem;",
+      "documentation": "font-size: 1rem"
+    },
+    {
+      "name": "is-size-lg",
+      "description": "font-size: 1.25rem;",
+      "documentation": "font-size: 1.25rem"
+    },
+    {
+      "name": "is-size-xl",
+      "description": "font-size: 1.5rem;",
+      "documentation": "font-size: 1.5rem"
+    },
+    {
+      "name": "is-size-2xl",
+      "description": "font-size: 2rem;",
+      "documentation": "font-size: 2rem"
+    },
+    {
+      "name": "is-size-3xl",
+      "description": "font-size: 3rem;",
+      "documentation": "font-size: 3rem"
+    },
+    {
+      "name": "is-size-4xl",
+      "description": "font-size: 4rem;",
+      "documentation": "font-size: 4rem"
+    },
+    {
+      "name": "is-size-5xl",
+      "description": "font-size: 5rem;",
+      "documentation": "font-size: 5rem"
+    },
+    {
+      "name": "is-size-6xl",
+      "description": "font-size: 6rem;",
+      "documentation": "font-size: 6rem"
+    },
+    {
+      "name": "is-size-7xl",
+      "description": "font-size: 7rem;",
+      "documentation": "font-size: 7rem"
+    },
+    {
+      "name": "is-size-8xl",
+      "description": "font-size: 8rem;",
+      "documentation": "font-size: 8rem"
+    },
+    {
+      "name": "is-h-auto",
+      "description": "height: auto;",
+      "documentation": "height: auto;"
+    },
+    {
+      "name": "is-h-fit",
+      "description": "height: fit-content;",
+      "documentation": "height: fit-content;"
+    },
+    {
+      "name": "is-h-min",
+      "description": "height: min-content;",
+      "documentation": "height: min-content;"
+    },
+    {
+      "name": "is-h-max",
+      "description": "height: max-content;",
+      "documentation": "height: max-content;"
+    },
+    {
+      "name": "is-h-full",
+      "description": "height: 100%;",
+      "documentation": "height: 100%;"
+    },
+    {
+      "name": "is-h-three-quarter",
+      "description": "height: 75%;",
+      "documentation": "height: 75%;"
+    },
+    {
+      "name": "is-h-half",
+      "description": "height: 50%;",
+      "documentation": "height: 50%;"
+    },
+    {
+      "name": "is-h-quarter",
+      "description": "height: 25%;",
+      "documentation": "height: 25%;"
+    },
+    {
+      "name": "is-w-auto",
+      "description": "width: auto;",
+      "documentation": "width auto;"
+    },
+    {
+      "name": "is-w-fit",
+      "description": "width: fit-content;",
+      "documentation": "width fit-content;"
+    },
+    {
+      "name": "is-w-min",
+      "description": "width: min-content;",
+      "documentation": "width min-content;"
+    },
+    {
+      "name": "is-w-max",
+      "description": "width: max-content;",
+      "documentation": "width max-content;"
+    },
+    {
+      "name": "is-w-full",
+      "description": "width: 100%;",
+      "documentation": "width 100%;"
+    },
+    {
+      "name": "is-w-three-quarter",
+      "description": "width: 75%;",
+      "documentation": "width 75%;"
+    },
+    {
+      "name": "is-w-half",
+      "description": "width: 50%;",
+      "documentation": "width 50%;"
+    },
+    {
+      "name": "is-w-quarter",
+      "description": "width: 25%;",
+      "documentation": "width 25%;"
+    },
+    {
+      "name": "is-rot-90",
+      "description": "rotate 90 degrees",
+      "documentation": "rotate 90 degrees"
+    },
+    {
+      "name": "is-rot-180",
+      "description": "rotate 180 degrees",
+      "documentation": "rotate 180 degrees"
+    },
+    {
+      "name": "is-rot-270",
+      "description": "rotate 270 degrees",
+      "documentation": "rotate 270 degrees"
+    },
+    {
+      "name": "is-rot-360",
+      "description": "rotate 360 degrees",
+      "documentation": "rotate 360 degrees"
+    },
+    {
+      "name": "is-flip-h",
+      "description": "flip horizontally",
+      "documentation": "flip horizontally"
+    },
+    {
+      "name": "is-flip-v",
+      "description": "flip vertically",
+      "documentation": "flip vertically"
     }
   ]
 }
