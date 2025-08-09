@@ -1,31 +1,38 @@
 import * as vscode from 'vscode';
 import * as path from 'path';
 import * as fs from 'fs';
-import { match } from 'assert';
 
-interface IconForgeClass {
+interface IconForgeEntry {
   name: string;
-  description: string;
-  documentation: string;
+  paths?: string[];
+  viewBox?: number;
   snippet?: string;
   color?: string;
-  svg?: string;
 }
 
-let iconforgeData: { version: number; classes: IconForgeClass[] };
+let iconforgeData: IconForgeEntry[];
 const decorationTypeCache = new Map<string, vscode.TextEditorDecorationType>();
 
 export function activate(context: vscode.ExtensionContext) {
   const dataPath = path.join(context.extensionPath, 'data', 'iconforge.data.json');
 
   if (!fs.existsSync(dataPath)) {
-      vscode.window.showErrorMessage('IconForge data file not found. Please reinstall the extension.');
+      vscode.window.showErrorMessage('IconForge data file not found. Please generate it with your tool.');
       return;
   }
 
   try {
     const raw = fs.readFileSync(dataPath, 'utf8');
-    iconforgeData = JSON.parse(raw);
+    const parsedData = JSON.parse(raw);
+
+    if (Array.isArray(parsedData)) {
+        iconforgeData = parsedData;
+    } else if (parsedData && Array.isArray(parsedData.classes)) {
+        iconforgeData = parsedData.classes;
+    } else {
+        throw new Error("Could not find a valid array of icon/style data in iconforge.data.json.");
+    }
+
   } catch (error) {
     vscode.window.showErrorMessage(`Error loading or parsing IconForge data file: ${error}`);
     return;
@@ -44,14 +51,17 @@ export function activate(context: vscode.ExtensionContext) {
             
             const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
 
-            return iconforgeData.classes
-                .filter(cls => cls.name.startsWith('is-') || cls.name.startsWith('if-'))
+            return iconforgeData
                 .sort((a, b) => collator.compare(a.name, b.name))
-                .map(cls => {
-                    const item = new vscode.CompletionItem(cls.name, vscode.CompletionItemKind.Color);
-                    item.detail = cls.color;
-  
-                  return item;
+                .map(entry => {
+                    const item = new vscode.CompletionItem(entry.name, entry.paths ? vscode.CompletionItemKind.Variable : vscode.CompletionItemKind.Color);
+                    if (entry.snippet) {
+                        item.detail = "Style Snippet";
+                    }
+                    if (entry.paths) {
+                        item.detail = "SVG Icon";
+                    }
+                    return item;
             });
         }
     },
@@ -67,16 +77,26 @@ export function activate(context: vscode.ExtensionContext) {
         }
 
         const word = document.getText(range);
-        const match = iconforgeData.classes.find((cls) => cls.name === word);
-        if (match) {
+        const entry = iconforgeData.find(i => i.name === word);
+
+        if (entry) {
           const docs = new vscode.MarkdownString();
           docs.supportHtml = true;
-          docs.appendMarkdown(`**${match.name}**\n\n`);
+          docs.isTrusted = true;
 
-          if (match.snippet) {
-            docs.appendCodeblock(match.snippet, 'css');
-          } else if (match.svg){
-            docs.appendMarkdown(match.documentation);
+          if (entry.paths && entry.viewBox) {
+            const pathElements = entry.paths.map(p => `<path d="${p}"></path>`).join('');
+            const viewBox = entry.viewBox || 1024;
+            const svgString = `<svg width="64" height="64" viewBox="0 0 ${viewBox} ${viewBox}" xmlns="http://www.w3.org/2000/svg" fill="currentColor">${pathElements}</svg>`;
+            const svgDataUri = 'data:image/svg+xml;base64,' + Buffer.from(svgString).toString('base64');
+            
+            docs.appendMarkdown(`![${entry.name}](${svgDataUri})\n\n`);
+            docs.appendMarkdown(`**${entry.name}**`);
+          }
+
+          else if (entry.snippet) {
+            docs.appendMarkdown(`**${entry.name}**\n\n`);
+            docs.appendCodeblock(entry.snippet, 'css');
           }
         
           return new vscode.Hover(docs, range);
@@ -132,7 +152,7 @@ function updateDecorations(editor: vscode.TextEditor) {
 
     while ((match = classRegex.exec(text))) {
         const className = match[0];
-        const iconClass = iconforgeData.classes.find(c => c.name === className);
+        const iconClass = iconforgeData.find(c => c.name === className);
 
         if (iconClass && iconClass.color) {
             const startPos = editor.document.positionAt(match.index);
