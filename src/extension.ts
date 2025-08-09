@@ -17,7 +17,7 @@ export function activate(context: vscode.ExtensionContext) {
   const dataPath = path.join(context.extensionPath, 'data', 'iconforge.data.json');
 
   if (!fs.existsSync(dataPath)) {
-      vscode.window.showErrorMessage('IconForge data file not found. Please generate it with your tool.');
+      vscode.window.showErrorMessage('IconForge data file not found.');
       return;
   }
 
@@ -43,7 +43,7 @@ export function activate(context: vscode.ExtensionContext) {
     {
         provideCompletionItems(document: vscode.TextDocument, position: vscode.Position) {
             const linePrefix = document.lineAt(position).text.substr(0, position.character);
-            const classAttributeRegex = /class(Name)?\s*=\s*["\'`][^"\'`]*$/;
+            const classAttributeRegex = /class(Name)?\s*=\s*["\'][^"\']*$/;
 
             if (!classAttributeRegex.test(linePrefix)) {
                 return undefined;
@@ -61,6 +61,13 @@ export function activate(context: vscode.ExtensionContext) {
                     if (entry.paths) {
                         item.detail = "SVG Icon";
                     }
+                    if (entry.color) {
+                        item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
+                        item.insertText = new vscode.SnippetString(`is-${entry.name}`);
+                    } else {
+                        item.documentation = new vscode.MarkdownString(`**Icon:** ${entry.name}`);
+                        item.insertText = new vscode.SnippetString(`is-${entry.name}`);
+                    }
                     return item;
             });
         }
@@ -72,35 +79,59 @@ export function activate(context: vscode.ExtensionContext) {
     {
       provideHover(document, position) {
         const range = document.getWordRangeAtPosition(position, /(is|if)-[a-zA-Z0-9-]+/);
-        if (!range) {
-            return;
-        }
+        if (!range) return;
 
         const word = document.getText(range);
         const entry = iconforgeData.find(i => i.name === word);
+        if (!entry) return;
 
-        if (entry) {
-          const docs = new vscode.MarkdownString();
-          docs.supportHtml = true;
-          docs.isTrusted = true;
+        const docs = new vscode.MarkdownString();
+        docs.supportHtml = true;
+        docs.isTrusted = true;
 
-          if (entry.paths && entry.viewBox) {
-            const pathElements = entry.paths.map(p => `<path d="${p}"></path>`).join('');
-            const viewBox = entry.viewBox || 1024;
-            const svgString = `<svg width="64" height="64" viewBox="0 0 ${viewBox} ${viewBox}" xmlns="http://www.w3.org/2000/svg" fill="currentColor">${pathElements}</svg>`;
-            const svgDataUri = 'data:image/svg+xml;base64,' + Buffer.from(svgString).toString('base64');
-            
-            docs.appendMarkdown(`![${entry.name}](${svgDataUri})\n\n`);
+        if (entry.paths && entry.viewBox) {
+            let fillColor = "currentColor";
+            let backgroundColor = "transparent";
+            let appliedColorFrom: string | null = null;
+            let appliedBgFrom: string | null = null;
+
+            const lineText = document.lineAt(position.line).text;
+            const styleClasses = lineText.match(/is-[a-zA-Z0-9-]+/g) || [];
+
+            for (const className of styleClasses) {
+                const styleEntry = iconforgeData.find(c => c.name === className);
+                if (styleEntry && styleEntry.color) {
+                    if (className.startsWith('is-bg')) {
+                        backgroundColor = styleEntry.color;
+                        appliedBgFrom = styleEntry.name;
+                    } else {
+                        fillColor = styleEntry.color;
+                        appliedColorFrom = styleEntry.name;
+                    }
+                }
+            }
+            const iconPathElements = entry.paths.map(p => `<path d="${p}"></path>`).join('');
+            const iconViewBox = entry.viewBox || 1024;
+
+            const outerSvgSize = 80;
+            const iconDisplaySize = 70;
+            const padding = (outerSvgSize - iconDisplaySize) / 2;
+
+            const combinedSvgString = 
+            `<svg width="${outerSvgSize}" height="${outerSvgSize}" viewBox="0 0 ${outerSvgSize} ${outerSvgSize}" xmlns="http://www.w3.org/2000/svg">
+              <rect x="0" y="0" width="${outerSvgSize}" height="${outerSvgSize}" fill="${backgroundColor}" />
+              <svg x="${padding}" y="${padding}" width="${iconDisplaySize}" height="${iconDisplaySize}" viewBox="0 0 ${iconViewBox} ${iconViewBox}" fill="${fillColor}">${iconPathElements}</svg>
+            </svg>`;
+            const svgDataUri = 'data:image/svg+xml;base64,' + Buffer.from(combinedSvgString).toString('base64');
+            docs.appendMarkdown(`Preview:\n\n`);
+            docs.appendMarkdown(`![${entry.name}](${svgDataUri})`);  
+        } 
+        else if (entry.snippet) {
             docs.appendMarkdown(`**${entry.name}**`);
-          }
-
-          else if (entry.snippet) {
-            docs.appendMarkdown(`**${entry.name}**\n\n`);
             docs.appendCodeblock(entry.snippet, 'css');
-          }
-        
-          return new vscode.Hover(docs, range);
         }
+      
+        return new vscode.Hover(docs, range);
       }
     }
   );
