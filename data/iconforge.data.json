@@ -5,7 +5,7 @@
         "name": "if-iconforge",
         "description": "Offical IconForge Logo",
         "documentation": "Offical IconForge Logo",
-        "svg": ""
+        "svg": ["M341.334 256h85.334v512h-85.334zM597.334 256h85.334v512h-85.334z"]
     },
     {
         "name": "if-iconforge-alt",
@@ -127,12 +127,6 @@
       "name": "if-dart",
       "description": "Dart Logo",
       "documentation": "Dart Logo"
-    },
-    {
-      "name": "is-color-white",
-      "description": "Color White",
-      "documentation": "Hex: #fff",
-      "color": "#fff"
     },
     {
       "name": "if-rust",
@@ -430,7 +424,7 @@
       "documentation": "Adobe Logo"
     },
     {
-      "name": "if-ae",
+      "name": "if-americaneagle",
       "description": "American Eagle Logo",
       "documentation": "American Eagle Logo"
     },
@@ -565,7 +559,7 @@
       "documentation": "Google Logo"
     },
     {
-      "name": "if-gpay",
+      "name": "if-google-pay",
       "description": "Google Pay Logo",
       "documentation": "Google Pay Logo"
     },
@@ -580,7 +574,7 @@
       "documentation": "H&M Logo"
     },
     {
-      "name": "if-hf",
+      "name": "if-hellofresh",
       "description": "Hello Fresh Logo",
       "documentation": "Hello Fresh Logo"
     },
@@ -830,6 +824,11 @@
       "documentation": "FireFox Logo"
     },
     {
+      "name": "if-firefox-alt",
+      "description": "FireFox Logo",
+      "documentation": "FireFox Logo"
+    },
+    {
       "name": "if-ie",
       "description": "Internet Explore Logo",
       "documentation": "Internet Explore Logo"
@@ -850,22 +849,22 @@
       "documentation": "Safari Logo"
     },
     {
-      "name": "if-windows10",
+      "name": "if-windows-10",
       "description": "Windows 10 Logo",
       "documentation": "Windows 10 Logo"
     },
     {
-      "name": "if-windows11",
+      "name": "if-windows-11",
       "description": "Windows 11 Logo",
       "documentation": "Windows 11 Logo"
     },
     {
-      "name": "if-windowsxp",
+      "name": "if-windows-xp",
       "description": "Windows XP Logo",
       "documentation": "Windows XP Logo"
     },
     {
-      "name": "if-uploadsuccess",
+      "name": "if-upload-success",
       "description": "Upload Successful Icon",
       "documentation": "Upload Success Icon"
     },
@@ -895,37 +894,37 @@
       "documentation": "Touch Icon"
     },
     {
-      "name": "if-tosearch",
+      "name": "if-to-search",
       "description": "To Search Icon",
       "documentation": "To Search Icon"
     },
     {
-      "name": "if-tobepublished",
+      "name": "if-be-published",
       "description": "To Be Published Icon",
       "documentation": "To Be Published Icon"
     },
     {
-      "name": "if-startdataanalysis",
+      "name": "if-start-dataanalysis",
       "description": "Data Analysis Start Icon",
       "documentation": "Data Analysis Start Icon"
     },
     {
-      "name": "if-starcancelled",
+      "name": "if-star-cancelled",
       "description": "Star Icon with Line Through it",
       "documentation": "Star Icon with Line Through it"
     },
     {
-      "name": "if-staradd",
+      "name": "if-star-add",
       "description": "Star Icon with a plus",
       "documentation": "Star Icon with a plus"
     },
     {
-      "name": "if-sortdescending",
+      "name": "if-sort-descending",
       "description": "Sort Icon in Descending Order",
       "documentation": "Sort Icon in Descending Order"
     },
     {
-      "name": "if-sortascending",
+      "name": "if-sort-ascending",
       "description": "Sort Icon in Ascending Order",
       "documentation": "Sort Icon in Ascending Order"
     },
@@ -940,7 +939,7 @@
       "documentation": "Reset Icon"
     },
     {
-      "name": "if-removeeye",
+      "name": "if-remove-eye",
       "description": "Eye Icon with a minus",
       "documentation": "Eye Icon with a minus"
     },
@@ -950,7 +949,7 @@
       "documentation": "Reload Icon"
     },
     {
-      "name": "if-refreshcancelled",
+      "name": "if-refresh-cancelled",
       "description": "Refresh Icon Crossedout",
       "documentation": "Refresh Icon Crossedout"
     },
@@ -1045,7 +1044,7 @@
       "documentation": "Group Icon"
     },
     {
-      "name": "if-eyecancelled",
+      "name": "if-eye-cancelled",
       "description": "Eye icon with a line through it",
       "documentation": "Eye icon with a line through it"
     },
@@ -1060,7 +1059,7 @@
       "documentation": "Combine Icon"
     },
     {
-      "name": "if-closesmall",
+      "name": "if-close-small",
       "description": "Small Close Icon",
       "documentation": "Small Close Icon"
     },
@@ -1080,7 +1079,7 @@
       "documentation": "A X Icon"
     },
     {
-      "name": "if-attachmentupload",
+      "name": "if-attachment-upload",
       "description": "Paperclip with a small up arrow",
       "documentation": "Paperclip with a small up arrow"
     },
@@ -1100,7 +1099,7 @@
       "documentation": "eye with a small plus"
     },
     {
-      "name": "if-addcircle",
+      "name": "if-add-circle",
       "description": "plus icon with a circle around it",
       "documentation": "plus icon with a circle around it"
     },
@@ -1453,6 +1452,11 @@
       "name": "if-average",
       "description": "circle crossedout",
       "documentation": "circle crossedout"
+    },
+    {
+      "name": "if-monitor-trend",
+      "description": "chart showing the trend",
+      "documentation": "chart showing the trend"
     },
     {
       "name": "if-cloud",
@@ -1835,7 +1839,7 @@
       "documentation": "logout door with arrow"
     },
     {
-      "name": "if-login",
+      "name": "if-login-secure",
       "description": "login icon door with key",
       "documentation": "login icon door with key"
     },
@@ -2085,2352 +2089,3601 @@
       "documentation": "warning icon"
     },
     {
+      "name": "if-watersunbathing",
+      "description": "beach with umbrella",
+      "documentation": "beach with umbrella"
+    },
+    {
+      "name": "if-waterfish",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-waterbating",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-rocket",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-couch",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-bulb",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-binoculars",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-workcase",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-book",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-unlockplant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tulip",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plantuser",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plantsettings",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plantsecurity",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plants",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plantoutline",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plant-handbook",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-plant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-operateplant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-leaf",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-globalplant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-editplant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-createplant",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-protocol",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-projectnew",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-projectconfiguration",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-project",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-ontology",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-logicdiagram",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-functiondiagramnew",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-functiondiagram",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-functionblocknew",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-functionblocklibrary",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-functionblock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-diagrammodulenew",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-diagrammodulelibrary",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-diagrammodule",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-code",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-ai",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-triangle",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-rhomb",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-doublet",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-diamond",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-connectorrhomb",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-connectorrect",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-connectorhex",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-connector",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-compoundblock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-circledot",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-circle",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-shoppingcart",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-productmanagement",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-productcatalog",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-product",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-barcode",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-signlanguage",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-share",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-heart",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-warningrhomb",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-warningtri",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-validate",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-success",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-singlecheck",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-priomiddle",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-priolow",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-priohigh",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-questiontri",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checksquare",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-maintenancerequired",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-failure",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkfunction",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-mandatorydone",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-mandatory",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-health",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-error",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-doublecheck",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-disconnected",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-connected",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-cancelled",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-anomalyfound",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-anomaly",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-unlock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-pctower",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-lockkey",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-lock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-ingestion",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-hardwarecabinet",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-disk",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-dataingressegress",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-dataingress",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-dataegress",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-database",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-controllerdevice",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-controlleddevice",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-configure",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-configuration",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-cogwheel",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-settings-solid",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-settings-outline",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-versionhistory",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-scheduler",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-liveschedule",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-hourglass",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-historylist",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-history",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-clock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-calendarsettings",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-calendar",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-alarmclock",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-zoomselection",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-zoomout",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-zoomin",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tree",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-topic",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-taskopen",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-taskdone",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-taskall",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tag",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tablesettings",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tablerows",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-tablecolumns",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-table",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-starlist",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-star",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-splitvertically",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-splithorizontally",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-search",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-question",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-nofilter",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-newindicator",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-moremenu",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-minimize",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-maximize",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-list",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-layers",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-label",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-itemdetails",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-infofeed",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-info",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-hierarchy",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-fullscreenexit",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-fullscreen",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-filteroutline",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-filter",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-details",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-contextmenu",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-clearfilter",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkboxes",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkbox-unchecked",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkbox-mixed",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkbox-checked",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-checkbox",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-cardlayout",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-apps",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-appmenu",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-addtasklist",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-addtask",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-about",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-usersettings",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-userprofile",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-usermanagement",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-usercheck",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-user",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-contactdetails",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-sun",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-snowflake",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-globe",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-earth",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "if-drop",
+      "description": "",
+      "documentation": ""
+    },
+    {
+      "name": "is-color-white",
+      "description": "Color White",
+      "documentation": "Hex: #fff",
+      "color": "#fff",
+      "snippet": ".is-color-white {\n color: #fff;\n }"
+    },
+    {
       "name": "is-bg-white",
       "description": "Background White",
       "documentation": "Hex: #fff",
-      "color": "#fff"
+      "color": "#fff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-black",
       "description": "Color Black",
       "documentation": "Hex: #000",
-      "color": "#000"
+      "color": "#000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-black",
       "description": "Background Black",
       "documentation": "Hex: #000",
-      "color": "#000"
+      "color": "#000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-1",
       "description": "Color Red 1",
       "documentation": "Hex: #FFE5E5",
-      "color": "#FFE5E5"
+      "color": "#FFE5E5",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-2",
       "description": "Color Red 2",
       "documentation": "Hex: #FFB3B3",
-      "color": "#FFB3B3"
+      "color": "#FFB3B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-3",
       "description": "Color Red 3",
       "documentation": "Hex: #FF8080",
-      "color": "#FF8080"
+      "color": "#FF8080",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-4",
       "description": "Color Red 4",
       "documentation": "Hex: #FF4D4D",
-      "color": "#FF4D4D"
+      "color": "#FF4D4D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-5",
       "description": "Color Red 5",
       "documentation": "Hex: #FF1A1A",
-      "color": "#FF1A1A"
+      "color": "#FF1A1A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-6",
       "description": "Color Red 6",
       "documentation": "Hex: #E60000",
-      "color": "#E60000"
+      "color": "#E60000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-7",
       "description": "Color Red 7",
       "documentation": "Hex: #B30000",
-      "color": "#B30000"
+      "color": "#B30000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-8",
       "description": "Color Red 8",
       "documentation": "Hex: #800000",
-      "color": "#800000"
+      "color": "#800000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-9",
       "description": "Color Red 9",
       "documentation": "Hex: #4D0000",
-      "color": "#4D0000"
+      "color": "#4D0000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-red-10",
       "description": "Color Red 10",
       "documentation": "Hex: #1A0000",
-      "color": "#1A0000"
+      "color": "#1A0000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-1",
       "description": "Background Red 1",
       "documentation": "Hex: #ffe5e5",
-      "color": "#ffe5e5"
+      "color": "#ffe5e5",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-2",
       "description": "Background Red 2",
       "documentation": "Hex: #fcbaba",
-      "color": "#fcbaba"
+      "color": "#fcbaba",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-3",
       "description": "Background Red 3",
       "documentation": "Hex: #f28f8f",
-      "color": "#f28f8f"
+      "color": "#f28f8f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-4",
       "description": "Background Red 4",
       "documentation": "Hex: #e65f5f",
-      "color": "#e65f5f"
+      "color": "#e65f5f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-5",
       "description": "Background Red 5",
       "documentation": "Hex: #dc2626",
-      "color": "#dc2626"
+      "color": "#dc2626",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-6",
       "description": "Background Red 6",
       "documentation": "Hex: #b91c1c",
-      "color": "#b91c1c"
+      "color": "#b91c1c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-7",
       "description": "Background Red 7",
       "documentation": "Hex: #991b1b",
-      "color": "#991b1b"
+      "color": "#991b1b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-8",
       "description": "Background Red 8",
       "documentation": "Hex: #7f1d1d",
-      "color": "#7f1d1d"
+      "color": "#7f1d1d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-9",
       "description": "Background Red 9",
       "documentation": "Hex: #611616",
-      "color": "#611616"
+      "color": "#611616",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-red-10",
       "description": "Background Red 10",
       "documentation": "Hex: #4b0f0f",
-      "color": "#4b0f0f"
+      "color": "#4b0f0f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-1",
       "description": "Color Orange 1",
       "documentation": "Hex: #FFF0E0",
-      "color": "#FFF0E0"
+      "color": "#FFF0E0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-2",
       "description": "Color Orange 2",
       "documentation": "Hex: #FFD8B3",
-      "color": "#FFD8B3"
+      "color": "#FFD8B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-3",
       "description": "Color Orange 3",
       "documentation": "Hex: #FFBB80",
-      "color": "#FFBB80"
+      "color": "#FFBB80",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-4",
       "description": "Color Orange 4",
       "documentation": "Hex: #FF994D",
-      "color": "#FF994D"
+      "color": "#FF994D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-5",
       "description": "Color Orange 5",
       "documentation": "Hex: #FF8000",
-      "color": "#FF8000"
+      "color": "#FF8000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-6",
       "description": "Color Orange 6",
       "documentation": "Hex: #E67300",
-      "color": "#E67300"
+      "color": "#E67300",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-7",
       "description": "Color Orange 7",
       "documentation": "Hex: #B35900",
-      "color": "#B35900"
+      "color": "#B35900",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-8",
       "description": "Color Orange 8",
       "documentation": "Hex: #804000",
-      "color": "#804000"
+      "color": "#804000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-9",
       "description": "Color Orange 9",
       "documentation": "Hex: #4D2600",
-      "color": "#4D2600"
+      "color": "#4D2600",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-orange-10",
       "description": "Color Orange 10",
       "documentation": "Hex: #1A0D00",
-      "color": "#1A0D00"
+      "color": "#1A0D00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-1",
       "description": "Background Orange 1",
       "documentation": "Hex: #fff1e6",
-      "color": "#fff1e6"
+      "color": "#fff1e6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-2",
       "description": "Background Orange 2",
       "documentation": "Hex: #ffd8b5",
-      "color": "#ffd8b5"
+      "color": "#ffd8b5",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-3",
       "description": "Background Orange 3",
       "documentation": "Hex: #ffc084",
-      "color": "#ffc084"
+      "color": "#ffc084",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-4",
       "description": "Background Orange 4",
       "documentation": "Hex: #ffa952",
-      "color": "#ffa952"
+      "color": "#ffa952",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-5",
       "description": "Background Orange 5",
       "documentation": "Hex: #f97316",
-      "color": "#f97316"
+      "color": "#f97316",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-6",
       "description": "Background Orange 6",
       "documentation": "Hex: #ea580c",
-      "color": "#ea580c"
+      "color": "#ea580c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-7",
       "description": "Background Orange 7",
       "documentation": "Hex: #c2410c",
-      "color": "#c2410c"
+      "color": "#c2410c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-8",
       "description": "Background Orange 8",
       "documentation": "Hex: #9a3412",
-      "color": "#9a3412"
+      "color": "#9a3412",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-9",
       "description": "Background Orange 9",
       "documentation": "Hex: #7c2d12",
-      "color": "#7c2d12"
+      "color": "#7c2d12",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-orange-10",
       "description": "Background Orange 10",
       "documentation": "Hex: #5a1e0f",
-      "color": "#5a1e0f"
+      "color": "#5a1e0f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-1",
       "description": "Color Yellow 1",
       "documentation": "Hex: #FFFFE0",
-      "color": "#FFFFE0"
+      "color": "#FFFFE0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-2",
       "description": "Color Yellow 2",
       "documentation": "Hex: #FFFFB3",
-      "color": "#FFFFB3"
+      "color": "#FFFFB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-3",
       "description": "Color Yellow 3",
       "documentation": "Hex: #FFFF80",
-      "color": "#FFFF80"
+      "color": "#FFFF80",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-4",
       "description": "Color Yellow 4",
       "documentation": "Hex: #FFFF4D",
-      "color": "#FFFF4D"
+      "color": "#FFFF4D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-5",
       "description": "Color Yellow 5",
       "documentation": "Hex: #FFFF00",
-      "color": "#FFFF00"
+      "color": "#FFFF00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-6",
       "description": "Color Yellow 6",
       "documentation": "Hex: #E6E600",
-      "color": "#E6E600"
+      "color": "#E6E600",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-7",
       "description": "Color Yellow 7",
       "documentation": "Hex: #B3B300",
-      "color": "#B3B300"
+      "color": "#B3B300",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-8",
       "description": "Color Yellow 8",
       "documentation": "Hex: #808000",
-      "color": "#808000"
+      "color": "#808000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-9",
       "description": "Color Yellow 9",
       "documentation": "Hex: #4D4D00",
-      "color": "#4D4D00"
+      "color": "#4D4D00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-yellow-10",
       "description": "Color Yellow 10",
       "documentation": "Hex: #1A1A00",
-      "color": "#1A1A00"
+      "color": "#1A1A00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-1",
       "description": "Background Yellow 1",
       "documentation": "Hex: #fffde7",
-      "color": "#fffde7"
+      "color": "#fffde7",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-2",
       "description": "Background Yellow 2",
       "documentation": "Hex: #fff9c4",
-      "color": "#fff9c4"
+      "color": "#fff9c4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-3",
       "description": "Background Yellow 3",
       "documentation": "Hex: #fff176",
-      "color": "#fff176"
+      "color": "#fff176",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-4",
       "description": "Background Yellow 4",
       "documentation": "Hex: #ffeb3b",
-      "color": "#ffeb3b"
+      "color": "#ffeb3b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-5",
       "description": "Background Yellow 5",
       "documentation": "Hex: #eab308",
-      "color": "#eab308"
+      "color": "#eab308",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-6",
       "description": "Background Yellow 6",
       "documentation": "Hex: #ca8a04",
-      "color": "#ca8a04"
+      "color": "#ca8a04",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-7",
       "description": "Background Yellow 7",
       "documentation": "Hex: #a16207",
-      "color": "#a16207"
+      "color": "#a16207",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-8",
       "description": "Background Yellow 8",
       "documentation": "Hex: #854d0e",
-      "color": "#854d0e"
+      "color": "#854d0e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-9",
       "description": "Background Yellow 9",
       "documentation": "Hex: #713f12",
-      "color": "#713f12"
+      "color": "#713f12",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-yellow-10",
       "description": "Background Yellow 10",
       "documentation": "Hex: #5a3410",
-      "color": "#5a3410"
+      "color": "#5a3410",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-1",
       "description": "Color Green 1",
       "documentation": "Hex: #E6FFE6",
-      "color": "#E6FFE6"
+      "color": "#E6FFE6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-2",
       "description": "Color Green 2",
       "documentation": "Hex: #B3FFB3",
-      "color": "#B3FFB3"
+      "color": "#B3FFB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-3",
       "description": "Color Green 3",
       "documentation": "Hex: #80FF80",
-      "color": "#80FF80"
+      "color": "#80FF80",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-4",
       "description": "Color Green 4",
       "documentation": "Hex: #4DFF4D",
-      "color": "#4DFF4D"
+      "color": "#4DFF4D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-5",
       "description": "Color Green 5",
       "documentation": "Hex: #1AFF1A",
-      "color": "#1AFF1A"
+      "color": "#1AFF1A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-6",
       "description": "Color Green 6",
       "documentation": "Hex: #00E600",
-      "color": "#00E600"
+      "color": "#00E600",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-7",
       "description": "Color Green 7",
       "documentation": "Hex: #00B300",
-      "color": "#00B300"
+      "color": "#00B300",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-8",
       "description": "Color Green 8",
       "documentation": "Hex: #008000",
-      "color": "#008000"
+      "color": "#008000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-9",
       "description": "Color Green 9",
       "documentation": "Hex: #004D00",
-      "color": "#004D00"
+      "color": "#004D00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-green-10",
       "description": "Color Green 10",
       "documentation": "Hex: #001A00",
-      "color": "#001A00"
+      "color": "#001A00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-1",
       "description": "Background Green 1",
       "documentation": "Hex: #e6fce6",
-      "color": "#e6fce6"
+      "color": "#e6fce6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-2",
       "description": "Background Green 2",
       "documentation": "Hex: #b2f2b2",
-      "color": "#b2f2b2"
+      "color": "#b2f2b2",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-3",
       "description": "Background Green 3",
       "documentation": "Hex: #75e175",
-      "color": "#75e175"
+      "color": "#75e175",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-4",
       "description": "Background Green 4",
       "documentation": "Hex: #4ade80",
-      "color": "#4ade80"
+      "color": "#4ade80",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-5",
       "description": "Background Green 5",
       "documentation": "Hex: #22c55e",
-      "color": "#22c55e"
+      "color": "#22c55e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-6",
       "description": "Background Green 6",
       "documentation": "Hex: #16a34a",
-      "color": "#16a34a"
+      "color": "#16a34a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-7",
       "description": "Background Green 7",
       "documentation": "Hex: #15803d",
-      "color": "#15803d"
+      "color": "#15803d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-8",
       "description": "Background Green 8",
       "documentation": "Hex: #166534",
-      "color": "#166534"
+      "color": "#166534",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-9",
       "description": "Background Green 9",
       "documentation": "Hex: #14532d",
-      "color": "#14532d"
+      "color": "#14532d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-green-10",
       "description": "Background Green 10",
       "documentation": "Hex: #0e3f21",
-      "color": "#0e3f21"
+      "color": "#0e3f21",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-1",
       "description": "Color Blue 1",
       "documentation": "Hex: #E6F0FF",
-      "color": "#E6F0FF"
+      "color": "#E6F0FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-2",
       "description": "Color Blue 2",
       "documentation": "Hex: #B3D1FF",
-      "color": "#B3D1FF"
+      "color": "#B3D1FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-3",
       "description": "Color Blue 3",
       "documentation": "Hex: #80B3FF",
-      "color": "#80B3FF"
+      "color": "#80B3FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-4",
       "description": "Color Blue 4",
       "documentation": "Hex: #4D94FF",
-      "color": "#4D94FF"
+      "color": "#4D94FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-5",
       "description": "Color Blue 5",
       "documentation": "Hex: #1A75FF",
-      "color": "#1A75FF"
+      "color": "#1A75FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-6",
       "description": "Color Blue 6",
       "documentation": "Hex: #005CE6",
-      "color": "#005CE6"
+      "color": "#005CE6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-7",
       "description": "Color Blue 7",
       "documentation": "Hex: #0047B3",
-      "color": "#0047B3"
+      "color": "#0047B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-8",
       "description": "Color Blue 8",
       "documentation": "Hex: #003280",
-      "color": "#003280"
+      "color": "#003280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-9",
       "description": "Color Blue 9",
       "documentation": "Hex: #001D4D",
-      "color": "#001D4D"
+      "color": "#001D4D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blue-10",
       "description": "Color Blue 10",
       "documentation": "Hex: #00091A",
-      "color": "#00091A"
+      "color": "#00091A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-1",
       "description": "Background Blue 1",
       "documentation": "Hex: #ebf8ff",
-      "color": "#ebf8ff"
+      "color": "#ebf8ff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-2",
       "description": "Background Blue 2",
       "documentation": "Hex: #bee3f8",
-      "color": "#bee3f8"
+      "color": "#bee3f8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-3",
       "description": "Background Blue 3",
       "documentation": "Hex: #90cdf4",
-      "color": "#90cdf4"
+      "color": "#90cdf4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-4",
       "description": "Background Blue 4",
       "documentation": "Hex: #63b3ed",
-      "color": "#63b3ed"
+      "color": "#63b3ed",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-5",
       "description": "Background Blue 5",
       "documentation": "Hex: #4299e1",
-      "color": "#4299e1"
+      "color": "#4299e1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-6",
       "description": "Background Blue 6",
       "documentation": "Hex: #3182ce",
-      "color": "#3182ce"
+      "color": "#3182ce",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-7",
       "description": "Background Blue 7",
       "documentation": "Hex: #2b6cb0",
-      "color": "#2b6cb0"
+      "color": "#2b6cb0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-8",
       "description": "Background Blue 8",
       "documentation": "Hex: #2c5282",
-      "color": "#2c5282"
+      "color": "#2c5282",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-9",
       "description": "Background Blue 9",
       "documentation": "Hex: #2a4365",
-      "color": "#2a4365"
+      "color": "#2a4365",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blue-10",
       "description": "Background Blue 10",
       "documentation": "Hex: #1a365d",
-      "color": "#1a365d"
+      "color": "#1a365d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-1",
       "description": "Color Purple 1",
       "documentation": "Hex: #F3E6FF",
-      "color": "#F3E6FF"
+      "color": "#F3E6FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-2",
       "description": "Color Purple 2",
       "documentation": "Hex: #D9B3FF",
-      "color": "#D9B3FF"
+      "color": "#D9B3FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-3",
       "description": "Color Purple 3",
       "documentation": "Hex: #BF80FF",
-      "color": "#BF80FF"
+      "color": "#BF80FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-4",
       "description": "Color Purple 4",
       "documentation": "Hex: #A64DFF",
-      "color": "#A64DFF"
+      "color": "#A64DFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-5",
       "description": "Color Purple 5",
       "documentation": "Hex: #8C1AFF",
-      "color": "#8C1AFF"
+      "color": "#8C1AFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-6",
       "description": "Color Purple 6",
       "documentation": "Hex: #7300E6",
-      "color": "#7300E6"
+      "color": "#7300E6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-7",
       "description": "Color Purple 7",
       "documentation": "Hex: #5900B3",
-      "color": "#5900B3"
+      "color": "#5900B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-8",
       "description": "Color Purple 8",
       "documentation": "Hex: #400080",
-      "color": "#400080"
+      "color": "#400080",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-9",
       "description": "Color Purple 9",
       "documentation": "Hex: #26004D",
-      "color": "#26004D"
+      "color": "#26004D",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-purple-10",
       "description": "Color Purple 10",
       "documentation": "Hex: #0D001A",
-      "color": "#0D001A"
+      "color": "#0D001A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-1",
       "description": "Background Purple 1",
       "documentation": "Hex: #f3e8ff",
-      "color": "#f3e8ff"
+      "color": "#f3e8ff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-2",
       "description": "Background Purple 2",
       "documentation": "Hex: #e9d5ff",
-      "color": "#e9d5ff"
+      "color": "#e9d5ff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-3",
       "description": "Background Purple 3",
       "documentation": "Hex: #d8b4fe",
-      "color": "#d8b4fe"
+      "color": "#d8b4fe",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-4",
       "description": "Background Purple 4",
       "documentation": "Hex: #c084fc",
-      "color": "#c084fc"
+      "color": "#c084fc",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-5",
       "description": "Background Purple 5",
       "documentation": "Hex: #a855f7",
-      "color": "#a855f7"
+      "color": "#a855f7",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-6",
       "description": "Background Purple 6",
       "documentation": "Hex: #9333ea",
-      "color": "#9333ea"
+      "color": "#9333ea",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-7",
       "description": "Background Purple 7",
       "documentation": "Hex: #7e22ce",
-      "color": "#7e22ce"
+      "color": "#7e22ce",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-8",
       "description": "Background Purple 8",
       "documentation": "Hex: #6b21a8",
-      "color": "#6b21a8"
+      "color": "#6b21a8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-9",
       "description": "Background Purple 9",
       "documentation": "Hex: #581c87",
-      "color": "#581c87"
+      "color": "#581c87",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-purple-10",
       "description": "Background Purple 10",
       "documentation": "Hex: #3b0764",
-      "color": "#3b0764"
+      "color": "#3b0764",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-1",
       "description": "Color Blush 1",
       "documentation": "Hex: #FFF0F3",
-      "color": "#FFF0F3"
+      "color": "#FFF0F3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-2",
       "description": "Color Blush 2",
       "documentation": "Hex: #FFD9DF",
-      "color": "#FFD9DF"
+      "color": "#FFD9DF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-3",
       "description": "Color Blush 3",
       "documentation": "Hex: #FFC0C9",
-      "color": "#FFC0C9"
+      "color": "#FFC0C9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-4",
       "description": "Color Blush 4",
       "documentation": "Hex: #FFA7B3",
-      "color": "#FFA7B3"
+      "color": "#FFA7B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-5",
       "description": "Color Blush 5",
       "documentation": "Hex: #FF8C9C",
-      "color": "#FF8C9C"
+      "color": "#FF8C9C",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-6",
       "description": "Color Blush 6",
       "documentation": "Hex: #FF6B81",
-      "color": "#FF6B81"
+      "color": "#FF6B81",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-7",
       "description": "Color Blush 7",
       "documentation": "Hex: #E0546A",
-      "color": "#E0546A"
+      "color": "#E0546A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-8",
       "description": "Color Blush 8",
       "documentation": "Hex: #B34053",
-      "color": "#B34053"
+      "color": "#B34053",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-9",
       "description": "Color Blush 9",
       "documentation": "Hex: #802D3B",
-      "color": "#802D3B"
+      "color": "#802D3B",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-blush-10",
       "description": "Color Blush 10",
       "documentation": "Hex: #4D1A24",
-      "color": "#4D1A24"
+      "color": "#4D1A24",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-1",
       "description": "Background Blush 1",
       "documentation": "Hex: #FFF0F3",
-      "color": "#FFF0F3"
+      "color": "#FFF0F3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-2",
       "description": "Background Blush 2",
       "documentation": "Hex: #FFD9DF",
-      "color": "#FFD9DF"
+      "color": "#FFD9DF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-3",
       "description": "Background Blush 3",
       "documentation": "Hex: #FFC0C9",
-      "color": "#FFC0C9"
+      "color": "#FFC0C9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-4",
       "description": "Background Blush 4",
       "documentation": "Hex: #FFA7B3",
-      "color": "#FFA7B3"
+      "color": "#FFA7B3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-5",
       "description": "Background Blush 5",
       "documentation": "Hex: #FF8C9C",
-      "color": "#FF8C9C"
+      "color": "#FF8C9C",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-6",
       "description": "Background Blush 6",
       "documentation": "Hex: #FF6B81",
-      "color": "#FF6B81"
+      "color": "#FF6B81",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-7",
       "description": "Background Blush 7",
       "documentation": "Hex: #E0546A",
-      "color": "#E0546A"
+      "color": "#E0546A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-8",
       "description": "Background Blush 8",
       "documentation": "Hex: #B34053",
-      "color": "#B34053"
+      "color": "#B34053",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-9",
       "description": "Background Blush 9",
       "documentation": "Hex: #802D3B",
-      "color": "#802D3B"
+      "color": "#802D3B",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-blush-10",
       "description": "Background Blush 10",
       "documentation": "Hex: #4D1A24",
-      "color": "#4D1A24"
+      "color": "#4D1A24",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-1",
       "description": "Color Peach 1",
       "documentation": "Hex: #FFF3EC",
-      "color": "#FFF3EC"
+      "color": "#FFF3EC",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-2",
       "description": "Color Peach 2",
       "documentation": "Hex: #FFE0D0",
-      "color": "#FFE0D0"
+      "color": "#FFE0D0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-3",
       "description": "Color Peach 3",
       "documentation": "Hex: #FFCAB3",
-      "color": "#FFCAB3"
+      "color": "#FFCAB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-4",
       "description": "Color Peach 4",
       "documentation": "Hex: #FFAD8C",
-      "color": "#FFAD8C"
+      "color": "#FFAD8C",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-5",
       "description": "Color Peach 5",
       "documentation": "Hex: #FF9266",
-      "color": "#FF9266"
+      "color": "#FF9266",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-6",
       "description": "Color Peach 6",
       "documentation": "Hex: #FF7043",
-      "color": "#FF7043"
+      "color": "#FF7043",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-7",
       "description": "Color Peach 7",
       "documentation": "Hex: #E65F36",
-      "color": "#E65F36"
+      "color": "#E65F36",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-8",
       "description": "Color Peach 8",
       "documentation": "Hex: #B34A2A",
-      "color": "#B34A2A"
+      "color": "#B34A2A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-9",
       "description": "Color Peach 9",
       "documentation": "Hex: #80351F",
-      "color": "#80351F"
+      "color": "#80351F",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-peach-10",
       "description": "Color Peach 10",
       "documentation": "Hex: #4D2113",
-      "color": "#4D2113"
+      "color": "#4D2113",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-1",
       "description": "Background Peach 1",
       "documentation": "Hex: #FFF3EC",
-      "color": "#FFF3EC"
+      "color": "#FFF3EC",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-2",
       "description": "Background Peach 2",
       "documentation": "Hex: #FFE0D0",
-      "color": "#FFE0D0"
+      "color": "#FFE0D0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-3",
       "description": "Background Peach 3",
       "documentation": "Hex: #FFCAB3",
-      "color": "#FFCAB3"
+      "color": "#FFCAB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-4",
       "description": "Background Peach 4",
       "documentation": "Hex: #FFAD8C",
-      "color": "#FFAD8C"
+      "color": "#FFAD8C",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-5",
       "description": "Background Peach 5",
       "documentation": "Hex: #FF9266",
-      "color": "#FF9266"
+      "color": "#FF9266",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-6",
       "description": "Background Peach 6",
       "documentation": "Hex: #FF7043",
-      "color": "#FF7043"
+      "color": "#FF7043",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-7",
       "description": "Background Peach 7",
       "documentation": "Hex: #E65F36",
-      "color": "#E65F36"
+      "color": "#E65F36",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-8",
       "description": "Background Peach 8",
       "documentation": "Hex: #B34A2A",
-      "color": "#B34A2A"
+      "color": "#B34A2A",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-9",
       "description": "Background Peach 9",
       "documentation": "Hex: #80351F",
-      "color": "#80351F"
+      "color": "#80351F",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-peach-10",
       "description": "Background Peach 10",
       "documentation": "Hex: #4D2113",
-      "color": "#4D2113"
+      "color": "#4D2113",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-1",
       "description": "Color Amber 1",
       "documentation": "Hex: #FFF8E1",
-      "color": "#FFF8E1"
+      "color": "#FFF8E1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-2",
       "description": "Color Amber 2",
       "documentation": "Hex: #FFECB3",
-      "color": "#FFECB3"
+      "color": "#FFECB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-3",
       "description": "Color Amber 3",
       "documentation": "Hex: #FFE082",
-      "color": "#FFE082"
+      "color": "#FFE082",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-4",
       "description": "Color Amber 4",
       "documentation": "Hex: #FFD54F",
-      "color": "#FFD54F"
+      "color": "#FFD54F",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-5",
       "description": "Color Amber 5",
       "documentation": "Hex: #FFCA28",
-      "color": "#FFCA28"
+      "color": "#FFCA28",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-6",
       "description": "Color Amber 6",
       "documentation": "Hex: #FFC107",
-      "color": "#FFC107"
+      "color": "#FFC107",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-7",
       "description": "Color Amber 7",
       "documentation": "Hex: #FFB300",
-      "color": "#FFB300"
+      "color": "#FFB300",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-8",
       "description": "Color Amber 8",
       "documentation": "Hex: #FFA000",
-      "color": "#FFA000"
+      "color": "#FFA000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-9",
       "description": "Color Amber 9",
       "documentation": "Hex: #FF8F00",
-      "color": "#FF8F00"
+      "color": "#FF8F00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-amber-10",
       "description": "Color Amber 10",
       "documentation": "Hex: #FF6F00",
-      "color": "#FF6F00"
+      "color": "#FF6F00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-1",
       "description": "Background Amber 1",
       "documentation": "Hex: #FFF8E1",
-      "color": "#FFF8E1"
+      "color": "#FFF8E1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-2",
       "description": "Background Amber 2",
       "documentation": "Hex: #FFECB3",
-      "color": "#FFECB3"
+      "color": "#FFECB3",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-3",
       "description": "Background Amber 3",
       "documentation": "Hex: #FFE082",
-      "color": "#FFE082"
+      "color": "#FFE082",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-4",
       "description": "Background Amber 4",
       "documentation": "Hex: #FFD54F",
-      "color": "#FFD54F"
+      "color": "#FFD54F",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-5",
       "description": "Background Amber 5",
       "documentation": "Hex: #FFCA28",
-      "color": "#FFCA28"
+      "color": "#FFCA28",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-6",
       "description": "Background Amber 6",
       "documentation": "Hex: #FFC107",
-      "color": "#FFC107"
+      "color": "#FFC107",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-7",
       "description": "Background Amber 7",
       "documentation": "Hex: #FFB300",
-      "color": "#FFB300"
+      "color": "#FFB300",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-8",
       "description": "Background Amber 8",
       "documentation": "Hex: #FFA000",
-      "color": "#FFA000"
+      "color": "#FFA000",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-9",
       "description": "Background Amber 9",
       "documentation": "Hex: #FF8F00",
-      "color": "#FF8F00"
+      "color": "#FF8F00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-amber-10",
       "description": "Background Amber 10",
       "documentation": "Hex: #FF6F00",
-      "color": "#FF6F00"
+      "color": "#FF6F00",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-1",
       "description": "Color Zest 1",
       "documentation": "Hex: #f7fee7",
-      "color": "#f7fee7"
+      "color": "#f7fee7",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-2",
       "description": "Color Zest 2",
       "documentation": "Hex: #ecfccb",
-      "color": "#ecfccb"
+      "color": "#ecfccb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-3",
       "description": "Color Zest 3",
       "documentation": "Hex: #d9f99d",
-      "color": "#d9f99d"
+      "color": "#d9f99d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-4",
       "description": "Color Zest 4",
       "documentation": "Hex: #bef264",
-      "color": "#bef264"
+      "color": "#bef264",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-5",
       "description": "Color Zest 5",
       "documentation": "Hex: #a3e635",
-      "color": "#a3e635"
+      "color": "#a3e635",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-6",
       "description": "Color Zest 6",
       "documentation": "Hex: #84cc16",
-      "color": "#84cc16"
+      "color": "#84cc16",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-7",
       "description": "Color Zest 7",
       "documentation": "Hex: #65a30d",
-      "color": "#65a30d"
+      "color": "#65a30d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-8",
       "description": "Color Zest 8",
       "documentation": "Hex: #4d7c0f",
-      "color": "#4d7c0f"
+      "color": "#4d7c0f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-9",
       "description": "Color Zest 9",
       "documentation": "Hex: #3f6212",
-      "color": "#3f6212"
+      "color": "#3f6212",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-zest-10",
       "description": "Color Zest 10",
       "documentation": "Hex: #365314",
-      "color": "#365314"
+      "color": "#365314",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-1",
       "description": "Background Zest 1",
       "documentation": "Hex: #f7fee7",
-      "color": "#f7fee7"
+      "color": "#f7fee7",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-2",
       "description": "Background Zest 2",
       "documentation": "Hex: #ecfccb",
-      "color": "#ecfccb"
+      "color": "#ecfccb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-3",
       "description": "Background Zest 3",
       "documentation": "Hex: #d9f99d",
-      "color": "#d9f99d"
+      "color": "#d9f99d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-4",
       "description": "Background Zest 4",
       "documentation": "Hex: #bef264",
-      "color": "#bef264"
+      "color": "#bef264",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-5",
       "description": "Background Zest 5",
       "documentation": "Hex: #a3e635",
-      "color": "#a3e635"
+      "color": "#a3e635",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-6",
       "description": "Background Zest 6",
       "documentation": "Hex: #84cc16",
-      "color": "#84cc16"
+      "color": "#84cc16",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-7",
       "description": "Background Zest 7",
       "documentation": "Hex: #65a30d",
-      "color": "#65a30d"
+      "color": "#65a30d",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-8",
       "description": "Background Zest 8",
       "documentation": "Hex: #4d7c0f",
-      "color": "#4d7c0f"
+      "color": "#4d7c0f",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-9",
       "description": "Background Zest 9",
       "documentation": "Hex: #3f6212",
-      "color": "#3f6212"
+      "color": "#3f6212",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-zest-10",
       "description": "Background Zest 10",
       "documentation": "Hex: #365314",
-      "color": "#365314"
+      "color": "#365314",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-1",
       "description": "Color Frost 1",
       "documentation": "Hex: #ecfeff",
-      "color": "#ecfeff"
+      "color": "#ecfeff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-2",
       "description": "Color Frost 2",
       "documentation": "Hex: #cffafe",
-      "color": "#cffafe"
+      "color": "#cffafe",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-3",
       "description": "Color Frost 3",
       "documentation": "Hex: #a5f3fc",
-      "color": "#a5f3fc"
+      "color": "#a5f3fc",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-4",
       "description": "Color Frost 4",
       "documentation": "Hex: #67e8f9",
-      "color": "#67e8f9"
+      "color": "#67e8f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-5",
       "description": "Color Frost 5",
       "documentation": "Hex: #22d3ee",
-      "color": "#22d3ee"
+      "color": "#22d3ee",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-6",
       "description": "Color Frost 6",
       "documentation": "Hex: #06b6d4",
-      "color": "#06b6d4"
+      "color": "#06b6d4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-7",
       "description": "Color Frost 7",
       "documentation": "Hex: #0891b2",
-      "color": "#0891b2"
+      "color": "#0891b2",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-8",
       "description": "Color Frost 8",
       "documentation": "Hex: #0e7490",
-      "color": "#0e7490"
+      "color": "#0e7490",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-9",
       "description": "Color Frost 9",
       "documentation": "Hex: #155e75",
-      "color": "#155e75"
+      "color": "#155e75",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-frost-10",
       "description": "Color Frost 10",
       "documentation": "Hex: #164e63",
-      "color": "#164e63"
+      "color": "#164e63",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-1",
       "description": "Background Frost 1",
       "documentation": "Hex: #ecfeff",
-      "color": "#ecfeff"
+      "color": "#ecfeff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-2",
       "description": "Background Frost 2",
       "documentation": "Hex: #cffafe",
-      "color": "#cffafe"
+      "color": "#cffafe",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-3",
       "description": "Background Frost 3",
       "documentation": "Hex: #a5f3fc",
-      "color": "#a5f3fc"
+      "color": "#a5f3fc",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-4",
       "description": "Background Frost 4",
       "documentation": "Hex: #67e8f9",
-      "color": "#67e8f9"
+      "color": "#67e8f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-5",
       "description": "Background Frost 5",
       "documentation": "Hex: #22d3ee",
-      "color": "#22d3ee"
+      "color": "#22d3ee",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-6",
       "description": "Background Frost 6",
       "documentation": "Hex: #06b6d4",
-      "color": "#06b6d4"
+      "color": "#06b6d4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-7",
       "description": "Background Frost 7",
       "documentation": "Hex: #0891b2",
-      "color": "#0891b2"
+      "color": "#0891b2",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-8",
       "description": "Background Frost 8",
       "documentation": "Hex: #0e7490",
-      "color": "#0e7490"
+      "color": "#0e7490",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-9",
       "description": "Background Frost 9",
       "documentation": "Hex: #155e75",
-      "color": "#155e75"
+      "color": "#155e75",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-frost-10",
       "description": "Background Frost 10",
       "documentation": "Hex: #164e63",
-      "color": "#164e63"
+      "color": "#164e63",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-1",
       "description": "Color Twilight 1",
       "documentation": "Hex: #EEF0FF",
-      "color": "#EEF0FF"
+      "color": "#EEF0FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-2",
       "description": "Color Twilight 2",
       "documentation": "Hex: #D1D6FF",
-      "color": "#D1D6FF"
+      "color": "#D1D6FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-3",
       "description": "Color Twilight 3",
       "documentation": "Hex: #B3BBFF",
-      "color": "#B3BBFF"
+      "color": "#B3BBFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-4",
       "description": "Color Twilight 4",
       "documentation": "Hex: #949EFF",
-      "color": "#949EFF"
+      "color": "#949EFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-5",
       "description": "Color Twilight 5",
       "documentation": "Hex: #767FFF",
-      "color": "#767FFF"
+      "color": "#767FFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-6",
       "description": "Color Twilight 6",
       "documentation": "Hex: #5B61FF",
-      "color": "#5B61FF"
+      "color": "#5B61FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-7",
       "description": "Color Twilight 7",
       "documentation": "Hex: #444ACC",
-      "color": "#444ACC"
+      "color": "#444ACC",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-8",
       "description": "Color Twilight 8",
       "documentation": "Hex: #333899",
-      "color": "#333899"
+      "color": "#333899",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-9",
       "description": "Color Twilight 9",
       "documentation": "Hex: #222566",
-      "color": "#222566"
+      "color": "#222566",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-twilight-10",
       "description": "Color Twilight 10",
       "documentation": "Hex: #111233",
-      "color": "#111233"
+      "color": "#111233",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-1",
       "description": "Background Twilight 1",
       "documentation": "Hex: #EEF0FF",
-      "color": "#EEF0FF"
+      "color": "#EEF0FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-2",
       "description": "Background Twilight 2",
       "documentation": "Hex: #D1D6FF",
-      "color": "#D1D6FF"
+      "color": "#D1D6FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-3",
       "description": "Background Twilight 3",
       "documentation": "Hex: #B3BBFF",
-      "color": "#B3BBFF"
+      "color": "#B3BBFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-4",
       "description": "Background Twilight 4",
       "documentation": "Hex: #949EFF",
-      "color": "#949EFF"
+      "color": "#949EFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-5",
       "description": "Background Twilight 5",
       "documentation": "Hex: #767FFF",
-      "color": "#767FFF"
+      "color": "#767FFF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-6",
       "description": "Background Twilight 6",
       "documentation": "Hex: #5B61FF",
-      "color": "#5B61FF"
+      "color": "#5B61FF",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-7",
       "description": "Background Twilight 7",
       "documentation": "Hex: #444ACC",
-      "color": "#444ACC"
+      "color": "#444ACC",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-8",
       "description": "Background Twilight 8",
       "documentation": "Hex: #333899",
-      "color": "#333899"
+      "color": "#333899",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-9",
       "description": "Background Twilight 9",
       "documentation": "Hex: #222566",
-      "color": "#222566"
+      "color": "#222566",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-twilight-10",
       "description": "Background Twilight 10",
       "documentation": "Hex: #111233",
-      "color": "#111233"
+      "color": "#111233",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-1",
       "description": "Color Dune 1",
       "documentation": "Hex: #fafaf9",
-      "color": "#fafaf9"
+      "color": "#fafaf9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-2",
       "description": "Color Dune 2",
       "documentation": "Hex: #f5f5f4",
-      "color": "#f5f5f4"
+      "color": "#f5f5f4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-3",
       "description": "Color Dune 3",
       "documentation": "Hex: #e7e5e4",
-      "color": "#e7e5e4"
+      "color": "#e7e5e4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-4",
       "description": "Color Dune 4",
       "documentation": "Hex: #d6d3d1",
-      "color": "#d6d3d1"
+      "color": "#d6d3d1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-5",
       "description": "Color Dune 5",
       "documentation": "Hex: #a8a29e",
-      "color": "#a8a29e"
+      "color": "#a8a29e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-6",
       "description": "Color Dune 6",
       "documentation": "Hex: #78716c",
-      "color": "#78716c"
+      "color": "#78716c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-7",
       "description": "Color Dune 7",
       "documentation": "Hex: #57534e",
-      "color": "#57534e"
+      "color": "#57534e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-8",
       "description": "Color Dune 8",
       "documentation": "Hex: #44403c",
-      "color": "#44403c"
+      "color": "#44403c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-9",
       "description": "Color Dune 9",
       "documentation": "Hex: #292524",
-      "color": "#292524"
+      "color": "#292524",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-dune-10",
       "description": "Color Dune 10",
       "documentation": "Hex: #1c1917",
-      "color": "#1c1917"
+      "color": "#1c1917",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-1",
       "description": "Background Dune 1",
       "documentation": "Hex: #fafaf9",
-      "color": "#fafaf9"
+      "color": "#fafaf9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-2",
       "description": "Background Dune 2",
       "documentation": "Hex: #f5f5f4",
-      "color": "#f5f5f4"
+      "color": "#f5f5f4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-3",
       "description": "Background Dune 3",
       "documentation": "Hex: #e7e5e4",
-      "color": "#e7e5e4"
+      "color": "#e7e5e4",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-4",
       "description": "Background Dune 4",
       "documentation": "Hex: #d6d3d1",
-      "color": "#d6d3d1"
+      "color": "#d6d3d1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-5",
       "description": "Background Dune 5",
       "documentation": "Hex: #a8a29e",
-      "color": "#a8a29e"
+      "color": "#a8a29e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-6",
       "description": "Background Dune 6",
       "documentation": "Hex: #78716c",
-      "color": "#78716c"
+      "color": "#78716c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-7",
       "description": "Background Dune 7",
       "documentation": "Hex: #57534e",
-      "color": "#57534e"
+      "color": "#57534e",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-8",
       "description": "Background Dune 8",
       "documentation": "Hex: #44403c",
-      "color": "#44403c"
+      "color": "#44403c",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-9",
       "description": "Background Dune 9",
       "documentation": "Hex: #292524",
-      "color": "#292524"
+      "color": "#292524",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-dune-10",
       "description": "Background Dune 10",
       "documentation": "Hex: #1c1917",
-      "color": "#1c1917"
+      "color": "#1c1917",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-1",
       "description": "Color Cloud 1",
       "documentation": "Hex: #ffffff",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-2",
       "description": "Color Cloud 2",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-3",
       "description": "Color Cloud 3",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-4",
       "description": "Color Cloud 4",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-5",
       "description": "Color Cloud 5",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-6",
       "description": "Color Cloud 6",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-7",
       "description": "Color Cloud 7",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-8",
       "description": "Color Cloud 8",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-9",
       "description": "Color Cloud 9",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-cloud-10",
       "description": "Color Cloud 10",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-1",
       "description": "Background Cloud 1",
       "documentation": "Hex: #ffffff",
-      "color": "#ffffff"
+      "color": "#ffffff",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-2",
       "description": "Background Cloud 2",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-3",
       "description": "Background Cloud 3",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-4",
       "description": "Background Cloud 4",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-5",
       "description": "Background Cloud 5",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-6",
       "description": "Background Cloud 6",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-7",
       "description": "Background Cloud 7",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-8",
       "description": "Background Cloud 8",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-9",
       "description": "Background Cloud 9",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-cloud-10",
       "description": "Background Cloud 10",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-1",
       "description": "Color Mist 1",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-2",
       "description": "Color Mist 2",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-3",
       "description": "Color Mist 3",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-4",
       "description": "Color Mist 4",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-5",
       "description": "Color Mist 5",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-6",
       "description": "Color Mist 6",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-7",
       "description": "Color Mist 7",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-8",
       "description": "Color Mist 8",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-9",
       "description": "Color Mist 9",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-mist-10",
       "description": "Color Mist 10",
       "documentation": "Hex: #111827",
-      "color": "#111827"
+      "color": "#111827",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-1",
       "description": "Background Mist 1",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-2",
       "description": "Background Mist 2",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-3",
       "description": "Background Mist 3",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-4",
       "description": "Background Mist 4",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-5",
       "description": "Background Mist 5",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-6",
       "description": "Background Mist 6",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-7",
       "description": "Background Mist 7",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-8",
       "description": "Background Mist 8",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-9",
       "description": "Background Mist 9",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-mist-10",
       "description": "Background Mist 10",
       "documentation": "Hex: #111827",
-      "color": "#111827"
+      "color": "#111827",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-1",
       "description": "Color Ash 1",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-2",
       "description": "Color Ash 2",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-3",
       "description": "Color Ash 3",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-4",
       "description": "Color Ash 4",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-5",
       "description": "Color Ash 5",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-6",
       "description": "Color Ash 6",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-7",
       "description": "Color Ash 7",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-8",
       "description": "Color Ash 8",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-9",
       "description": "Color Ash 9",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ash-10",
       "description": "Color Ash 10",
       "documentation": "Hex: #111827",
-      "color": "#111827"
+      "color": "#111827",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-1",
       "description": "Background Ash 1",
       "documentation": "Hex: #f9fafb",
-      "color": "#f9fafb"
+      "color": "#f9fafb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-2",
       "description": "Background Ash 2",
       "documentation": "Hex: #f3f4f6",
-      "color": "#f3f4f6"
+      "color": "#f3f4f6",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-3",
       "description": "Background Ash 3",
       "documentation": "Hex: #e5e7eb",
-      "color": "#e5e7eb"
+      "color": "#e5e7eb",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-4",
       "description": "Background Ash 4",
       "documentation": "Hex: #d1d5db",
-      "color": "#d1d5db"
+      "color": "#d1d5db",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-5",
       "description": "Background Ash 5",
       "documentation": "Hex: #9ca3af",
-      "color": "#9ca3af"
+      "color": "#9ca3af",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-6",
       "description": "Background Ash 6",
       "documentation": "Hex: #6b7280",
-      "color": "#6b7280"
+      "color": "#6b7280",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-7",
       "description": "Background Ash 7",
       "documentation": "Hex: #4b5563",
-      "color": "#4b5563"
+      "color": "#4b5563",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-8",
       "description": "Background Ash 8",
       "documentation": "Hex: #374151",
-      "color": "#374151"
+      "color": "#374151",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-9",
       "description": "Background Ash 9",
       "documentation": "Hex: #1f2937",
-      "color": "#1f2937"
+      "color": "#1f2937",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ash-10",
       "description": "Background Ash 10",
       "documentation": "Hex: #111827",
-      "color": "#111827"
+      "color": "#111827",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-1",
       "description": "Color Ink 1",
       "documentation": "Hex: #f8fafc",
-      "color": "#f8fafc"
+      "color": "#f8fafc",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-2",
       "description": "Color Ink 2",
       "documentation": "Hex: #f1f5f9",
-      "color": "#f1f5f9"
+      "color": "#f1f5f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-3",
       "description": "Color Ink 3",
       "documentation": "Hex: #e2e8f0",
-      "color": "#e2e8f0"
+      "color": "#e2e8f0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-4",
       "description": "Color Ink 4",
       "documentation": "Hex: #cbd5e1",
-      "color": "#cbd5e1"
+      "color": "#cbd5e1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-5",
       "description": "Color Ink 5",
       "documentation": "Hex: #94a3b8",
-      "color": "#94a3b8"
+      "color": "#94a3b8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-6",
       "description": "Color Ink 6",
       "documentation": "Hex: #64748b",
-      "color": "#64748b"
+      "color": "#64748b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-7",
       "description": "Color Ink 7",
       "documentation": "Hex: #475569",
-      "color": "#475569"
+      "color": "#475569",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-8",
       "description": "Color Ink 8",
       "documentation": "Hex: #334155",
-      "color": "#334155"
+      "color": "#334155",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-9",
       "description": "Color Ink 9",
       "documentation": "Hex: #1e293b",
-      "color": "#1e293b"
+      "color": "#1e293b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-ink-10",
       "description": "Color Ink 10",
       "documentation": "Hex: #0f172a",
-      "color": "#0f172a"
+      "color": "#0f172a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-1",
       "description": "Background Ink 1",
       "documentation": "Hex: #f8fafc",
-      "color": "#f8fafc"
+      "color": "#f8fafc",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-2",
       "description": "Background Ink 2",
       "documentation": "Hex: #f1f5f9",
-      "color": "#f1f5f9"
+      "color": "#f1f5f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-3",
       "description": "Background Ink 3",
       "documentation": "Hex: #e2e8f0",
-      "color": "#e2e8f0"
+      "color": "#e2e8f0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-4",
       "description": "Background Ink 4",
       "documentation": "Hex: #cbd5e1",
-      "color": "#cbd5e1"
+      "color": "#cbd5e1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-5",
       "description": "Background Ink 5",
       "documentation": "Hex: #94a3b8",
-      "color": "#94a3b8"
+      "color": "#94a3b8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-6",
       "description": "Background Ink 6",
       "documentation": "Hex: #64748b",
-      "color": "#64748b"
+      "color": "#64748b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-7",
       "description": "Background Ink 7",
       "documentation": "Hex: #475569",
-      "color": "#475569"
+      "color": "#475569",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-8",
       "description": "Background Ink 8",
       "documentation": "Hex: #334155",
-      "color": "#334155"
+      "color": "#334155",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-9",
       "description": "Background Ink 9",
       "documentation": "Hex: #1e293b",
-      "color": "#1e293b"
+      "color": "#1e293b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-ink-10",
       "description": "Background Ink 10",
       "documentation": "Hex: #0f172a",
-      "color": "#0f172a"
+      "color": "#0f172a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-1",
       "description": "Color Coal 1",
       "documentation": "Hex: #f1f5f9",
-      "color": "#f1f5f9"
+      "color": "#f1f5f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-2",
       "description": "Color Coal 2",
       "documentation": "Hex: #e2e8f0",
-      "color": "#e2e8f0"
+      "color": "#e2e8f0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-3",
       "description": "Color Coal 3",
       "documentation": "Hex: #cbd5e1",
-      "color": "#cbd5e1"
+      "color": "#cbd5e1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-4",
       "description": "Color Coal 4",
       "documentation": "Hex: #94a3b8",
-      "color": "#94a3b8"
+      "color": "#94a3b8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-5",
       "description": "Color Coal 5",
       "documentation": "Hex: #64748b",
-      "color": "#64748b"
+      "color": "#64748b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-6",
       "description": "Color Coal 6",
       "documentation": "Hex: #475569",
-      "color": "#475569"
+      "color": "#475569",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-7",
       "description": "Color Coal 7",
       "documentation": "Hex: #334155",
-      "color": "#334155"
+      "color": "#334155",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-8",
       "description": "Color Coal 8",
       "documentation": "Hex: #1e293b",
-      "color": "#1e293b"
+      "color": "#1e293b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-9",
       "description": "Color Coal 9",
       "documentation": "Hex: #0f172a",
-      "color": "#0f172a"
+      "color": "#0f172a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-color-coal-10",
       "description": "Color Coal 10",
       "documentation": "Hex: #0a0e1a",
-      "color": "#0a0e1a"
+      "color": "#0a0e1a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-1",
       "description": "Background Coal 1",
       "documentation": "Hex: #f1f5f9",
-      "color": "#f1f5f9"
+      "color": "#f1f5f9",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-2",
       "description": "Background Coal 2",
       "documentation": "Hex: #e2e8f0",
-      "color": "#e2e8f0"
+      "color": "#e2e8f0",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-3",
       "description": "Background Coal 3",
       "documentation": "Hex: #cbd5e1",
-      "color": "#cbd5e1"
+      "color": "#cbd5e1",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-4",
       "description": "Background Coal 4",
       "documentation": "Hex: #94a3b8",
-      "color": "#94a3b8"
+      "color": "#94a3b8",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-5",
       "description": "Background Coal 5",
       "documentation": "Hex: #64748b",
-      "color": "#64748b"
+      "color": "#64748b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-6",
       "description": "Background Coal 6",
       "documentation": "Hex: #475569",
-      "color": "#475569"
+      "color": "#475569",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-7",
       "description": "Background Coal 7",
       "documentation": "Hex: #334155",
-      "color": "#334155"
+      "color": "#334155",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-8",
       "description": "Background Coal 8",
       "documentation": "Hex: #1e293b",
-      "color": "#1e293b"
+      "color": "#1e293b",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-9",
       "description": "Background Coal 9",
       "documentation": "Hex: #0f172a",
-      "color": "#0f172a"
+      "color": "#0f172a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-bg-coal-10",
       "description": "Background Coal 10",
       "documentation": "Hex: #0a0e1a",
-      "color": "#0a0e1a"
+      "color": "#0a0e1a",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-xs",
       "description": "font-size: 0.75rem;",
-      "documentation": "font-size: 0.75rem"
+      "documentation": "font-size: 0.75rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-sm",
       "description": "font-size: 0.875rem;",
-      "documentation": "font-size: 0.875rem"
+      "documentation": "font-size: 0.875rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-md",
       "description": "font-size: 1rem;",
-      "documentation": "font-size: 1rem"
+      "documentation": "font-size: 1rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-lg",
       "description": "font-size: 1.25rem;",
-      "documentation": "font-size: 1.25rem"
+      "documentation": "font-size: 1.25rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-xl",
       "description": "font-size: 1.5rem;",
-      "documentation": "font-size: 1.5rem"
+      "documentation": "font-size: 1.5rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-2xl",
       "description": "font-size: 2rem;",
-      "documentation": "font-size: 2rem"
+      "documentation": "font-size: 2rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-3xl",
       "description": "font-size: 3rem;",
-      "documentation": "font-size: 3rem"
+      "documentation": "font-size: 3rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-4xl",
       "description": "font-size: 4rem;",
-      "documentation": "font-size: 4rem"
+      "documentation": "font-size: 4rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-5xl",
       "description": "font-size: 5rem;",
-      "documentation": "font-size: 5rem"
+      "documentation": "font-size: 5rem",      
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-6xl",
       "description": "font-size: 6rem;",
-      "documentation": "font-size: 6rem"
+      "documentation": "font-size: 6rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-7xl",
       "description": "font-size: 7rem;",
-      "documentation": "font-size: 7rem"
+      "documentation": "font-size: 7rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-size-8xl",
       "description": "font-size: 8rem;",
-      "documentation": "font-size: 8rem"
+      "documentation": "font-size: 8rem",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-auto",
       "description": "height: auto;",
-      "documentation": "height: auto;"
+      "documentation": "height: auto;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-fit",
       "description": "height: fit-content;",
-      "documentation": "height: fit-content;"
+      "documentation": "height: fit-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-min",
       "description": "height: min-content;",
-      "documentation": "height: min-content;"
+      "documentation": "height: min-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-max",
       "description": "height: max-content;",
-      "documentation": "height: max-content;"
+      "documentation": "height: max-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-full",
       "description": "height: 100%;",
-      "documentation": "height: 100%;"
+      "documentation": "height: 100%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-three-quarter",
       "description": "height: 75%;",
-      "documentation": "height: 75%;"
+      "documentation": "height: 75%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-half",
       "description": "height: 50%;",
-      "documentation": "height: 50%;"
+      "documentation": "height: 50%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-h-quarter",
       "description": "height: 25%;",
-      "documentation": "height: 25%;"
+      "documentation": "height: 25%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-auto",
       "description": "width: auto;",
-      "documentation": "width auto;"
+      "documentation": "width auto;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-fit",
       "description": "width: fit-content;",
-      "documentation": "width fit-content;"
+      "documentation": "width fit-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-min",
       "description": "width: min-content;",
-      "documentation": "width min-content;"
+      "documentation": "width min-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-max",
       "description": "width: max-content;",
-      "documentation": "width max-content;"
+      "documentation": "width max-content;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-full",
       "description": "width: 100%;",
-      "documentation": "width 100%;"
+      "documentation": "width 100%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-three-quarter",
       "description": "width: 75%;",
-      "documentation": "width 75%;"
+      "documentation": "width 75%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-half",
       "description": "width: 50%;",
-      "documentation": "width 50%;"
+      "documentation": "width 50%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-w-quarter",
       "description": "width: 25%;",
-      "documentation": "width 25%;"
+      "documentation": "width 25%;",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-rot-90",
       "description": "rotate 90 degrees",
-      "documentation": "rotate 90 degrees"
+      "documentation": "rotate 90 degrees",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-rot-180",
       "description": "rotate 180 degrees",
-      "documentation": "rotate 180 degrees"
+      "documentation": "rotate 180 degrees",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-rot-270",
       "description": "rotate 270 degrees",
-      "documentation": "rotate 270 degrees"
+      "documentation": "rotate 270 degrees",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-rot-360",
       "description": "rotate 360 degrees",
-      "documentation": "rotate 360 degrees"
+      "documentation": "rotate 360 degrees",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-flip-h",
       "description": "flip horizontally",
-      "documentation": "flip horizontally"
+      "documentation": "flip horizontally",
+      "snippet": "TODO: Add CSS snippet"
     },
     {
       "name": "is-flip-v",
       "description": "flip vertically",
-      "documentation": "flip vertically"
+      "documentation": "flip vertically",
+      "snippet": "TODO: Add CSS snippet"
     }
   ]
 }

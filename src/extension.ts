@@ -1,12 +1,15 @@
 import * as vscode from 'vscode';
 import * as path from 'path';
 import * as fs from 'fs';
+import { match } from 'assert';
 
 interface IconForgeClass {
   name: string;
   description: string;
   documentation: string;
+  snippet?: string;
   color?: string;
+  svg?: string;
 }
 
 let iconforgeData: { version: number; classes: IconForgeClass[] };
@@ -47,18 +50,9 @@ export function activate(context: vscode.ExtensionContext) {
                 .map(cls => {
                     const item = new vscode.CompletionItem(cls.name, vscode.CompletionItemKind.Color);
                     item.detail = cls.color;
-                    
-                    const docs = new vscode.MarkdownString();
-                    docs.supportHtml = true;
-                    if (cls.color) {
-                        const svgPreview = `<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><rect width="30" height="30" fill="${cls.color}"/></svg>`;
-                        docs.appendMarkdown(`**Color Preview:**\n\n${svgPreview}\n\n`);
-                    }
-                    docs.appendMarkdown(cls.documentation);
-                    item.documentation = docs;
-
-                    return item;
-                });
+  
+                  return item;
+            });
         }
     },
   );
@@ -74,16 +68,17 @@ export function activate(context: vscode.ExtensionContext) {
 
         const word = document.getText(range);
         const match = iconforgeData.classes.find((cls) => cls.name === word);
-        if (match && match.color) {
+        if (match) {
           const docs = new vscode.MarkdownString();
           docs.supportHtml = true;
           docs.appendMarkdown(`**${match.name}**\n\n`);
 
-          const svg = `<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"><rect width="30" height="30" fill="${match.color}"/></svg>`;
-          docs.appendMarkdown(`**Color Preview:**\n\n${svg}\n\n`);
-          
-          docs.appendMarkdown(match.documentation);
-          
+          if (match.snippet) {
+            docs.appendCodeblock(match.snippet, 'css');
+          } else if (match.svg){
+            docs.appendMarkdown(match.documentation);
+          }
+        
           return new vscode.Hover(docs, range);
         }
       }
@@ -158,13 +153,9 @@ function updateDecorations(editor: vscode.TextEditor) {
     for (const [color, decorations] of decorationsByColor.entries()) {
         const decorationType = vscode.window.createTextEditorDecorationType({
             before: {
-				contentText: '■',
-				color: color,
-                contentIconPath: vscode.Uri.parse(`data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" height="30" width="30"><rect width="30" height="30" fill="${color}"></rect></svg>`),
-                margin: '0 0.2rem 0 0',
-				height: 'fit-content',
-				width:'fit-content',
-				
+                contentText: '■',
+                color: color,
+                margin: '0 0.2em 0 0',
             },
             rangeBehavior: vscode.DecorationRangeBehavior.ClosedClosed,
         });
