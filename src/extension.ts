@@ -11,6 +11,7 @@ interface IconForgeEntry {
 }
 
 let iconforgeData: IconForgeEntry[];
+let sortedIconforgeData: IconForgeEntry[];
 const decorationTypeCache = new Map<string, vscode.TextEditorDecorationType>();
 
 export function activate(context: vscode.ExtensionContext) {
@@ -33,6 +34,9 @@ export function activate(context: vscode.ExtensionContext) {
         throw new Error("Could not find a valid array of icon/style data in iconforge.data.json.");
     }
 
+    const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
+    sortedIconforgeData = iconforgeData.sort((a, b) => collator.compare(a.name, b.name));
+
   } catch (error) {
     vscode.window.showErrorMessage(`Error loading or parsing IconForge data file: ${error}`);
     return;
@@ -48,24 +52,20 @@ export function activate(context: vscode.ExtensionContext) {
             if (!classAttributeRegex.test(linePrefix)) {
                 return undefined;
             }
-            
-            const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' });
 
-            return iconforgeData
-                .sort((a, b) => collator.compare(a.name, b.name))
-                .map(entry => {
-                    const item = new vscode.CompletionItem(entry.name, entry.paths ? vscode.CompletionItemKind.Variable : vscode.CompletionItemKind.Color);
-                    if (entry.snippet) {
-                        item.detail = "Style Snippet";
-                    }
-                    if (entry.paths) {
-                        item.detail = "Icon";
-                    }
-                    if (entry.color) {
-                        item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
-                        item.insertText = new vscode.SnippetString(entry.name.startsWith('is-') ? entry.name : `is-${entry.name}`);
-                     }
-                    return item;
+            return sortedIconforgeData.map(entry => {
+                const item = new vscode.CompletionItem(entry.name, entry.paths ? vscode.CompletionItemKind.Variable : vscode.CompletionItemKind.Color);
+                if (entry.snippet) {
+                    item.detail = "Style Snippet";
+                }
+                if (entry.paths) {
+                    item.detail = "Icon";
+                }
+                if (entry.color) {
+                    item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
+                    item.insertText = new vscode.SnippetString(entry.name.startsWith('is-') ? entry.name : `is-${entry.name}`);
+                }
+                return item;
             });
         }
     },
@@ -155,17 +155,17 @@ export function activate(context: vscode.ExtensionContext) {
 
   function triggerUpdateDecorations(throttle = false) {
     if (timeout) {
-      clearTimeout(timeout);
+        clearTimeout(timeout);
     }
     const update = () => {
-      if (activeEditor) {
-        updateDecorations(activeEditor);
-      }
+        if (activeEditor) {
+            updateDecorations(activeEditor);
+        }
     };
     if (throttle) {
-      timeout = setTimeout(update, 500);
+        timeout = setTimeout(update, 500);
     } else {
-      update();
+        update();
     }
   }
 
@@ -175,7 +175,7 @@ export function activate(context: vscode.ExtensionContext) {
 function updateDecorations(editor: vscode.TextEditor) {
     const text = editor.document.getText();
     const decorationsByColor = new Map<string, vscode.DecorationOptions[]>();
-    const classRegex = /(is|if)-[a-zA-Z0-9-]+/g;
+    const classRegex = /\b(is|if)-[a-zA-Z0-9-]+\b/g;
     let match;
 
     while ((match = classRegex.exec(text))) {
