@@ -1,15 +1,23 @@
 {
   "name": "iconforge-intellisense",
-  "publisher": "DanKaufmanDev",
   "displayName": "IconForge-Intellisense",
-  "description": "Autocomplete and hover support for IconForge utility classes.",
-  "version": "0.1.0",
+  "publisher": "dkd",
+
+  "description": "Intellisense for IconForge utility classes.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
+    "Programming Languages",
+    "Snippets",
+    "Intellisense",
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanKaufmanDev/IconForge-Intellisense/"
+  },
   "activationEvents": [
     "onLanguage:html",
     "onLanguage:vue",
@@ -41,5 +49,9 @@
     "typescript": "^5.9.2",
     "@vscode/test-cli": "^0.0.11",
     "vscode-test": "^1.6.1"
+  },
+  "author": {
+    "name": "DanKaufmanDev",
+    "url": "https://danielkaufman.dev" 
   }
 }
