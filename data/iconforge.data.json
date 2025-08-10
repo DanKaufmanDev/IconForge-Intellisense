@@ -4123,2186 +4123,1822 @@
   {
     "name": "is-color-white",
     "snippet": ".is-color-white {\n  color: #fff;\n}",
-    "color": "#fff",
-    "hex": "HEX #fff"
+    "color": "#fff"
   },
   {
     "name": "is-bg-white",
     "snippet": ".is-bg-white {\n  background-color: #fff;\n}",
-    "color": "#fff",
-    "hex": "HEX #fff"
+    "color": "#fff"
   },
   {
     "name": "is-color-black",
     "snippet": ".is-color-black {\n  color: #000;\n}",
-    "color": "#000",
-    "hex": "HEX #000"
+    "color": "#000"
   },
   {
     "name": "is-bg-black",
     "snippet": ".is-bg-black {\n  background-color: #000;\n}",
-    "color": "#000",
-    "hex": "HEX #000"
+    "color": "#000"
   },
   {
     "name": "is-color-red-1",
     "snippet": ".is-color-red-1 {\n  color: #FFE5E5;\n}",
-    "color": "#FFE5E5",
-    "hex": "HEX #FFE5E5"
+    "color": "#FFE5E5"
   },
   {
     "name": "is-color-red-2",
     "snippet": ".is-color-red-2 {\n  color: #FFB3B3;\n}",
-    "color": "#FFB3B3",
-    "hex": "HEX #FFB3B3"
+    "color": "#FFB3B3"
   },
   {
     "name": "is-color-red-3",
     "snippet": ".is-color-red-3 {\n  color: #FF8080;\n}",
-    "color": "#FF8080",
-    "hex": "HEX #FF8080"
+    "color": "#FF8080"
   },
   {
     "name": "is-color-red-4",
     "snippet": ".is-color-red-4 {\n  color: #FF4D4D;\n}",
-    "color": "#FF4D4D",
-    "hex": "HEX #FF4D4D"
+    "color": "#FF4D4D"
   },
   {
     "name": "is-color-red-5",
     "snippet": ".is-color-red-5 {\n  color: #FF1A1A;\n}",
-    "color": "#FF1A1A",
-    "hex": "HEX #FF1A1A"
+    "color": "#FF1A1A"
   },
   {
     "name": "is-color-red-6",
     "snippet": ".is-color-red-6 {\n  color: #E60000;\n}",
-    "color": "#E60000",
-    "hex": "HEX #E60000"
+    "color": "#E60000"
   },
   {
     "name": "is-color-red-7",
     "snippet": ".is-color-red-7 {\n  color: #B30000;\n}",
-    "color": "#B30000",
-    "hex": "HEX #B30000"
+    "color": "#B30000"
   },
   {
     "name": "is-color-red-8",
     "snippet": ".is-color-red-8 {\n  color: #800000;\n}",
-    "color": "#800000",
-    "hex": "HEX #800000"
+    "color": "#800000"
   },
   {
     "name": "is-color-red-9",
     "snippet": ".is-color-red-9 {\n  color: #4D0000;\n}",
-    "color": "#4D0000",
-    "hex": "HEX #4D0000"
+    "color": "#4D0000"
   },
   {
     "name": "is-color-red-10",
     "snippet": ".is-color-red-10 {\n  color: #1A0000;\n}",
-    "color": "#1A0000",
-    "hex": "HEX #1A0000"
+    "color": "#1A0000"
   },
   {
     "name": "is-bg-red-1",
     "snippet": ".is-bg-red-1 {\n  background-color: #ffe5e5;\n}",
-    "color": "#ffe5e5",
-    "hex": "HEX #ffe5e5"
+    "color": "#ffe5e5"
   },
   {
     "name": "is-bg-red-2",
     "snippet": ".is-bg-red-2 {\n  background-color: #fcbaba;\n}",
-    "color": "#fcbaba",
-    "hex": "HEX #fcbaba"
+    "color": "#fcbaba"
   },
   {
     "name": "is-bg-red-3",
     "snippet": ".is-bg-red-3 {\n  background-color: #f28f8f;\n}",
-    "color": "#f28f8f",
-    "hex": "HEX #f28f8f"
+    "color": "#f28f8f"
   },
   {
     "name": "is-bg-red-4",
     "snippet": ".is-bg-red-4 {\n  background-color: #e65f5f;\n}",
-    "color": "#e65f5f",
-    "hex": "HEX #e65f5f"
+    "color": "#e65f5f"
   },
   {
     "name": "is-bg-red-5",
     "snippet": ".is-bg-red-5 {\n  background-color: #dc2626;\n}",
-    "color": "#dc2626",
-    "hex": "HEX #dc2626"
+    "color": "#dc2626"
   },
   {
     "name": "is-bg-red-6",
     "snippet": ".is-bg-red-6 {\n  background-color: #b91c1c;\n}",
-    "color": "#b91c1c",
-    "hex": "HEX #b91c1c"
+    "color": "#b91c1c"
   },
   {
     "name": "is-bg-red-7",
     "snippet": ".is-bg-red-7 {\n  background-color: #991b1b;\n}",
-    "color": "#991b1b",
-    "hex": "HEX #991b1b"
+    "color": "#991b1b"
   },
   {
     "name": "is-bg-red-8",
     "snippet": ".is-bg-red-8 {\n  background-color: #7f1d1d;\n}",
-    "color": "#7f1d1d",
-    "hex": "HEX #7f1d1d"
+    "color": "#7f1d1d"
   },
   {
     "name": "is-bg-red-9",
     "snippet": ".is-bg-red-9 {\n  background-color: #611616;\n}",
-    "color": "#611616",
-    "hex": "HEX #611616"
+    "color": "#611616"
   },
   {
     "name": "is-bg-red-10",
     "snippet": ".is-bg-red-10 {\n  background-color: #4b0f0f;\n}",
-    "color": "#4b0f0f",
-    "hex": "HEX #4b0f0f"
+    "color": "#4b0f0f"
   },
   {
     "name": "is-color-orange-1",
     "snippet": ".is-color-orange-1 {\n  color: #FFF0E0;\n}",
-    "color": "#FFF0E0",
-    "hex": "HEX #FFF0E0"
+    "color": "#FFF0E0"
   },
   {
     "name": "is-color-orange-2",
     "snippet": ".is-color-orange-2 {\n  color: #FFD8B3;\n}",
-    "color": "#FFD8B3",
-    "hex": "HEX #FFD8B3"
+    "color": "#FFD8B3"
   },
   {
     "name": "is-color-orange-3",
     "snippet": ".is-color-orange-3 {\n  color: #FFBB80;\n}",
-    "color": "#FFBB80",
-    "hex": "HEX #FFBB80"
+    "color": "#FFBB80"
   },
   {
     "name": "is-color-orange-4",
     "snippet": ".is-color-orange-4 {\n  color: #FF994D;\n}",
-    "color": "#FF994D",
-    "hex": "HEX #FF994D"
+    "color": "#FF994D"
   },
   {
     "name": "is-color-orange-5",
     "snippet": ".is-color-orange-5 {\n  color: #FF8000;\n}",
-    "color": "#FF8000",
-    "hex": "HEX #FF8000"
+    "color": "#FF8000"
   },
   {
     "name": "is-color-orange-6",
     "snippet": ".is-color-orange-6 {\n  color: #E67300;\n}",
-    "color": "#E67300",
-    "hex": "HEX #E67300"
+    "color": "#E67300"
   },
   {
     "name": "is-color-orange-7",
     "snippet": ".is-color-orange-7 {\n  color: #B35900;\n}",
-    "color": "#B35900",
-    "hex": "HEX #B35900"
+    "color": "#B35900"
   },
   {
     "name": "is-color-orange-8",
     "snippet": ".is-color-orange-8 {\n  color: #804000;\n}",
-    "color": "#804000",
-    "hex": "HEX #804000"
+    "color": "#804000"
   },
   {
     "name": "is-color-orange-9",
     "snippet": ".is-color-orange-9 {\n  color: #4D2600;\n}",
-    "color": "#4D2600",
-    "hex": "HEX #4D2600"
+    "color": "#4D2600"
   },
   {
     "name": "is-color-orange-10",
     "snippet": ".is-color-orange-10 {\n  color: #1A0D00;\n}",
-    "color": "#1A0D00",
-    "hex": "HEX #1A0D00"
+    "color": "#1A0D00"
   },
   {
     "name": "is-bg-orange-1",
     "snippet": ".is-bg-orange-1 {\n  background-color: #fff1e6;\n}",
-    "color": "#fff1e6",
-    "hex": "HEX #fff1e6"
+    "color": "#fff1e6"
   },
   {
     "name": "is-bg-orange-2",
     "snippet": ".is-bg-orange-2 {\n  background-color: #ffd8b5;\n}",
-    "color": "#ffd8b5",
-    "hex": "HEX #ffd8b5"
+    "color": "#ffd8b5"
   },
   {
     "name": "is-bg-orange-3",
     "snippet": ".is-bg-orange-3 {\n  background-color: #ffc084;\n}",
-    "color": "#ffc084",
-    "hex": "HEX #ffc084"
+    "color": "#ffc084"
   },
   {
     "name": "is-bg-orange-4",
     "snippet": ".is-bg-orange-4 {\n  background-color: #ffa952;\n}",
-    "color": "#ffa952",
-    "hex": "HEX #ffa952"
+    "color": "#ffa952"
   },
   {
     "name": "is-bg-orange-5",
     "snippet": ".is-bg-orange-5 {\n  background-color: #f97316;\n}",
-    "color": "#f97316",
-    "hex": "HEX #f97316"
+    "color": "#f97316"
   },
   {
     "name": "is-bg-orange-6",
     "snippet": ".is-bg-orange-6 {\n  background-color: #ea580c;\n}",
-    "color": "#ea580c",
-    "hex": "HEX #ea580c"
+    "color": "#ea580c"
   },
   {
     "name": "is-bg-orange-7",
     "snippet": ".is-bg-orange-7 {\n  background-color: #c2410c;\n}",
-    "color": "#c2410c",
-    "hex": "HEX #c2410c"
+    "color": "#c2410c"
   },
   {
     "name": "is-bg-orange-8",
     "snippet": ".is-bg-orange-8 {\n  background-color: #9a3412;\n}",
-    "color": "#9a3412",
-    "hex": "HEX #9a3412"
+    "color": "#9a3412"
   },
   {
     "name": "is-bg-orange-9",
     "snippet": ".is-bg-orange-9 {\n  background-color: #7c2d12;\n}",
-    "color": "#7c2d12",
-    "hex": "HEX #7c2d12"
+    "color": "#7c2d12"
   },
   {
     "name": "is-bg-orange-10",
     "snippet": ".is-bg-orange-10 {\n  background-color: #5a1e0f;\n}",
-    "color": "#5a1e0f",
-    "hex": "HEX #5a1e0f"
+    "color": "#5a1e0f"
   },
   {
     "name": "is-color-yellow-1",
     "snippet": ".is-color-yellow-1 {\n  color: #FFFFE0;\n}",
-    "color": "#FFFFE0",
-    "hex": "HEX #FFFFE0"
+    "color": "#FFFFE0"
   },
   {
     "name": "is-color-yellow-2",
     "snippet": ".is-color-yellow-2 {\n  color: #FFFFB3;\n}",
-    "color": "#FFFFB3",
-    "hex": "HEX #FFFFB3"
+    "color": "#FFFFB3"
   },
   {
     "name": "is-color-yellow-3",
     "snippet": ".is-color-yellow-3 {\n  color: #FFFF80;\n}",
-    "color": "#FFFF80",
-    "hex": "HEX #FFFF80"
+    "color": "#FFFF80"
   },
   {
     "name": "is-color-yellow-4",
     "snippet": ".is-color-yellow-4 {\n  color: #FFFF4D;\n}",
-    "color": "#FFFF4D",
-    "hex": "HEX #FFFF4D"
+    "color": "#FFFF4D"
   },
   {
     "name": "is-color-yellow-5",
     "snippet": ".is-color-yellow-5 {\n  color: #FFFF00;\n}",
-    "color": "#FFFF00",
-    "hex": "HEX #FFFF00"
+    "color": "#FFFF00"
   },
   {
     "name": "is-color-yellow-6",
     "snippet": ".is-color-yellow-6 {\n  color: #E6E600;\n}",
-    "color": "#E6E600",
-    "hex": "HEX #E6E600"
+    "color": "#E6E600"
   },
   {
     "name": "is-color-yellow-7",
     "snippet": ".is-color-yellow-7 {\n  color: #B3B300;\n}",
-    "color": "#B3B300",
-    "hex": "HEX #B3B300"
+    "color": "#B3B300"
   },
   {
     "name": "is-color-yellow-8",
     "snippet": ".is-color-yellow-8 {\n  color: #808000;\n}",
-    "color": "#808000",
-    "hex": "HEX #808000"
+    "color": "#808000"
   },
   {
     "name": "is-color-yellow-9",
     "snippet": ".is-color-yellow-9 {\n  color: #4D4D00;\n}",
-    "color": "#4D4D00",
-    "hex": "HEX #4D4D00"
+    "color": "#4D4D00"
   },
   {
     "name": "is-color-yellow-10",
     "snippet": ".is-color-yellow-10 {\n  color: #1A1A00;\n}",
-    "color": "#1A1A00",
-    "hex": "HEX #1A1A00"
+    "color": "#1A1A00"
   },
   {
     "name": "is-bg-yellow-1",
     "snippet": ".is-bg-yellow-1 {\n  background-color: #fffde7;\n}",
-    "color": "#fffde7",
-    "hex": "HEX #fffde7"
+    "color": "#fffde7"
   },
   {
     "name": "is-bg-yellow-2",
     "snippet": ".is-bg-yellow-2 {\n  background-color: #fff9c4;\n}",
-    "color": "#fff9c4",
-    "hex": "HEX #fff9c4"
+    "color": "#fff9c4"
   },
   {
     "name": "is-bg-yellow-3",
     "snippet": ".is-bg-yellow-3 {\n  background-color: #fff176;\n}",
-    "color": "#fff176",
-    "hex": "HEX #fff176"
+    "color": "#fff176"
   },
   {
     "name": "is-bg-yellow-4",
     "snippet": ".is-bg-yellow-4 {\n  background-color: #ffeb3b;\n}",
-    "color": "#ffeb3b",
-    "hex": "HEX #ffeb3b"
+    "color": "#ffeb3b"
   },
   {
     "name": "is-bg-yellow-5",
     "snippet": ".is-bg-yellow-5 {\n  background-color: #eab308;\n}",
-    "color": "#eab308",
-    "hex": "HEX #eab308"
+    "color": "#eab308"
   },
   {
     "name": "is-bg-yellow-6",
     "snippet": ".is-bg-yellow-6 {\n  background-color: #ca8a04;\n}",
-    "color": "#ca8a04",
-    "hex": "HEX #ca8a04"
+    "color": "#ca8a04"
   },
   {
     "name": "is-bg-yellow-7",
     "snippet": ".is-bg-yellow-7 {\n  background-color: #a16207;\n}",
-    "color": "#a16207",
-    "hex": "HEX #a16207"
+    "color": "#a16207"
   },
   {
     "name": "is-bg-yellow-8",
     "snippet": ".is-bg-yellow-8 {\n  background-color: #854d0e;\n}",
-    "color": "#854d0e",
-    "hex": "HEX #854d0e"
+    "color": "#854d0e"
   },
   {
     "name": "is-bg-yellow-9",
     "snippet": ".is-bg-yellow-9 {\n  background-color: #713f12;\n}",
-    "color": "#713f12",
-    "hex": "HEX #713f12"
+    "color": "#713f12"
   },
   {
     "name": "is-bg-yellow-10",
     "snippet": ".is-bg-yellow-10 {\n  background-color: #5a3410;\n}",
-    "color": "#5a3410",
-    "hex": "HEX #5a3410"
+    "color": "#5a3410"
   },
   {
     "name": "is-color-green-1",
     "snippet": ".is-color-green-1 {\n  color: #E6FFE6;\n}",
-    "color": "#E6FFE6",
-    "hex": "HEX #E6FFE6"
+    "color": "#E6FFE6"
   },
   {
     "name": "is-color-green-2",
     "snippet": ".is-color-green-2 {\n  color: #B3FFB3;\n}",
-    "color": "#B3FFB3",
-    "hex": "HEX #B3FFB3"
+    "color": "#B3FFB3"
   },
   {
     "name": "is-color-green-3",
     "snippet": ".is-color-green-3 {\n  color: #80FF80;\n}",
-    "color": "#80FF80",
-    "hex": "HEX #80FF80"
+    "color": "#80FF80"
   },
   {
     "name": "is-color-green-4",
     "snippet": ".is-color-green-4 {\n  color: #4DFF4D;\n}",
-    "color": "#4DFF4D",
-    "hex": "HEX #4DFF4D"
+    "color": "#4DFF4D"
   },
   {
     "name": "is-color-green-5",
     "snippet": ".is-color-green-5 {\n  color: #1AFF1A;\n}",
-    "color": "#1AFF1A",
-    "hex": "HEX #1AFF1A"
+    "color": "#1AFF1A"
   },
   {
     "name": "is-color-green-6",
     "snippet": ".is-color-green-6 {\n  color: #00E600;\n}",
-    "color": "#00E600",
-    "hex": "HEX #00E600"
+    "color": "#00E600"
   },
   {
     "name": "is-color-green-7",
     "snippet": ".is-color-green-7 {\n  color: #00B300;\n}",
-    "color": "#00B300",
-    "hex": "HEX #00B300"
+    "color": "#00B300"
   },
   {
     "name": "is-color-green-8",
     "snippet": ".is-color-green-8 {\n  color: #008000;\n}",
-    "color": "#008000",
-    "hex": "HEX #008000"
+    "color": "#008000"
   },
   {
     "name": "is-color-green-9",
     "snippet": ".is-color-green-9 {\n  color: #004D00;\n}",
-    "color": "#004D00",
-    "hex": "HEX #004D00"
+    "color": "#004D00"
   },
   {
     "name": "is-color-green-10",
     "snippet": ".is-color-green-10 {\n  color: #001A00;\n}",
-    "color": "#001A00",
-    "hex": "HEX #001A00"
+    "color": "#001A00"
   },
   {
     "name": "is-bg-green-1",
     "snippet": ".is-bg-green-1 {\n  background-color: #e6fce6;\n}",
-    "color": "#e6fce6",
-    "hex": "HEX #e6fce6"
+    "color": "#e6fce6"
   },
   {
     "name": "is-bg-green-2",
     "snippet": ".is-bg-green-2 {\n  background-color: #b2f2b2;\n}",
-    "color": "#b2f2b2",
-    "hex": "HEX #b2f2b2"
+    "color": "#b2f2b2"
   },
   {
     "name": "is-bg-green-3",
     "snippet": ".is-bg-green-3 {\n  background-color: #75e175;\n}",
-    "color": "#75e175",
-    "hex": "HEX #75e175"
+    "color": "#75e175"
   },
   {
     "name": "is-bg-green-4",
     "snippet": ".is-bg-green-4 {\n  background-color: #4ade80;\n}",
-    "color": "#4ade80",
-    "hex": "HEX #4ade80"
+    "color": "#4ade80"
   },
   {
     "name": "is-bg-green-5",
     "snippet": ".is-bg-green-5 {\n  background-color: #22c55e;\n}",
-    "color": "#22c55e",
-    "hex": "HEX #22c55e"
+    "color": "#22c55e"
   },
   {
     "name": "is-bg-green-6",
     "snippet": ".is-bg-green-6 {\n  background-color: #16a34a;\n}",
-    "color": "#16a34a",
-    "hex": "HEX #16a34a"
+    "color": "#16a34a"
   },
   {
     "name": "is-bg-green-7",
     "snippet": ".is-bg-green-7 {\n  background-color: #15803d;\n}",
-    "color": "#15803d",
-    "hex": "HEX #15803d"
+    "color": "#15803d"
   },
   {
     "name": "is-bg-green-8",
     "snippet": ".is-bg-green-8 {\n  background-color: #166534;\n}",
-    "color": "#166534",
-    "hex": "HEX #166534"
+    "color": "#166534"
   },
   {
     "name": "is-bg-green-9",
     "snippet": ".is-bg-green-9 {\n  background-color: #14532d;\n}",
-    "color": "#14532d",
-    "hex": "HEX #14532d"
+    "color": "#14532d"
   },
   {
     "name": "is-bg-green-10",
     "snippet": ".is-bg-green-10 {\n  background-color: #0e3f21;\n}",
-    "color": "#0e3f21",
-    "hex": "HEX #0e3f21"
+    "color": "#0e3f21"
   },
   {
     "name": "is-color-blue-1",
     "snippet": ".is-color-blue-1 {\n  color: #E6F0FF;\n}",
-    "color": "#E6F0FF",
-    "hex": "HEX #E6F0FF"
+    "color": "#E6F0FF"
   },
   {
     "name": "is-color-blue-2",
     "snippet": ".is-color-blue-2 {\n  color: #B3D1FF;\n}",
-    "color": "#B3D1FF",
-    "hex": "HEX #B3D1FF"
+    "color": "#B3D1FF"
   },
   {
     "name": "is-color-blue-3",
     "snippet": ".is-color-blue-3 {\n  color: #80B3FF;\n}",
-    "color": "#80B3FF",
-    "hex": "HEX #80B3FF"
+    "color": "#80B3FF"
   },
   {
     "name": "is-color-blue-4",
     "snippet": ".is-color-blue-4 {\n  color: #4D94FF;\n}",
-    "color": "#4D94FF",
-    "hex": "HEX #4D94FF"
+    "color": "#4D94FF"
   },
   {
     "name": "is-color-blue-5",
     "snippet": ".is-color-blue-5 {\n  color: #1A75FF;\n}",
-    "color": "#1A75FF",
-    "hex": "HEX #1A75FF"
+    "color": "#1A75FF"
   },
   {
     "name": "is-color-blue-6",
     "snippet": ".is-color-blue-6 {\n  color: #005CE6;\n}",
-    "color": "#005CE6",
-    "hex": "HEX #005CE6"
+    "color": "#005CE6"
   },
   {
     "name": "is-color-blue-7",
     "snippet": ".is-color-blue-7 {\n  color: #0047B3;\n}",
-    "color": "#0047B3",
-    "hex": "HEX #0047B3"
+    "color": "#0047B3"
   },
   {
     "name": "is-color-blue-8",
     "snippet": ".is-color-blue-8 {\n  color: #003280;\n}",
-    "color": "#003280",
-    "hex": "HEX #003280"
+    "color": "#003280"
   },
   {
     "name": "is-color-blue-9",
     "snippet": ".is-color-blue-9 {\n  color: #001D4D;\n}",
-    "color": "#001D4D",
-    "hex": "HEX #001D4D"
+    "color": "#001D4D"
   },
   {
     "name": "is-color-blue-10",
     "snippet": ".is-color-blue-10 {\n  color: #00091A;\n}",
-    "color": "#00091A",
-    "hex": "HEX #00091A"
+    "color": "#00091A"
   },
   {
     "name": "is-bg-blue-1",
     "snippet": ".is-bg-blue-1 {\n  background-color: #ebf8ff;\n}",
-    "color": "#ebf8ff",
-    "hex": "HEX #ebf8ff"
+    "color": "#ebf8ff"
   },
   {
     "name": "is-bg-blue-2",
     "snippet": ".is-bg-blue-2 {\n  background-color: #bee3f8;\n}",
-    "color": "#bee3f8",
-    "hex": "HEX #bee3f8"
+    "color": "#bee3f8"
   },
   {
     "name": "is-bg-blue-3",
     "snippet": ".is-bg-blue-3 {\n  background-color: #90cdf4;\n}",
-    "color": "#90cdf4",
-    "hex": "HEX #90cdf4"
+    "color": "#90cdf4"
   },
   {
     "name": "is-bg-blue-4",
     "snippet": ".is-bg-blue-4 {\n  background-color: #63b3ed;\n}",
-    "color": "#63b3ed",
-    "hex": "HEX #63b3ed"
+    "color": "#63b3ed"
   },
   {
     "name": "is-bg-blue-5",
     "snippet": ".is-bg-blue-5 {\n  background-color: #4299e1;\n}",
-    "color": "#4299e1",
-    "hex": "HEX #4299e1"
+    "color": "#4299e1"
   },
   {
     "name": "is-bg-blue-6",
     "snippet": ".is-bg-blue-6 {\n  background-color: #3182ce;\n}",
-    "color": "#3182ce",
-    "hex": "HEX #3182ce"
+    "color": "#3182ce"
   },
   {
     "name": "is-bg-blue-7",
     "snippet": ".is-bg-blue-7 {\n  background-color: #2b6cb0;\n}",
-    "color": "#2b6cb0",
-    "hex": "HEX #2b6cb0"
+    "color": "#2b6cb0"
   },
   {
     "name": "is-bg-blue-8",
     "snippet": ".is-bg-blue-8 {\n  background-color: #2c5282;\n}",
-    "color": "#2c5282",
-    "hex": "HEX #2c5282"
+    "color": "#2c5282"
   },
   {
     "name": "is-bg-blue-9",
     "snippet": ".is-bg-blue-9 {\n  background-color: #2a4365;\n}",
-    "color": "#2a4365",
-    "hex": "HEX #2a4365"
+    "color": "#2a4365"
   },
   {
     "name": "is-bg-blue-10",
     "snippet": ".is-bg-blue-10 {\n  background-color: #1a365d;\n}",
-    "color": "#1a365d",
-    "hex": "HEX #1a365d"
+    "color": "#1a365d"
   },
   {
     "name": "is-color-purple-1",
     "snippet": ".is-color-purple-1 {\n  color: #F3E6FF;\n}",
-    "color": "#F3E6FF",
-    "hex": "HEX #F3E6FF"
+    "color": "#F3E6FF"
   },
   {
     "name": "is-color-purple-2",
     "snippet": ".is-color-purple-2 {\n  color: #D9B3FF;\n}",
-    "color": "#D9B3FF",
-    "hex": "HEX #D9B3FF"
+    "color": "#D9B3FF"
   },
   {
     "name": "is-color-purple-3",
     "snippet": ".is-color-purple-3 {\n  color: #BF80FF;\n}",
-    "color": "#BF80FF",
-    "hex": "HEX #BF80FF"
+    "color": "#BF80FF"
   },
   {
     "name": "is-color-purple-4",
     "snippet": ".is-color-purple-4 {\n  color: #A64DFF;\n}",
-    "color": "#A64DFF",
-    "hex": "HEX #A64DFF"
+    "color": "#A64DFF"
   },
   {
     "name": "is-color-purple-5",
     "snippet": ".is-color-purple-5 {\n  color: #8C1AFF;\n}",
-    "color": "#8C1AFF",
-    "hex": "HEX #8C1AFF"
+    "color": "#8C1AFF"
   },
   {
     "name": "is-color-purple-6",
     "snippet": ".is-color-purple-6 {\n  color: #7300E6;\n}",
-    "color": "#7300E6",
-    "hex": "HEX #7300E6"
+    "color": "#7300E6"
   },
   {
     "name": "is-color-purple-7",
     "snippet": ".is-color-purple-7 {\n  color: #5900B3;\n}",
-    "color": "#5900B3",
-    "hex": "HEX #5900B3"
+    "color": "#5900B3"
   },
   {
     "name": "is-color-purple-8",
     "snippet": ".is-color-purple-8 {\n  color: #400080;\n}",
-    "color": "#400080",
-    "hex": "HEX #400080"
+    "color": "#400080"
   },
   {
     "name": "is-color-purple-9",
     "snippet": ".is-color-purple-9 {\n  color: #26004D;\n}",
-    "color": "#26004D",
-    "hex": "HEX #26004D"
+    "color": "#26004D"
   },
   {
     "name": "is-color-purple-10",
     "snippet": ".is-color-purple-10 {\n  color: #0D001A;\n}",
-    "color": "#0D001A",
-    "hex": "HEX #0D001A"
+    "color": "#0D001A"
   },
   {
     "name": "is-bg-purple-1",
     "snippet": ".is-bg-purple-1 {\n  background-color: #f3e8ff;\n}",
-    "color": "#f3e8ff",
-    "hex": "HEX #f3e8ff"
+    "color": "#f3e8ff"
   },
   {
     "name": "is-bg-purple-2",
     "snippet": ".is-bg-purple-2 {\n  background-color: #e9d5ff;\n}",
-    "color": "#e9d5ff",
-    "hex": "HEX #e9d5ff"
+    "color": "#e9d5ff"
   },
   {
     "name": "is-bg-purple-3",
     "snippet": ".is-bg-purple-3 {\n  background-color: #d8b4fe;\n}",
-    "color": "#d8b4fe",
-    "hex": "HEX #d8b4fe"
+    "color": "#d8b4fe"
   },
   {
     "name": "is-bg-purple-4",
     "snippet": ".is-bg-purple-4 {\n  background-color: #c084fc;\n}",
-    "color": "#c084fc",
-    "hex": "HEX #c084fc"
+    "color": "#c084fc"
   },
   {
     "name": "is-bg-purple-5",
     "snippet": ".is-bg-purple-5 {\n  background-color: #a855f7;\n}",
-    "color": "#a855f7",
-    "hex": "HEX #a855f7"
+    "color": "#a855f7"
   },
   {
     "name": "is-bg-purple-6",
     "snippet": ".is-bg-purple-6 {\n  background-color: #9333ea;\n}",
-    "color": "#9333ea",
-    "hex": "HEX #9333ea"
+    "color": "#9333ea"
   },
   {
     "name": "is-bg-purple-7",
     "snippet": ".is-bg-purple-7 {\n  background-color: #7e22ce;\n}",
-    "color": "#7e22ce",
-    "hex": "HEX #7e22ce"
+    "color": "#7e22ce"
   },
   {
     "name": "is-bg-purple-8",
     "snippet": ".is-bg-purple-8 {\n  background-color: #6b21a8;\n}",
-    "color": "#6b21a8",
-    "hex": "HEX #6b21a8"
+    "color": "#6b21a8"
   },
   {
     "name": "is-bg-purple-9",
     "snippet": ".is-bg-purple-9 {\n  background-color: #581c87;\n}",
-    "color": "#581c87",
-    "hex": "HEX #581c87"
+    "color": "#581c87"
   },
   {
     "name": "is-bg-purple-10",
     "snippet": ".is-bg-purple-10 {\n  background-color: #3b0764;\n}",
-    "color": "#3b0764",
-    "hex": "HEX #3b0764"
+    "color": "#3b0764"
   },
   {
     "name": "is-color-blush-1",
     "snippet": ".is-color-blush-1 {\n  color: #FFF0F3;\n}",
-    "color": "#FFF0F3",
-    "hex": "HEX #FFF0F3"
+    "color": "#FFF0F3"
   },
   {
     "name": "is-color-blush-2",
     "snippet": ".is-color-blush-2 {\n  color: #FFD9DF;\n}",
-    "color": "#FFD9DF",
-    "hex": "HEX #FFD9DF"
+    "color": "#FFD9DF"
   },
   {
     "name": "is-color-blush-3",
     "snippet": ".is-color-blush-3 {\n  color: #FFC0C9;\n}",
-    "color": "#FFC0C9",
-    "hex": "HEX #FFC0C9"
+    "color": "#FFC0C9"
   },
   {
     "name": "is-color-blush-4",
     "snippet": ".is-color-blush-4 {\n  color: #FFA7B3;\n}",
-    "color": "#FFA7B3",
-    "hex": "HEX #FFA7B3"
+    "color": "#FFA7B3"
   },
   {
     "name": "is-color-blush-5",
     "snippet": ".is-color-blush-5 {\n  color: #FF8C9C;\n}",
-    "color": "#FF8C9C",
-    "hex": "HEX #FF8C9C"
+    "color": "#FF8C9C"
   },
   {
     "name": "is-color-blush-6",
     "snippet": ".is-color-blush-6 {\n  color: #FF6B81;\n}",
-    "color": "#FF6B81",
-    "hex": "HEX #FF6B81"
+    "color": "#FF6B81"
   },
   {
     "name": "is-color-blush-7",
     "snippet": ".is-color-blush-7 {\n  color: #E0546A;\n}",
-    "color": "#E0546A",
-    "hex": "HEX #E0546A"
+    "color": "#E0546A"
   },
   {
     "name": "is-color-blush-8",
     "snippet": ".is-color-blush-8 {\n  color: #B34053;\n}",
-    "color": "#B34053",
-    "hex": "HEX #B34053"
+    "color": "#B34053"
   },
   {
     "name": "is-color-blush-9",
     "snippet": ".is-color-blush-9 {\n  color: #802D3B;\n}",
-    "color": "#802D3B",
-    "hex": "HEX #802D3B"
+    "color": "#802D3B"
   },
   {
     "name": "is-color-blush-10",
     "snippet": ".is-color-blush-10 {\n  color: #4D1A24;\n}",
-    "color": "#4D1A24",
-    "hex": "HEX #4D1A24"
+    "color": "#4D1A24"
   },
   {
     "name": "is-bg-blush-1",
     "snippet": ".is-bg-blush-1 {\n  background-color: #FFF0F3;\n}",
-    "color": "#FFF0F3",
-    "hex": "HEX #FFF0F3"
+    "color": "#FFF0F3"
   },
   {
     "name": "is-bg-blush-2",
     "snippet": ".is-bg-blush-2 {\n  background-color: #FFD9DF;\n}",
-    "color": "#FFD9DF",
-    "hex": "HEX #FFD9DF"
+    "color": "#FFD9DF"
   },
   {
     "name": "is-bg-blush-3",
     "snippet": ".is-bg-blush-3 {\n  background-color: #FFC0C9;\n}",
-    "color": "#FFC0C9",
-    "hex": "HEX #FFC0C9"
+    "color": "#FFC0C9"
   },
   {
     "name": "is-bg-blush-4",
     "snippet": ".is-bg-blush-4 {\n  background-color: #FFA7B3;\n}",
-    "color": "#FFA7B3",
-    "hex": "HEX #FFA7B3"
+    "color": "#FFA7B3"
   },
   {
     "name": "is-bg-blush-5",
     "snippet": ".is-bg-blush-5 {\n  background-color: #FF8C9C;\n}",
-    "color": "#FF8C9C",
-    "hex": "HEX #FF8C9C"
+    "color": "#FF8C9C"
   },
   {
     "name": "is-bg-blush-6",
     "snippet": ".is-bg-blush-6 {\n  background-color: #FF6B81;\n}",
-    "color": "#FF6B81",
-    "hex": "HEX #FF6B81"
+    "color": "#FF6B81"
   },
   {
     "name": "is-bg-blush-7",
     "snippet": ".is-bg-blush-7 {\n  background-color: #E0546A;\n}",
-    "color": "#E0546A",
-    "hex": "HEX #E0546A"
+    "color": "#E0546A"
   },
   {
     "name": "is-bg-blush-8",
     "snippet": ".is-bg-blush-8 {\n  background-color: #B34053;\n}",
-    "color": "#B34053",
-    "hex": "HEX #B34053"
+    "color": "#B34053"
   },
   {
     "name": "is-bg-blush-9",
     "snippet": ".is-bg-blush-9 {\n  background-color: #802D3B;\n}",
-    "color": "#802D3B",
-    "hex": "HEX #802D3B"
+    "color": "#802D3B"
   },
   {
     "name": "is-bg-blush-10",
     "snippet": ".is-bg-blush-10 {\n  background-color: #4D1A24;\n}",
-    "color": "#4D1A24",
-    "hex": "HEX #4D1A24"
+    "color": "#4D1A24"
   },
   {
     "name": "is-color-peach-1",
     "snippet": ".is-color-peach-1 {\n  color: #FFF3EC;\n}",
-    "color": "#FFF3EC",
-    "hex": "HEX #FFF3EC"
+    "color": "#FFF3EC"
   },
   {
     "name": "is-color-peach-2",
     "snippet": ".is-color-peach-2 {\n  color: #FFE0D0;\n}",
-    "color": "#FFE0D0",
-    "hex": "HEX #FFE0D0"
+    "color": "#FFE0D0"
   },
   {
     "name": "is-color-peach-3",
     "snippet": ".is-color-peach-3 {\n  color: #FFCAB3;\n}",
-    "color": "#FFCAB3",
-    "hex": "HEX #FFCAB3"
+    "color": "#FFCAB3"
   },
   {
     "name": "is-color-peach-4",
     "snippet": ".is-color-peach-4 {\n  color: #FFAD8C;\n}",
-    "color": "#FFAD8C",
-    "hex": "HEX #FFAD8C"
+    "color": "#FFAD8C"
   },
   {
     "name": "is-color-peach-5",
     "snippet": ".is-color-peach-5 {\n  color: #FF9266;\n}",
-    "color": "#FF9266",
-    "hex": "HEX #FF9266"
+    "color": "#FF9266"
   },
   {
     "name": "is-color-peach-6",
     "snippet": ".is-color-peach-6 {\n  color: #FF7043;\n}",
-    "color": "#FF7043",
-    "hex": "HEX #FF7043"
+    "color": "#FF7043"
   },
   {
     "name": "is-color-peach-7",
     "snippet": ".is-color-peach-7 {\n  color: #E65F36;\n}",
-    "color": "#E65F36",
-    "hex": "HEX #E65F36"
+    "color": "#E65F36"
   },
   {
     "name": "is-color-peach-8",
     "snippet": ".is-color-peach-8 {\n  color: #B34A2A;\n}",
-    "color": "#B34A2A",
-    "hex": "HEX #B34A2A"
+    "color": "#B34A2A"
   },
   {
     "name": "is-color-peach-9",
     "snippet": ".is-color-peach-9 {\n  color: #80351F;\n}",
-    "color": "#80351F",
-    "hex": "HEX #80351F"
+    "color": "#80351F"
   },
   {
     "name": "is-color-peach-10",
     "snippet": ".is-color-peach-10 {\n  color: #4D2113;\n}",
-    "color": "#4D2113",
-    "hex": "HEX #4D2113"
+    "color": "#4D2113"
   },
   {
     "name": "is-bg-peach-1",
     "snippet": ".is-bg-peach-1 {\n  background-color: #FFF3EC;\n}",
-    "color": "#FFF3EC",
-    "hex": "HEX #FFF3EC"
+    "color": "#FFF3EC"
   },
   {
     "name": "is-bg-peach-2",
     "snippet": ".is-bg-peach-2 {\n  background-color: #FFE0D0;\n}",
-    "color": "#FFE0D0",
-    "hex": "HEX #FFE0D0"
+    "color": "#FFE0D0"
   },
   {
     "name": "is-bg-peach-3",
     "snippet": ".is-bg-peach-3 {\n  background-color: #FFCAB3;\n}",
-    "color": "#FFCAB3",
-    "hex": "HEX #FFCAB3"
+    "color": "#FFCAB3"
   },
   {
     "name": "is-bg-peach-4",
     "snippet": ".is-bg-peach-4 {\n  background-color: #FFAD8C;\n}",
-    "color": "#FFAD8C",
-    "hex": "HEX #FFAD8C"
+    "color": "#FFAD8C"
   },
   {
     "name": "is-bg-peach-5",
     "snippet": ".is-bg-peach-5 {\n  background-color: #FF9266;\n}",
-    "color": "#FF9266",
-    "hex": "HEX #FF9266"
+    "color": "#FF9266"
   },
   {
     "name": "is-bg-peach-6",
     "snippet": ".is-bg-peach-6 {\n  background-color: #FF7043;\n}",
-    "color": "#FF7043",
-    "hex": "HEX #FF7043"
+    "color": "#FF7043"
   },
   {
     "name": "is-bg-peach-7",
     "snippet": ".is-bg-peach-7 {\n  background-color: #E65F36;\n}",
-    "color": "#E65F36",
-    "hex": "HEX #E65F36"
+    "color": "#E65F36"
   },
   {
     "name": "is-bg-peach-8",
     "snippet": ".is-bg-peach-8 {\n  background-color: #B34A2A;\n}",
-    "color": "#B34A2A",
-    "hex": "HEX #B34A2A"
+    "color": "#B34A2A"
   },
   {
     "name": "is-bg-peach-9",
     "snippet": ".is-bg-peach-9 {\n  background-color: #80351F;\n}",
-    "color": "#80351F",
-    "hex": "HEX #80351F"
+    "color": "#80351F"
   },
   {
     "name": "is-bg-peach-10",
     "snippet": ".is-bg-peach-10 {\n  background-color: #4D2113;\n}",
-    "color": "#4D2113",
-    "hex": "HEX #4D2113"
+    "color": "#4D2113"
   },
   {
     "name": "is-color-amber-1",
     "snippet": ".is-color-amber-1 {\n  color: #FFF8E1;\n}",
-    "color": "#FFF8E1",
-    "hex": "HEX #FFF8E1"
+    "color": "#FFF8E1"
   },
   {
     "name": "is-color-amber-2",
     "snippet": ".is-color-amber-2 {\n  color: #FFECB3;\n}",
-    "color": "#FFECB3",
-    "hex": "HEX #FFECB3"
+    "color": "#FFECB3"
   },
   {
     "name": "is-color-amber-3",
     "snippet": ".is-color-amber-3 {\n  color: #FFE082;\n}",
-    "color": "#FFE082",
-    "hex": "HEX #FFE082"
+    "color": "#FFE082"
   },
   {
     "name": "is-color-amber-4",
     "snippet": ".is-color-amber-4 {\n  color: #FFD54F;\n}",
-    "color": "#FFD54F",
-    "hex": "HEX #FFD54F"
+    "color": "#FFD54F"
   },
   {
     "name": "is-color-amber-5",
     "snippet": ".is-color-amber-5 {\n  color: #FFCA28;\n}",
-    "color": "#FFCA28",
-    "hex": "HEX #FFCA28"
+    "color": "#FFCA28"
   },
   {
     "name": "is-color-amber-6",
     "snippet": ".is-color-amber-6 {\n  color: #FFC107;\n}",
-    "color": "#FFC107",
-    "hex": "HEX #FFC107"
+    "color": "#FFC107"
   },
   {
     "name": "is-color-amber-7",
     "snippet": ".is-color-amber-7 {\n  color: #FFB300;\n}",
-    "color": "#FFB300",
-    "hex": "HEX #FFB300"
+    "color": "#FFB300"
   },
   {
     "name": "is-color-amber-8",
     "snippet": ".is-color-amber-8 {\n  color: #FFA000;\n}",
-    "color": "#FFA000",
-    "hex": "HEX #FFA000"
+    "color": "#FFA000"
   },
   {
     "name": "is-color-amber-9",
     "snippet": ".is-color-amber-9 {\n  color: #FF8F00;\n}",
-    "color": "#FF8F00",
-    "hex": "HEX #FF8F00"
+    "color": "#FF8F00"
   },
   {
     "name": "is-color-amber-10",
     "snippet": ".is-color-amber-10 {\n  color: #FF6F00;\n}",
-    "color": "#FF6F00",
-    "hex": "HEX #FF6F00"
+    "color": "#FF6F00"
   },
   {
     "name": "is-bg-amber-1",
     "snippet": ".is-bg-amber-1 {\n  background-color: #FFF8E1;\n}",
-    "color": "#FFF8E1",
-    "hex": "HEX #FFF8E1"
+    "color": "#FFF8E1"
   },
   {
     "name": "is-bg-amber-2",
     "snippet": ".is-bg-amber-2 {\n  background-color: #FFECB3;\n}",
-    "color": "#FFECB3",
-    "hex": "HEX #FFECB3"
+    "color": "#FFECB3"
   },
   {
     "name": "is-bg-amber-3",
     "snippet": ".is-bg-amber-3 {\n  background-color: #FFE082;\n}",
-    "color": "#FFE082",
-    "hex": "HEX #FFE082"
+    "color": "#FFE082"
   },
   {
     "name": "is-bg-amber-4",
     "snippet": ".is-bg-amber-4 {\n  background-color: #FFD54F;\n}",
-    "color": "#FFD54F",
-    "hex": "HEX #FFD54F"
+    "color": "#FFD54F"
   },
   {
     "name": "is-bg-amber-5",
     "snippet": ".is-bg-amber-5 {\n  background-color: #FFCA28;\n}",
-    "color": "#FFCA28",
-    "hex": "HEX #FFCA28"
+    "color": "#FFCA28"
   },
   {
     "name": "is-bg-amber-6",
     "snippet": ".is-bg-amber-6 {\n  background-color: #FFC107;\n}",
-    "color": "#FFC107",
-    "hex": "HEX #FFC107"
+    "color": "#FFC107"
   },
   {
     "name": "is-bg-amber-7",
     "snippet": ".is-bg-amber-7 {\n  background-color: #FFB300;\n}",
-    "color": "#FFB300",
-    "hex": "HEX #FFB300"
+    "color": "#FFB300"
   },
   {
     "name": "is-bg-amber-8",
     "snippet": ".is-bg-amber-8 {\n  background-color: #FFA000;\n}",
-    "color": "#FFA000",
-    "hex": "HEX #FFA000"
+    "color": "#FFA000"
   },
   {
     "name": "is-bg-amber-9",
     "snippet": ".is-bg-amber-9 {\n  background-color: #FF8F00;\n}",
-    "color": "#FF8F00",
-    "hex": "HEX #FF8F00"
+    "color": "#FF8F00"
   },
   {
     "name": "is-bg-amber-10",
     "snippet": ".is-bg-amber-10 {\n  background-color: #FF6F00;\n}",
-    "color": "#FF6F00",
-    "hex": "HEX #FF6F00"
+    "color": "#FF6F00"
   },
   {
     "name": "is-color-zest-1",
     "snippet": ".is-color-zest-1 {\n  color: #f7fee7;\n}",
-    "color": "#f7fee7",
-    "hex": "HEX #f7fee7"
+    "color": "#f7fee7"
   },
   {
     "name": "is-color-zest-2",
     "snippet": ".is-color-zest-2 {\n  color: #ecfccb;\n}",
-    "color": "#ecfccb",
-    "hex": "HEX #ecfccb"
+    "color": "#ecfccb"
   },
   {
     "name": "is-color-zest-3",
     "snippet": ".is-color-zest-3 {\n  color: #d9f99d;\n}",
-    "color": "#d9f99d",
-    "hex": "HEX #d9f99d"
+    "color": "#d9f99d"
   },
   {
     "name": "is-color-zest-4",
     "snippet": ".is-color-zest-4 {\n  color: #bef264;\n}",
-    "color": "#bef264",
-    "hex": "HEX #bef264"
+    "color": "#bef264"
   },
   {
     "name": "is-color-zest-5",
     "snippet": ".is-color-zest-5 {\n  color: #a3e635;\n}",
-    "color": "#a3e635",
-    "hex": "HEX #a3e635"
+    "color": "#a3e635"
   },
   {
     "name": "is-color-zest-6",
     "snippet": ".is-color-zest-6 {\n  color: #84cc16;\n}",
-    "color": "#84cc16",
-    "hex": "HEX #84cc16"
+    "color": "#84cc16"
   },
   {
     "name": "is-color-zest-7",
     "snippet": ".is-color-zest-7 {\n  color: #65a30d;\n}",
-    "color": "#65a30d",
-    "hex": "HEX #65a30d"
+    "color": "#65a30d"
   },
   {
     "name": "is-color-zest-8",
     "snippet": ".is-color-zest-8 {\n  color: #4d7c0f;\n}",
-    "color": "#4d7c0f",
-    "hex": "HEX #4d7c0f"
+    "color": "#4d7c0f"
   },
   {
     "name": "is-color-zest-9",
     "snippet": ".is-color-zest-9 {\n  color: #3f6212;\n}",
-    "color": "#3f6212",
-    "hex": "HEX #3f6212"
+    "color": "#3f6212"
   },
   {
     "name": "is-color-zest-10",
     "snippet": ".is-color-zest-10 {\n  color: #365314;\n}",
-    "color": "#365314",
-    "hex": "HEX #365314"
+    "color": "#365314"
   },
   {
     "name": "is-bg-zest-1",
     "snippet": ".is-bg-zest-1 {\n  background-color: #f7fee7;\n}",
-    "color": "#f7fee7",
-    "hex": "HEX #f7fee7"
+    "color": "#f7fee7"
   },
   {
     "name": "is-bg-zest-2",
     "snippet": ".is-bg-zest-2 {\n  background-color: #ecfccb;\n}",
-    "color": "#ecfccb",
-    "hex": "HEX #ecfccb"
+    "color": "#ecfccb"
   },
   {
     "name": "is-bg-zest-3",
     "snippet": ".is-bg-zest-3 {\n  background-color: #d9f99d;\n}",
-    "color": "#d9f99d",
-    "hex": "HEX #d9f99d"
+    "color": "#d9f99d"
   },
   {
     "name": "is-bg-zest-4",
     "snippet": ".is-bg-zest-4 {\n  background-color: #bef264;\n}",
-    "color": "#bef264",
-    "hex": "HEX #bef264"
+    "color": "#bef264"
   },
   {
     "name": "is-bg-zest-5",
     "snippet": ".is-bg-zest-5 {\n  background-color: #a3e635;\n}",
-    "color": "#a3e635",
-    "hex": "HEX #a3e635"
+    "color": "#a3e635"
   },
   {
     "name": "is-bg-zest-6",
     "snippet": ".is-bg-zest-6 {\n  background-color: #84cc16;\n}",
-    "color": "#84cc16",
-    "hex": "HEX #84cc16"
+    "color": "#84cc16"
   },
   {
     "name": "is-bg-zest-7",
     "snippet": ".is-bg-zest-7 {\n  background-color: #65a30d;\n}",
-    "color": "#65a30d",
-    "hex": "HEX #65a30d"
+    "color": "#65a30d"
   },
   {
     "name": "is-bg-zest-8",
     "snippet": ".is-bg-zest-8 {\n  background-color: #4d7c0f;\n}",
-    "color": "#4d7c0f",
-    "hex": "HEX #4d7c0f"
+    "color": "#4d7c0f"
   },
   {
     "name": "is-bg-zest-9",
     "snippet": ".is-bg-zest-9 {\n  background-color: #3f6212;\n}",
-    "color": "#3f6212",
-    "hex": "HEX #3f6212"
+    "color": "#3f6212"
   },
   {
     "name": "is-bg-zest-10",
     "snippet": ".is-bg-zest-10 {\n  background-color: #365314;\n}",
-    "color": "#365314",
-    "hex": "HEX #365314"
+    "color": "#365314"
   },
   {
     "name": "is-color-frost-1",
     "snippet": ".is-color-frost-1 {\n  color: #ecfeff;\n}",
-    "color": "#ecfeff",
-    "hex": "HEX #ecfeff"
+    "color": "#ecfeff"
   },
   {
     "name": "is-color-frost-2",
     "snippet": ".is-color-frost-2 {\n  color: #cffafe;\n}",
-    "color": "#cffafe",
-    "hex": "HEX #cffafe"
+    "color": "#cffafe"
   },
   {
     "name": "is-color-frost-3",
     "snippet": ".is-color-frost-3 {\n  color: #a5f3fc;\n}",
-    "color": "#a5f3fc",
-    "hex": "HEX #a5f3fc"
+    "color": "#a5f3fc"
   },
   {
     "name": "is-color-frost-4",
     "snippet": ".is-color-frost-4 {\n  color: #67e8f9;\n}",
-    "color": "#67e8f9",
-    "hex": "HEX #67e8f9"
+    "color": "#67e8f9"
   },
   {
     "name": "is-color-frost-5",
     "snippet": ".is-color-frost-5 {\n  color: #22d3ee;\n}",
-    "color": "#22d3ee",
-    "hex": "HEX #22d3ee"
+    "color": "#22d3ee"
   },
   {
     "name": "is-color-frost-6",
     "snippet": ".is-color-frost-6 {\n  color: #06b6d4;\n}",
-    "color": "#06b6d4",
-    "hex": "HEX #06b6d4"
+    "color": "#06b6d4"
   },
   {
     "name": "is-color-frost-7",
     "snippet": ".is-color-frost-7 {\n  color: #0891b2;\n}",
-    "color": "#0891b2",
-    "hex": "HEX #0891b2"
+    "color": "#0891b2"
   },
   {
     "name": "is-color-frost-8",
     "snippet": ".is-color-frost-8 {\n  color: #0e7490;\n}",
-    "color": "#0e7490",
-    "hex": "HEX #0e7490"
+    "color": "#0e7490"
   },
   {
     "name": "is-color-frost-9",
     "snippet": ".is-color-frost-9 {\n  color: #155e75;\n}",
-    "color": "#155e75",
-    "hex": "HEX #155e75"
+    "color": "#155e75"
   },
   {
     "name": "is-color-frost-10",
     "snippet": ".is-color-frost-10 {\n  color: #164e63;\n}",
-    "color": "#164e63",
-    "hex": "HEX #164e63"
+    "color": "#164e63"
   },
   {
     "name": "is-bg-frost-1",
     "snippet": ".is-bg-frost-1 {\n  background-color: #ecfeff;\n}",
-    "color": "#ecfeff",
-    "hex": "HEX #ecfeff"
+    "color": "#ecfeff"
   },
   {
     "name": "is-bg-frost-2",
     "snippet": ".is-bg-frost-2 {\n  background-color: #cffafe;\n}",
-    "color": "#cffafe",
-    "hex": "HEX #cffafe"
+    "color": "#cffafe"
   },
   {
     "name": "is-bg-frost-3",
     "snippet": ".is-bg-frost-3 {\n  background-color: #a5f3fc;\n}",
-    "color": "#a5f3fc",
-    "hex": "HEX #a5f3fc"
+    "color": "#a5f3fc"
   },
   {
     "name": "is-bg-frost-4",
     "snippet": ".is-bg-frost-4 {\n  background-color: #67e8f9;\n}",
-    "color": "#67e8f9",
-    "hex": "HEX #67e8f9"
+    "color": "#67e8f9"
   },
   {
     "name": "is-bg-frost-5",
     "snippet": ".is-bg-frost-5 {\n  background-color: #22d3ee;\n}",
-    "color": "#22d3ee",
-    "hex": "HEX #22d3ee"
+    "color": "#22d3ee"
   },
   {
     "name": "is-bg-frost-6",
     "snippet": ".is-bg-frost-6 {\n  background-color: #06b6d4;\n}",
-    "color": "#06b6d4",
-    "hex": "HEX #06b6d4"
+    "color": "#06b6d4"
   },
   {
     "name": "is-bg-frost-7",
     "snippet": ".is-bg-frost-7 {\n  background-color: #0891b2;\n}",
-    "color": "#0891b2",
-    "hex": "HEX #0891b2"
+    "color": "#0891b2"
   },
   {
     "name": "is-bg-frost-8",
     "snippet": ".is-bg-frost-8 {\n  background-color: #0e7490;\n}",
-    "color": "#0e7490",
-    "hex": "HEX #0e7490"
+    "color": "#0e7490"
   },
   {
     "name": "is-bg-frost-9",
     "snippet": ".is-bg-frost-9 {\n  background-color: #155e75;\n}",
-    "color": "#155e75",
-    "hex": "HEX #155e75"
+    "color": "#155e75"
   },
   {
     "name": "is-bg-frost-10",
     "snippet": ".is-bg-frost-10 {\n  background-color: #164e63;\n}",
-    "color": "#164e63",
-    "hex": "HEX #164e63"
+    "color": "#164e63"
   },
   {
     "name": "is-color-twilight-1",
     "snippet": ".is-color-twilight-1 {\n  color: #EEF0FF;\n}",
-    "color": "#EEF0FF",
-    "hex": "HEX #EEF0FF"
+    "color": "#EEF0FF"
   },
   {
     "name": "is-color-twilight-2",
     "snippet": ".is-color-twilight-2 {\n  color: #D1D6FF;\n}",
-    "color": "#D1D6FF",
-    "hex": "HEX #D1D6FF"
+    "color": "#D1D6FF"
   },
   {
     "name": "is-color-twilight-3",
     "snippet": ".is-color-twilight-3 {\n  color: #B3BBFF;\n}",
-    "color": "#B3BBFF",
-    "hex": "HEX #B3BBFF"
+    "color": "#B3BBFF"
   },
   {
     "name": "is-color-twilight-4",
     "snippet": ".is-color-twilight-4 {\n  color: #949EFF;\n}",
-    "color": "#949EFF",
-    "hex": "HEX #949EFF"
+    "color": "#949EFF"
   },
   {
     "name": "is-color-twilight-5",
     "snippet": ".is-color-twilight-5 {\n  color: #767FFF;\n}",
-    "color": "#767FFF",
-    "hex": "HEX #767FFF"
+    "color": "#767FFF"
   },
   {
     "name": "is-color-twilight-6",
     "snippet": ".is-color-twilight-6 {\n  color: #5B61FF;\n}",
-    "color": "#5B61FF",
-    "hex": "HEX #5B61FF"
+    "color": "#5B61FF"
   },
   {
     "name": "is-color-twilight-7",
     "snippet": ".is-color-twilight-7 {\n  color: #444ACC;\n}",
-    "color": "#444ACC",
-    "hex": "HEX #444ACC"
+    "color": "#444ACC"
   },
   {
     "name": "is-color-twilight-8",
     "snippet": ".is-color-twilight-8 {\n  color: #333899;\n}",
-    "color": "#333899",
-    "hex": "HEX #333899"
+    "color": "#333899"
   },
   {
     "name": "is-color-twilight-9",
     "snippet": ".is-color-twilight-9 {\n  color: #222566;\n}",
-    "color": "#222566",
-    "hex": "HEX #222566"
+    "color": "#222566"
   },
   {
     "name": "is-color-twilight-10",
     "snippet": ".is-color-twilight-10 {\n  color: #111233;\n}",
-    "color": "#111233",
-    "hex": "HEX #111233"
+    "color": "#111233"
   },
   {
     "name": "is-bg-twilight-1",
     "snippet": ".is-bg-twilight-1 {\n  background-color: #EEF0FF;\n}",
-    "color": "#EEF0FF",
-    "hex": "HEX #EEF0FF"
+    "color": "#EEF0FF"
   },
   {
     "name": "is-bg-twilight-2",
     "snippet": ".is-bg-twilight-2 {\n  background-color: #D1D6FF;\n}",
-    "color": "#D1D6FF",
-    "hex": "HEX #D1D6FF"
+    "color": "#D1D6FF"
   },
   {
     "name": "is-bg-twilight-3",
     "snippet": ".is-bg-twilight-3 {\n  background-color: #B3BBFF;\n}",
-    "color": "#B3BBFF",
-    "hex": "HEX #B3BBFF"
+    "color": "#B3BBFF"
   },
   {
     "name": "is-bg-twilight-4",
     "snippet": ".is-bg-twilight-4 {\n  background-color: #949EFF;\n}",
-    "color": "#949EFF",
-    "hex": "HEX #949EFF"
+    "color": "#949EFF"
   },
   {
     "name": "is-bg-twilight-5",
     "snippet": ".is-bg-twilight-5 {\n  background-color: #767FFF;\n}",
-    "color": "#767FFF",
-    "hex": "HEX #767FFF"
+    "color": "#767FFF"
   },
   {
     "name": "is-bg-twilight-6",
     "snippet": ".is-bg-twilight-6 {\n  background-color: #5B61FF;\n}",
-    "color": "#5B61FF",
-    "hex": "HEX #5B61FF"
+    "color": "#5B61FF"
   },
   {
     "name": "is-bg-twilight-7",
     "snippet": ".is-bg-twilight-7 {\n  background-color: #444ACC;\n}",
-    "color": "#444ACC",
-    "hex": "HEX #444ACC"
+    "color": "#444ACC"
   },
   {
     "name": "is-bg-twilight-8",
     "snippet": ".is-bg-twilight-8 {\n  background-color: #333899;\n}",
-    "color": "#333899",
-    "hex": "HEX #333899"
+    "color": "#333899"
   },
   {
     "name": "is-bg-twilight-9",
     "snippet": ".is-bg-twilight-9 {\n  background-color: #222566;\n}",
-    "color": "#222566",
-    "hex": "HEX #222566"
+    "color": "#222566"
   },
   {
     "name": "is-bg-twilight-10",
     "snippet": ".is-bg-twilight-10 {\n  background-color: #111233;\n}",
-    "color": "#111233",
-    "hex": "HEX #111233"
+    "color": "#111233"
   },
   {
     "name": "is-color-dune-1",
     "snippet": ".is-color-dune-1 {\n  color: #fafaf9;\n}",
-    "color": "#fafaf9",
-    "hex": "HEX #fafaf9"
+    "color": "#fafaf9"
   },
   {
     "name": "is-color-dune-2",
     "snippet": ".is-color-dune-2 {\n  color: #f5f5f4;\n}",
-    "color": "#f5f5f4",
-    "hex": "HEX #f5f5f4"
+    "color": "#f5f5f4"
   },
   {
     "name": "is-color-dune-3",
     "snippet": ".is-color-dune-3 {\n  color: #e7e5e4;\n}",
-    "color": "#e7e5e4",
-    "hex": "HEX #e7e5e4"
+    "color": "#e7e5e4"
   },
   {
     "name": "is-color-dune-4",
     "snippet": ".is-color-dune-4 {\n  color: #d6d3d1;\n}",
-    "color": "#d6d3d1",
-    "hex": "HEX #d6d3d1"
+    "color": "#d6d3d1"
   },
   {
     "name": "is-color-dune-5",
     "snippet": ".is-color-dune-5 {\n  color: #a8a29e;\n}",
-    "color": "#a8a29e",
-    "hex": "HEX #a8a29e"
+    "color": "#a8a29e"
   },
   {
     "name": "is-color-dune-6",
     "snippet": ".is-color-dune-6 {\n  color: #78716c;\n}",
-    "color": "#78716c",
-    "hex": "HEX #78716c"
+    "color": "#78716c"
   },
   {
     "name": "is-color-dune-7",
     "snippet": ".is-color-dune-7 {\n  color: #57534e;\n}",
-    "color": "#57534e",
-    "hex": "HEX #57534e"
+    "color": "#57534e"
   },
   {
     "name": "is-color-dune-8",
     "snippet": ".is-color-dune-8 {\n  color: #44403c;\n}",
-    "color": "#44403c",
-    "hex": "HEX #44403c"
+    "color": "#44403c"
   },
   {
     "name": "is-color-dune-9",
     "snippet": ".is-color-dune-9 {\n  color: #292524;\n}",
-    "color": "#292524",
-    "hex": "HEX #292524"
+    "color": "#292524"
   },
   {
     "name": "is-color-dune-10",
     "snippet": ".is-color-dune-10 {\n  color: #1c1917;\n}",
-    "color": "#1c1917",
-    "hex": "HEX #1c1917"
+    "color": "#1c1917"
   },
   {
     "name": "is-bg-dune-1",
     "snippet": ".is-bg-dune-1 {\n  background-color: #fafaf9;\n}",
-    "color": "#fafaf9",
-    "hex": "HEX #fafaf9"
+    "color": "#fafaf9"
   },
   {
     "name": "is-bg-dune-2",
     "snippet": ".is-bg-dune-2 {\n  background-color: #f5f5f4;\n}",
-    "color": "#f5f5f4",
-    "hex": "HEX #f5f5f4"
+    "color": "#f5f5f4"
   },
   {
     "name": "is-bg-dune-3",
     "snippet": ".is-bg-dune-3 {\n  background-color: #e7e5e4;\n}",
-    "color": "#e7e5e4",
-    "hex": "HEX #e7e5e4"
+    "color": "#e7e5e4"
   },
   {
     "name": "is-bg-dune-4",
     "snippet": ".is-bg-dune-4 {\n  background-color: #d6d3d1;\n}",
-    "color": "#d6d3d1",
-    "hex": "HEX #d6d3d1"
+    "color": "#d6d3d1"
   },
   {
     "name": "is-bg-dune-5",
     "snippet": ".is-bg-dune-5 {\n  background-color: #a8a29e;\n}",
-    "color": "#a8a29e",
-    "hex": "HEX #a8a29e"
+    "color": "#a8a29e"
   },
   {
     "name": "is-bg-dune-6",
     "snippet": ".is-bg-dune-6 {\n  background-color: #78716c;\n}",
-    "color": "#78716c",
-    "hex": "HEX #78716c"
+    "color": "#78716c"
   },
   {
     "name": "is-bg-dune-7",
     "snippet": ".is-bg-dune-7 {\n  background-color: #57534e;\n}",
-    "color": "#57534e",
-    "hex": "HEX #57534e"
+    "color": "#57534e"
   },
   {
     "name": "is-bg-dune-8",
     "snippet": ".is-bg-dune-8 {\n  background-color: #44403c;\n}",
-    "color": "#44403c",
-    "hex": "HEX #44403c"
+    "color": "#44403c"
   },
   {
     "name": "is-bg-dune-9",
     "snippet": ".is-bg-dune-9 {\n  background-color: #292524;\n}",
-    "color": "#292524",
-    "hex": "HEX #292524"
+    "color": "#292524"
   },
   {
     "name": "is-bg-dune-10",
     "snippet": ".is-bg-dune-10 {\n  background-color: #1c1917;\n}",
-    "color": "#1c1917",
-    "hex": "HEX #1c1917"
+    "color": "#1c1917"
   },
   {
     "name": "is-color-cloud-1",
     "snippet": ".is-color-cloud-1 {\n  color: #ffffff;\n}",
-    "color": "#ffffff",
-    "hex": "HEX #ffffff"
+    "color": "#ffffff"
   },
   {
     "name": "is-color-cloud-2",
     "snippet": ".is-color-cloud-2 {\n  color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-color-cloud-3",
     "snippet": ".is-color-cloud-3 {\n  color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-color-cloud-4",
     "snippet": ".is-color-cloud-4 {\n  color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-color-cloud-5",
     "snippet": ".is-color-cloud-5 {\n  color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-color-cloud-6",
     "snippet": ".is-color-cloud-6 {\n  color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-color-cloud-7",
     "snippet": ".is-color-cloud-7 {\n  color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-color-cloud-8",
     "snippet": ".is-color-cloud-8 {\n  color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-color-cloud-9",
     "snippet": ".is-color-cloud-9 {\n  color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-color-cloud-10",
     "snippet": ".is-color-cloud-10 {\n  color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-bg-cloud-1",
     "snippet": ".is-bg-cloud-1 {\n  background-color: #ffffff;\n}",
-    "color": "#ffffff",
-    "hex": "HEX #ffffff"
+    "color": "#ffffff"
   },
   {
     "name": "is-bg-cloud-2",
     "snippet": ".is-bg-cloud-2 {\n  background-color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-bg-cloud-3",
     "snippet": ".is-bg-cloud-3 {\n  background-color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-bg-cloud-4",
     "snippet": ".is-bg-cloud-4 {\n  background-color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-bg-cloud-5",
     "snippet": ".is-bg-cloud-5 {\n  background-color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-bg-cloud-6",
     "snippet": ".is-bg-cloud-6 {\n  background-color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-bg-cloud-7",
     "snippet": ".is-bg-cloud-7 {\n  background-color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-bg-cloud-8",
     "snippet": ".is-bg-cloud-8 {\n  background-color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-bg-cloud-9",
     "snippet": ".is-bg-cloud-9 {\n  background-color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-bg-cloud-10",
     "snippet": ".is-bg-cloud-10 {\n  background-color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-color-mist-1",
     "snippet": ".is-color-mist-1 {\n  color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-color-mist-2",
     "snippet": ".is-color-mist-2 {\n  color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-color-mist-3",
     "snippet": ".is-color-mist-3 {\n  color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-color-mist-4",
     "snippet": ".is-color-mist-4 {\n  color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-color-mist-5",
     "snippet": ".is-color-mist-5 {\n  color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-color-mist-6",
     "snippet": ".is-color-mist-6 {\n  color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-color-mist-7",
     "snippet": ".is-color-mist-7 {\n  color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-color-mist-8",
     "snippet": ".is-color-mist-8 {\n  color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-color-mist-9",
     "snippet": ".is-color-mist-9 {\n  color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-color-mist-10",
     "snippet": ".is-color-mist-10 {\n  color: #111827;\n}",
-    "color": "#111827",
-    "hex": "HEX #111827"
+    "color": "#111827"
   },
   {
     "name": "is-bg-mist-1",
     "snippet": ".is-bg-mist-1 {\n  background-color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-bg-mist-2",
     "snippet": ".is-bg-mist-2 {\n  background-color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-bg-mist-3",
     "snippet": ".is-bg-mist-3 {\n  background-color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-bg-mist-4",
     "snippet": ".is-bg-mist-4 {\n  background-color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-bg-mist-5",
     "snippet": ".is-bg-mist-5 {\n  background-color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-bg-mist-6",
     "snippet": ".is-bg-mist-6 {\n  background-color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-bg-mist-7",
     "snippet": ".is-bg-mist-7 {\n  background-color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-bg-mist-8",
     "snippet": ".is-bg-mist-8 {\n  background-color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-bg-mist-9",
     "snippet": ".is-bg-mist-9 {\n  background-color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-bg-mist-10",
     "snippet": ".is-bg-mist-10 {\n  background-color: #111827;\n}",
-    "color": "#111827",
-    "hex": "HEX #111827"
+    "color": "#111827"
   },
   {
     "name": "is-color-ash-1",
     "snippet": ".is-color-ash-1 {\n  color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-color-ash-2",
     "snippet": ".is-color-ash-2 {\n  color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-color-ash-3",
     "snippet": ".is-color-ash-3 {\n  color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-color-ash-4",
     "snippet": ".is-color-ash-4 {\n  color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-color-ash-5",
     "snippet": ".is-color-ash-5 {\n  color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-color-ash-6",
     "snippet": ".is-color-ash-6 {\n  color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-color-ash-7",
     "snippet": ".is-color-ash-7 {\n  color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-color-ash-8",
     "snippet": ".is-color-ash-8 {\n  color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-color-ash-9",
     "snippet": ".is-color-ash-9 {\n  color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-color-ash-10",
     "snippet": ".is-color-ash-10 {\n  color: #111827;\n}",
-    "color": "#111827",
-    "hex": "HEX #111827"
+    "color": "#111827"
   },
   {
     "name": "is-bg-ash-1",
     "snippet": ".is-bg-ash-1 {\n  background-color: #f9fafb;\n}",
-    "color": "#f9fafb",
-    "hex": "HEX #f9fafb"
+    "color": "#f9fafb"
   },
   {
     "name": "is-bg-ash-2",
     "snippet": ".is-bg-ash-2 {\n  background-color: #f3f4f6;\n}",
-    "color": "#f3f4f6",
-    "hex": "HEX #f3f4f6"
+    "color": "#f3f4f6"
   },
   {
     "name": "is-bg-ash-3",
     "snippet": ".is-bg-ash-3 {\n  background-color: #e5e7eb;\n}",
-    "color": "#e5e7eb",
-    "hex": "HEX #e5e7eb"
+    "color": "#e5e7eb"
   },
   {
     "name": "is-bg-ash-4",
     "snippet": ".is-bg-ash-4 {\n  background-color: #d1d5db;\n}",
-    "color": "#d1d5db",
-    "hex": "HEX #d1d5db"
+    "color": "#d1d5db"
   },
   {
     "name": "is-bg-ash-5",
     "snippet": ".is-bg-ash-5 {\n  background-color: #9ca3af;\n}",
-    "color": "#9ca3af",
-    "hex": "HEX #9ca3af"
+    "color": "#9ca3af"
   },
   {
     "name": "is-bg-ash-6",
     "snippet": ".is-bg-ash-6 {\n  background-color: #6b7280;\n}",
-    "color": "#6b7280",
-    "hex": "HEX #6b7280"
+    "color": "#6b7280"
   },
   {
     "name": "is-bg-ash-7",
     "snippet": ".is-bg-ash-7 {\n  background-color: #4b5563;\n}",
-    "color": "#4b5563",
-    "hex": "HEX #4b5563"
+    "color": "#4b5563"
   },
   {
     "name": "is-bg-ash-8",
     "snippet": ".is-bg-ash-8 {\n  background-color: #374151;\n}",
-    "color": "#374151",
-    "hex": "HEX #374151"
+    "color": "#374151"
   },
   {
     "name": "is-bg-ash-9",
     "snippet": ".is-bg-ash-9 {\n  background-color: #1f2937;\n}",
-    "color": "#1f2937",
-    "hex": "HEX #1f2937"
+    "color": "#1f2937"
   },
   {
     "name": "is-bg-ash-10",
     "snippet": ".is-bg-ash-10 {\n  background-color: #111827;\n}",
-    "color": "#111827",
-    "hex": "HEX #111827"
+    "color": "#111827"
   },
   {
     "name": "is-color-ink-1",
     "snippet": ".is-color-ink-1 {\n  color: #f8fafc;\n}",
-    "color": "#f8fafc",
-    "hex": "HEX #f8fafc"
+    "color": "#f8fafc"
   },
   {
     "name": "is-color-ink-2",
     "snippet": ".is-color-ink-2 {\n  color: #f1f5f9;\n}",
-    "color": "#f1f5f9",
-    "hex": "HEX #f1f5f9"
+    "color": "#f1f5f9"
   },
   {
     "name": "is-color-ink-3",
     "snippet": ".is-color-ink-3 {\n  color: #e2e8f0;\n}",
-    "color": "#e2e8f0",
-    "hex": "HEX #e2e8f0"
+    "color": "#e2e8f0"
   },
   {
     "name": "is-color-ink-4",
     "snippet": ".is-color-ink-4 {\n  color: #cbd5e1;\n}",
-    "color": "#cbd5e1",
-    "hex": "HEX #cbd5e1"
+    "color": "#cbd5e1"
   },
   {
     "name": "is-color-ink-5",
     "snippet": ".is-color-ink-5 {\n  color: #94a3b8;\n}",
-    "color": "#94a3b8",
-    "hex": "HEX #94a3b8"
+    "color": "#94a3b8"
   },
   {
     "name": "is-color-ink-6",
     "snippet": ".is-color-ink-6 {\n  color: #64748b;\n}",
-    "color": "#64748b",
-    "hex": "HEX #64748b"
+    "color": "#64748b"
   },
   {
     "name": "is-color-ink-7",
     "snippet": ".is-color-ink-7 {\n  color: #475569;\n}",
-    "color": "#475569",
-    "hex": "HEX #475569"
+    "color": "#475569"
   },
   {
     "name": "is-color-ink-8",
     "snippet": ".is-color-ink-8 {\n  color: #334155;\n}",
-    "color": "#334155",
-    "hex": "HEX #334155"
+    "color": "#334155"
   },
   {
     "name": "is-color-ink-9",
     "snippet": ".is-color-ink-9 {\n  color: #1e293b;\n}",
-    "color": "#1e293b",
-    "hex": "HEX #1e293b"
+    "color": "#1e293b"
   },
   {
     "name": "is-color-ink-10",
     "snippet": ".is-color-ink-10 {\n  color: #0f172a;\n}",
-    "color": "#0f172a",
-    "hex": "HEX #0f172a"
+    "color": "#0f172a"
   },
   {
     "name": "is-bg-ink-1",
     "snippet": ".is-bg-ink-1 {\n  background-color: #f8fafc;\n}",
-    "color": "#f8fafc",
-    "hex": "HEX #f8fafc"
+    "color": "#f8fafc"
   },
   {
     "name": "is-bg-ink-2",
     "snippet": ".is-bg-ink-2 {\n  background-color: #f1f5f9;\n}",
-    "color": "#f1f5f9",
-    "hex": "HEX #f1f5f9"
+    "color": "#f1f5f9"
   },
   {
     "name": "is-bg-ink-3",
     "snippet": ".is-bg-ink-3 {\n  background-color: #e2e8f0;\n}",
-    "color": "#e2e8f0",
-    "hex": "HEX #e2e8f0"
+    "color": "#e2e8f0"
   },
   {
     "name": "is-bg-ink-4",
     "snippet": ".is-bg-ink-4 {\n  background-color: #cbd5e1;\n}",
-    "color": "#cbd5e1",
-    "hex": "HEX #cbd5e1"
+    "color": "#cbd5e1"
   },
   {
     "name": "is-bg-ink-5",
     "snippet": ".is-bg-ink-5 {\n  background-color: #94a3b8;\n}",
-    "color": "#94a3b8",
-    "hex": "HEX #94a3b8"
+    "color": "#94a3b8"
   },
   {
     "name": "is-bg-ink-6",
     "snippet": ".is-bg-ink-6 {\n  background-color: #64748b;\n}",
-    "color": "#64748b",
-    "hex": "HEX #64748b"
+    "color": "#64748b"
   },
   {
     "name": "is-bg-ink-7",
     "snippet": ".is-bg-ink-7 {\n  background-color: #475569;\n}",
-    "color": "#475569",
-    "hex": "HEX #475569"
+    "color": "#475569"
   },
   {
     "name": "is-bg-ink-8",
     "snippet": ".is-bg-ink-8 {\n  background-color: #334155;\n}",
-    "color": "#334155",
-    "hex": "HEX #334155"
+    "color": "#334155"
   },
   {
     "name": "is-bg-ink-9",
     "snippet": ".is-bg-ink-9 {\n  background-color: #1e293b;\n}",
-    "color": "#1e293b",
-    "hex": "HEX #1e293b"
+    "color": "#1e293b"
   },
   {
     "name": "is-bg-ink-10",
     "snippet": ".is-bg-ink-10 {\n  background-color: #0f172a;\n}",
-    "color": "#0f172a",
-    "hex": "HEX #0f172a"
+    "color": "#0f172a"
   },
   {
     "name": "is-color-coal-1",
     "snippet": ".is-color-coal-1 {\n  color: #f1f5f9;\n}",
-    "color": "#f1f5f9",
-    "hex": "HEX #f1f5f9"
+    "color": "#f1f5f9"
   },
   {
     "name": "is-color-coal-2",
     "snippet": ".is-color-coal-2 {\n  color: #e2e8f0;\n}",
-    "color": "#e2e8f0",
-    "hex": "HEX #e2e8f0"
+    "color": "#e2e8f0"
   },
   {
     "name": "is-color-coal-3",
     "snippet": ".is-color-coal-3 {\n  color: #cbd5e1;\n}",
-    "color": "#cbd5e1",
-    "hex": "HEX #cbd5e1"
+    "color": "#cbd5e1"
   },
   {
     "name": "is-color-coal-4",
     "snippet": ".is-color-coal-4 {\n  color: #94a3b8;\n}",
-    "color": "#94a3b8",
-    "hex": "HEX #94a3b8"
+    "color": "#94a3b8"
   },
   {
     "name": "is-color-coal-5",
     "snippet": ".is-color-coal-5 {\n  color: #64748b;\n}",
-    "color": "#64748b",
-    "hex": "HEX #64748b"
+    "color": "#64748b"
   },
   {
     "name": "is-color-coal-6",
     "snippet": ".is-color-coal-6 {\n  color: #475569;\n}",
-    "color": "#475569",
-    "hex": "HEX #475569"
+    "color": "#475569"
   },
   {
     "name": "is-color-coal-7",
     "snippet": ".is-color-coal-7 {\n  color: #334155;\n}",
-    "color": "#334155",
-    "hex": "HEX #334155"
+    "color": "#334155"
   },
   {
     "name": "is-color-coal-8",
     "snippet": ".is-color-coal-8 {\n  color: #1e293b;\n}",
-    "color": "#1e293b",
-    "hex": "HEX #1e293b"
+    "color": "#1e293b"
   },
   {
     "name": "is-color-coal-9",
     "snippet": ".is-color-coal-9 {\n  color: #0f172a;\n}",
-    "color": "#0f172a",
-    "hex": "HEX #0f172a"
+    "color": "#0f172a"
   },
   {
     "name": "is-color-coal-10",
     "snippet": ".is-color-coal-10 {\n  color: #0a0e1a;\n}",
-    "color": "#0a0e1a",
-    "hex": "HEX #0a0e1a"
+    "color": "#0a0e1a"
   },
   {
     "name": "is-bg-coal-1",
     "snippet": ".is-bg-coal-1 {\n  background-color: #f1f5f9;\n}",
-    "color": "#f1f5f9",
-    "hex": "HEX #f1f5f9"
+    "color": "#f1f5f9"
   },
   {
     "name": "is-bg-coal-2",
     "snippet": ".is-bg-coal-2 {\n  background-color: #e2e8f0;\n}",
-    "color": "#e2e8f0",
-    "hex": "HEX #e2e8f0"
+    "color": "#e2e8f0"
   },
   {
     "name": "is-bg-coal-3",
     "snippet": ".is-bg-coal-3 {\n  background-color: #cbd5e1;\n}",
-    "color": "#cbd5e1",
-    "hex": "HEX #cbd5e1"
+    "color": "#cbd5e1"
   },
   {
     "name": "is-bg-coal-4",
     "snippet": ".is-bg-coal-4 {\n  background-color: #94a3b8;\n}",
-    "color": "#94a3b8",
-    "hex": "HEX #94a3b8"
+    "color": "#94a3b8"
   },
   {
     "name": "is-bg-coal-5",
     "snippet": ".is-bg-coal-5 {\n  background-color: #64748b;\n}",
-    "color": "#64748b",
-    "hex": "HEX #64748b"
+    "color": "#64748b"
   },
   {
     "name": "is-bg-coal-6",
     "snippet": ".is-bg-coal-6 {\n  background-color: #475569;\n}",
-    "color": "#475569",
-    "hex": "HEX #475569"
+    "color": "#475569"
   },
   {
     "name": "is-bg-coal-7",
     "snippet": ".is-bg-coal-7 {\n  background-color: #334155;\n}",
-    "color": "#334155",
-    "hex": "HEX #334155"
+    "color": "#334155"
   },
   {
     "name": "is-bg-coal-8",
     "snippet": ".is-bg-coal-8 {\n  background-color: #1e293b;\n}",
-    "color": "#1e293b",
-    "hex": "HEX #1e293b"
+    "color": "#1e293b"
   },
   {
     "name": "is-bg-coal-9",
     "snippet": ".is-bg-coal-9 {\n  background-color: #0f172a;\n}",
-    "color": "#0f172a",
-    "hex": "HEX #0f172a"
+    "color": "#0f172a"
   },
   {
     "name": "is-bg-coal-10",
     "snippet": ".is-bg-coal-10 {\n  background-color: #0a0e1a;\n}",
-    "color": "#0a0e1a",
-    "hex": "HEX #0a0e1a"
+    "color": "#0a0e1a"
   },
 
   {
