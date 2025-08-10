@@ -59,15 +59,12 @@ export function activate(context: vscode.ExtensionContext) {
                         item.detail = "Style Snippet";
                     }
                     if (entry.paths) {
-                        item.detail = "SVG Icon";
+                        item.detail = "Icon";
                     }
                     if (entry.color) {
                         item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
-                        item.insertText = new vscode.SnippetString(`is-${entry.name}`);
-                    } else {
-                        item.documentation = new vscode.MarkdownString(`**Icon:** ${entry.name}`);
-                        item.insertText = new vscode.SnippetString(`is-${entry.name}`);
-                    }
+                        item.insertText = new vscode.SnippetString(entry.name.startsWith('is-') ? entry.name : `is-${entry.name}`);
+                     }
                     return item;
             });
         }
@@ -114,7 +111,7 @@ export function activate(context: vscode.ExtensionContext) {
             const iconViewBox = entry.viewBox || 1024;
 
             const outerSvgSize = 80;
-            const iconDisplaySize = 70;
+            const iconDisplaySize = 80;
             const padding = (outerSvgSize - iconDisplaySize) / 2;
 
             const combinedSvgString = 
