@@ -14,6 +14,24 @@ let iconforgeData: IconForgeEntry[];
 let sortedIconforgeData: IconForgeEntry[];
 const decorationTypeCache = new Map<string, vscode.TextEditorDecorationType>();
 
+enum SuggestionType {
+    Icon,
+    Color,
+    Background,
+    Size,
+    Modifier,
+    Unknown
+}
+
+function getType(className: string): SuggestionType {
+    if (className.startsWith('if-')) {return SuggestionType.Icon;};
+    if (className.startsWith('is-bg-')) {return SuggestionType.Background;};
+    if (className.startsWith('is-size-')) {return SuggestionType.Size;};
+    if (className.startsWith('is-rot-') || className.startsWith('is-flip-')) {return SuggestionType.Modifier;};
+    if (className.startsWith('is-')) {return SuggestionType.Color;};
+    return SuggestionType.Unknown;
+}
+
 export function activate(context: vscode.ExtensionContext) {
   const dataPath = path.join(context.extensionPath, 'data', 'iconforge.data.json');
 
@@ -47,22 +65,68 @@ export function activate(context: vscode.ExtensionContext) {
     {
         provideCompletionItems(document: vscode.TextDocument, position: vscode.Position) {
             const linePrefix = document.lineAt(position).text.substr(0, position.character);
-            const classAttributeRegex = /class(Name)?\s*=\s*["\'][^"\']*$/;
+            const classAttributeRegex = /class(Name)?\s*=\s*["']([^"']*)$/;
 
             if (!classAttributeRegex.test(linePrefix)) {
                 return undefined;
             }
 
-            return sortedIconforgeData.map(entry => {
+            const classMatch = linePrefix.match(classAttributeRegex);
+            if (!classMatch) {
+                return undefined;
+            }
+
+            const existingClassesText = classMatch[2];
+            const classes = existingClassesText.split(/\s+/);
+            const currentWord = classes.pop() || '';
+
+            const existingClasses = classes.filter(c => c.length > 0);
+            const types = existingClasses.map(getType);
+
+            const hasIcon = types.includes(SuggestionType.Icon);
+            const hasColor = types.includes(SuggestionType.Color);
+            const hasBg = types.includes(SuggestionType.Background);
+            const hasSize = types.includes(SuggestionType.Size);
+
+            let suggestions = sortedIconforgeData;
+
+            if (currentWord.startsWith('if-')) {
+                suggestions = suggestions.filter(e => getType(e.name) === SuggestionType.Icon);
+            } else if (currentWord.startsWith('is-bg-')) {
+                suggestions = suggestions.filter(e => getType(e.name) === SuggestionType.Background);
+            } else if (currentWord.startsWith('is-size-')) {
+                suggestions = suggestions.filter(e => getType(e.name) === SuggestionType.Size);
+            } else if (currentWord.startsWith('is-rot-') || currentWord.startsWith('is-flip-')) {
+                suggestions = suggestions.filter(e => getType(e.name) === SuggestionType.Modifier);
+            } else if (currentWord.startsWith('is-')) {
+                suggestions = suggestions.filter(e => {
+                    const type = getType(e.name);
+                    return type === SuggestionType.Color || type === SuggestionType.Background;
+                });
+            }
+
+            return suggestions.map(entry => {
                 const item = new vscode.CompletionItem(entry.name, entry.paths ? vscode.CompletionItemKind.Variable : vscode.CompletionItemKind.Color);
+                const type = getType(entry.name);
+
+                let sortPrefix = 'd'; // Default low priority
+
+                if (type === SuggestionType.Icon && !hasIcon) {sortPrefix = 'a';}
+                else if ((type === SuggestionType.Color || type === SuggestionType.Background) && !hasColor && !hasBg) {sortPrefix = 'b';}
+                else if (type === SuggestionType.Size && !hasSize) {sortPrefix = 'c';}
+
+                item.sortText = sortPrefix + entry.name;
+
                 if (entry.snippet) {
-                    item.detail = "Style Snippet";
-                }
-                if (entry.paths) {
-                    item.detail = "Icon";
-                }
-                if (entry.color) {
-                    item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
+                    item.detail = "CSS Utility";
+                } if (entry.paths) {
+                  const newName = entry.name.split('-').splice(1).join(' ');
+                  const capName = newName.charAt(0).toUpperCase() + newName.slice(1);
+                    item.detail = `${capName} Icon`;
+                    item.documentation = new vscode.MarkdownString(`**Icon:**\n\n${capName}`);
+                 } if (entry.color) {
+                    item.detail = 'Color Utility';
+                    item.documentation = new vscode.MarkdownString(`**Color:**\n\n${entry.color}`);
                     item.insertText = new vscode.SnippetString(entry.name.startsWith('is-') ? entry.name : `is-${entry.name}`);
                 }
                 return item;
@@ -76,11 +140,11 @@ export function activate(context: vscode.ExtensionContext) {
     {
       provideHover(document, position) {
         const range = document.getWordRangeAtPosition(position, /(is|if)-[a-zA-Z0-9-]+/);
-        if (!range) return;
+        if (!range) {return;}
 
         const word = document.getText(range);
         const entry = iconforgeData.find(i => i.name === word);
-        if (!entry) return;
+        if (!entry) {return;}
 
         const docs = new vscode.MarkdownString();
         docs.supportHtml = true;
@@ -89,21 +153,17 @@ export function activate(context: vscode.ExtensionContext) {
         if (entry.paths && entry.viewBox) {
             let fillColor = "currentColor";
             let backgroundColor = "transparent";
-            let appliedColorFrom: string | null = null;
-            let appliedBgFrom: string | null = null;
 
             const lineText = document.lineAt(position.line).text;
-            const styleClasses = lineText.match(/is-[a-zA-Z0-9-]+/g) || [];
+            const styleClasses = lineText.match(/(is|if)-[a-zA-Z0-9-]+/g) || [];
 
             for (const className of styleClasses) {
                 const styleEntry = iconforgeData.find(c => c.name === className);
                 if (styleEntry && styleEntry.color) {
                     if (className.startsWith('is-bg')) {
                         backgroundColor = styleEntry.color;
-                        appliedBgFrom = styleEntry.name;
                     } else {
                         fillColor = styleEntry.color;
-                        appliedColorFrom = styleEntry.name;
                     }
                 }
             }
