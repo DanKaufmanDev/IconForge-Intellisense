@@ -56,13 +56,15 @@ export function activate(context: vscode.ExtensionContext) {
             return sortedIconforgeData.map(entry => {
                 const item = new vscode.CompletionItem(entry.name, entry.paths ? vscode.CompletionItemKind.Variable : vscode.CompletionItemKind.Color);
                 if (entry.snippet) {
-                    item.detail = "Style Snippet";
-                }
-                if (entry.paths) {
-                    item.detail = "Icon";
-                }
-                if (entry.color) {
-                    item.documentation = new vscode.MarkdownString(`**Color:** ${entry.color}`);
+                    item.detail = "CSS Utility";
+                } if (entry.paths) {
+                  const newName = entry.name.split('-').splice(1).join(' ');
+                  const capName = newName.charAt(0).toUpperCase() + newName.slice(1);
+                    item.detail = `${capName} Icon`;
+                    item.documentation = new vscode.MarkdownString(`**Icon:**\n\n${capName}`);
+                 } if (entry.color) {
+                    item.detail = 'Color Utility';
+                    item.documentation = new vscode.MarkdownString(`**Color:**\n\n${entry.color}`);
                     item.insertText = new vscode.SnippetString(entry.name.startsWith('is-') ? entry.name : `is-${entry.name}`);
                 }
                 return item;

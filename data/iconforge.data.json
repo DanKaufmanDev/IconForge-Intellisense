@@ -4119,7 +4119,6 @@
     ],
     "viewBox": 1024
   },
-
   {
     "name": "is-color-white",
     "snippet": ".is-color-white {\n  color: #fff;\n}",
@@ -5940,7 +5939,6 @@
     "snippet": ".is-bg-coal-10 {\n  background-color: #0a0e1a;\n}",
     "color": "#0a0e1a"
   },
-
   {
     "name": "is-size-xs",
     "snippet": ".is-size-xs {\n  font-size: 0.75rem;\n}"
@@ -6054,16 +6052,32 @@
     "snippet": ".is-w-quarter {\n  width: 25%;\n}"
   },
   {
+    "name": "is-rot-45",
+    "snippet": ".is-rot-45 {\n  rotate: 45deg;\n}"
+  },
+  {
     "name": "is-rot-90",
     "snippet": ".is-rot-90 {\n  rotate: 90deg;\n}"
+  },
+  {
+    "name": "is-rot-135",
+    "snippet": ".is-rot-135 {\n  rotate: 135deg;\n}"
   },
   {
     "name": "is-rot-180",
     "snippet": ".is-rot-180 {\n  rotate: 180deg;\n}"
   },
   {
+    "name": "is-rot-225",
+    "snippet": ".is-rot-225 {\n  rotate: 225deg;\n}"
+  },
+  {
     "name": "is-rot-270",
     "snippet": ".is-rot-270 {\n  rotate: 270deg;\n}"
+  },
+  {
+    "name": "is-rot-315",
+    "snippet": ".is-rot-315 {\n  rotate: 315deg;\n}"
   },
   {
     "name": "is-rot-360",
@@ -6076,6 +6090,657 @@
   {
     "name": "is-flip-h",
     "snippet": ".is-flip-h {\n  transform: scaleY(-1);\n}"
+  },
+  {
+    "name": "is-opacity-0",
+    "snippet": ".is-opacity-0 {\n  opacity: 0;\n}"
+  },
+  {
+    "name": "is-opacity-25",
+    "snippet": ".is-opacity-25 {\n  opacity: 0.25;\n}"
+  },
+  {
+    "name": "is-opacity-50",
+    "snippet": ".is-opacity-50 {\n  opacity: 0.5;\n}"
+  },
+  {
+    "name": "is-opacity-75",
+    "snippet": ".is-opacity-75 {\n  opacity: 0.75;\n}"
+  },
+  {
+    "name": "is-opacity-100",
+    "snippet": ".is-opacity-100 {\n  opacity: 1;\n}"
+  },
+  {
+    "name": "is-clickable",
+    "snippet": ".is-clickable {\n  cursor: pointer;\n}"
+  },
+  {
+    "name": "is-not-clickable",
+    "snippet": ".is-not-clickable {\n  cursor: not-allowed;\n}"
+  },
+  {
+    "name": "is-hidden",
+    "snippet": ".is-hidden {\n  display: none;\n}"
+  },
+  {
+    "name": "is-block",
+    "snippet": ".is-block {\n  display: block;\n}"
+  },
+  {
+    "name": "is-inline",
+    "snippet": ".is-inline {\n  display: inline;\n}"
+  },
+  {
+    "name": "is-inline-block",
+    "snippet": ".is-inline-block {\n  display: inline-block;\n}"
+  },
+  {
+    "name": "is-inline-block",
+    "snippet": ".is-inline-block {\n  display: inline-block;\n}"
+  },
+  {
+    "name": "is-flex",
+    "snippet": ".is-flex {\n  display: flex;\n}"
+  },
+  {
+    "name": "is-inline-flex",
+    "snippet": ".is-inline-flex {\n  display: inline-flex;\n}"
+  },
+  {
+    "name": "is-flex-row",
+    "snippet": ".is-flex-row {\n  flex-direction: row;\n}"
+  },
+  {
+    "name": "is-flex-row-reverse",
+    "snippet": ".is-flex-row-reverse {\n  flex-direction: row-reverse;\n}"
+  },
+  {
+    "name": "is-flex-col",
+    "snippet": ".is-flex-col {\n  flex-direction: column;\n}"
+  },
+  {
+    "name": "is-flex-col-reverse",
+    "snippet": ".is-flex-col-reverse {\n  flex-direction: column-reverse;\n}"
+  },
+  {
+    "name": "is-flex-wrap",
+    "snippet": ".is-flex-wrap {\n  flex-wrap: wrap;\n}"
+  },
+  {
+    "name": "is-flex-nowrap",
+    "snippet": ".is-flex-nowrap {\n  flex-wrap: nowrap;\n}"
+  },
+  {
+    "name": "is-flex-wrap-reverse",
+    "snippet": ".is-flex-wrap-reverse {\n  flex-wrap: wrap-reverse;\n}"
+  },
+  {
+    "name": "is-justify-start",
+    "snippet": ".is-justify-start {\n  justify-content: flex-start;\n}"
+  },
+  {
+  "name": "is-justify-end",
+    "snippet": ".is-justify-end {\n  justify-content: flex-end;\n}"
+  },
+  {
+    "name": "is-justify-center",
+    "snippet": ".is-justify-center {\n  justify-content: center;\n}"
+  },
+  {
+    "name": "is-justify-between",
+    "snippet": ".is-justify-between {\n  justify-content: space-between;\n}"
+  },
+  {
+    "name": "is-justify-around",
+    "snippet": ".is-justify-around {\n  justify-content: space-around;\n}"
+  },
+  {
+    "name": "is-justify-evenly",
+    "snippet": ".is-justify-evenly {\n  justify-content: space-evenly;\n}"
+  },
+  {
+    "name": "is-items-start",
+    "snippet": ".is-items-start {\n  align-items: flex-start;\n}"
+  },
+  {
+    "name": "is-items-end",
+    "snippet": ".is-items-end {\n  align-items: flex-end;\n}"
+  },
+  {
+    "name": "is-items-center",
+    "snippet": ".is-items-center {\n  align-items: center;\n}"
+  },
+  {
+    "name": "is-items-baseline",
+    "snippet": ".is-items-baseline {\n  align-items: baseline;\n}"
+  },
+  {
+    "name": "is-items-stretch",
+    "snippet": ".is-items-stretch {\n  align-items: stretch;\n}"
+  },
+  {
+    "name": "is-self-start",
+    "snippet": ".is-self-start {\n  align-self: flex-start;\n}"
+  },
+  {
+    "name": "is-self-end",
+    "snippet": ".is-self-end {\n  align-self: flex-end;\n}"
+  },
+  {
+    "name": "is-self-center",
+    "snippet": ".is-self-center {\n  align-self: center;\n}"
+  },
+  {
+    "name": "is-self-stretch",
+    "snippet": ".is-self-stretch {\n  align-self: stretch;\n}"
+  },
+  {
+    "name": "is-self-baseline",
+    "snippet": ".is-self-baseline {\n  align-self: baseline;\n}"
+  },
+  {
+    "name": "is-content-start",
+    "snippet": ".is-content-start {\n  align-content: flex-start;\n}"
+  },
+  {
+    "name": "is-content-end",
+    "snippet": ".is-content-end {\n  align-content: flex-end;\n}"
+  },
+  {
+    "name": "is-content-center",
+    "snippet": ".is-content-center {\n  align-content: center;\n}"
+  },
+  {
+    "name": "is-content-between",
+    "snippet": ".is-content-between {\n  align-content: space-between;\n}"
+  },
+  {
+    "name": "is-content-around",
+    "snippet": ".is-content-around {\n  align-content: space-around;\n}"
+  },
+  {
+    "name": "is-content-evenly",
+    "snippet": ".is-content-evenly {\n  align-content: space-evenly;\n}"
+  },
+  {
+    "name": "is-m-auto",
+    "snippet": ".is-m-auto {\n  margin: auto;\n}"
+  },
+  {
+    "name": "is-m-1",
+    "snippet": ".is-m-1 {\n  margin: 0.25rem;\n}"
+  },
+  {
+    "name": "is-m-2",
+    "snippet": ".is-m-2 {\n  margin: 0.5rem;\n}"
+  },
+  {
+    "name": "is-m-3",
+    "snippet": ".is-m-3 {\n  margin: 0.75rem;\n}"
+  },
+  {
+    "name": "is-m-4",
+    "snippet": ".is-m-4 {\n  margin: 1rem;\n}"
+  },
+  {
+    "name": "is-m-5",
+    "snippet": ".is-m-5 {\n  margin: 1.25rem;\n}"
+  },
+  {
+    "name": "is-m-6",
+    "snippet": ".is-m-6 {\n  margin: 1.5rem;\n}"
+  },
+  {
+    "name": "is-m-7",
+    "snippet": ".is-m-7 {\n  margin: 1.75rem;\n}"
+  },
+  {
+    "name": "is-m-8",
+    "snippet": ".is-m-8 {\n  margin: 2rem;\n}"
+  },
+  {
+    "name": "is-m-9",
+    "snippet": ".is-m-9 {\n  margin: 2.25rem;\n}"
+  },
+  {
+    "name": "is-m-10",
+    "snippet": ".is-m-10 {\n  margin: 2.5rem;\n}"
+  },
+  {
+    "name": "is-mt-auto",
+    "snippet": ".is-mt-auto {\n  margin-top: auto;\n}"
+  },
+  {
+    "name": "is-mt-1",
+    "snippet": ".is-mt-1 {\n  margin-top: 0.25rem;\n}"
+  },
+  {
+    "name": "is-mt-2",
+    "snippet": ".is-mt-2 {\n  margin-top: 0.5rem;\n}"
+  },
+  {
+    "name": "is-mt-3",
+    "snippet": ".is-mt-3 {\n  margin-top: 0.75rem;\n}"
+  },
+  {
+    "name": "is-mt-4",
+    "snippet": ".is-mt-4 {\n  margin-top: 1rem;\n}"
+  },
+  {
+    "name": "is-mt-5",
+    "snippet": ".is-mt-5 {\n  margin-top: 1.25rem;\n}"
+  },
+  {"name": "is-mt-6",
+    "snippet": ".is-mt-6 {\n  margin-top: 1.5rem;\n}"
+  },
+  {"name": "is-mt-7",
+    "snippet": ".is-mt-7 {\n  margin-top: 1.75rem;\n}"
+  },
+  {"name": "is-mt-8",
+    "snippet": ".is-mt-8 {\n  margin-top: 2rem;\n}"
+  },
+  {"name": "is-mt-9",
+    "snippet": ".is-mt-9 {\n  margin-top: 2.25rem;\n}"
+  },
+  {"name": "is-mt-10",
+    "snippet": ".is-mt-10 {\n  margin-top: 2.5rem;\n}"
+  },
+  {"name": "is-mr-auto",
+    "snippet": ".is-mr-auto {\n  margin-right: auto;\n}"
+  },
+  {"name": "is-mr-1",
+    "snippet": ".is-mr-1 {\n  margin-right: 0.25rem;\n}"
+  },
+  {"name": "is-mr-2",
+    "snippet": ".is-mr-2 {\n  margin-right: 0.5rem;\n}"
+  },
+  {"name": "is-mr-3",
+    "snippet": ".is-mr-3 {\n  margin-right: 0.75rem;\n}"
+  },
+  {"name": "is-mr-4",
+    "snippet": ".is-mr-4 {\n  margin-right: 1rem;\n}"
+  },
+  {"name": "is-mr-5",
+    "snippet": ".is-mr-5 {\n  margin-right: 1.25rem;\n}"
+  },
+  {"name": "is-mr-6",
+    "snippet": ".is-mr-6 {\n  margin-right: 1.5rem;\n}"
+  },
+  {"name": "is-mr-7",
+    "snippet": ".is-mr-7 {\n  margin-right: 1.75rem;\n}"
+  },
+  {"name": "is-mr-8",
+    "snippet": ".is-mr-8 {\n  margin-right: 2rem;\n}"
+  },
+  {"name": "is-mr-9",
+    "snippet": ".is-mr-9 {\n  margin-right: 2.25rem;\n}"
+  },
+  {"name": "is-mr-10",
+    "snippet": ".is-mr-10 {\n  margin-right: 2.5rem;\n}"
+  },
+  {"name": "is-mb-auto",
+    "snippet": ".is-mb-auto {\n  margin-bottom: auto;\n}"
+  },
+  {"name": "is-mb-1",
+    "snippet": ".is-mb-1 {\n  margin-bottom: 0.25rem;\n}"
+  },
+  {"name": "is-mb-2",
+    "snippet": ".is-mb-2 {\n  margin-bottom: 0.5rem;\n}"
+  },
+  {"name": "is-mb-3",
+    "snippet": ".is-mb-3 {\n  margin-bottom: 0.75rem;\n}"
+  },
+  {"name": "is-mb-4",
+    "snippet": ".is-mb-4 {\n  margin-bottom: 1rem;\n}"
+  },
+  {"name": "is-mb-5",
+    "snippet": ".is-mb-5 {\n  margin-bottom: 1.25rem;\n}"
+  },
+  {"name": "is-mb-6",
+    "snippet": ".is-mb-6 {\n  margin-bottom: 1.5rem;\n}"
+  },
+  {"name": "is-mb-7",
+    "snippet": ".is-mb-7 {\n  margin-bottom: 1.75rem;\n}"
+  },
+  {"name": "is-mb-8",
+    "snippet": ".is-mb-8 {\n  margin-bottom: 2rem;\n}"
+  },
+  {"name": "is-mb-9",
+    "snippet": ".is-mb-9 {\n  margin-bottom: 2.25rem;\n}"
+  },
+  {"name": "is-mb-10",
+    "snippet": ".is-mb-10 {\n  margin-bottom: 2.5rem;\n}"
+  },
+  {"name": "is-ml-auto",
+    "snippet": ".is-ml-auto {\n  margin-left: auto;\n}"
+  },
+  {"name": "is-ml-1",
+    "snippet": ".is-ml-1 {\n  margin-left: 0.25rem;\n}"
+  },
+  {"name": "is-ml-2",
+    "snippet": ".is-ml-2 {\n  margin-left: 0.5rem;\n}"
+  },
+  {"name": "is-ml-3",
+    "snippet": ".is-ml-3 {\n  margin-left: 0.75rem;\n}"
+  },
+  {"name": "is-ml-4",
+    "snippet": ".is-ml-4 {\n  margin-left: 1rem;\n}"
+  },
+  {"name": "is-ml-5",
+    "snippet": ".is-ml-5 {\n  margin-left: 1.25rem;\n}"
+  },
+  {"name": "is-ml-6",
+    "snippet": ".is-ml-6 {\n  margin-left: 1.5rem;\n}"
+  },
+  {"name": "is-ml-7",
+    "snippet": ".is-ml-7 {\n  margin-left: 1.75rem;\n}"
+  },
+  {"name": "is-ml-8",
+    "snippet": ".is-ml-8 {\n  margin-left: 2rem;\n}"
+  },
+  {"name": "is-ml-9",
+    "snippet": ".is-ml-9 {\n  margin-left: 2.25rem;\n}"
+  },
+  {"name": "is-ml-10",
+    "snippet": ".is-ml-10 {\n  margin-left: 2.5rem;\n}"
+  },
+  {"name": "is-mx-auto",
+    "snippet": ".is-mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}"
+  },
+  {"name": "is-mx-1",
+    "snippet": ".is-mx-1 {\n  margin-left: 0.25rem;\n  margin-right: 0.25rem;\n}"
+  },
+  {"name": "is-mx-2",
+    "snippet": ".is-mx-2 {\n  margin-left: 0.5rem;\n  margin-right: 0.5rem;\n}"
+  },
+  {"name": "is-mx-3",
+    "snippet": ".is-mx-3 {\n  margin-left: 0.75rem;\n  margin-right: 0.75rem;\n}"
+  },
+  {"name": "is-mx-4",
+    "snippet": ".is-mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}"
+  },
+  {"name": "is-mx-5",
+    "snippet": ".is-mx-5 {\n  margin-left: 1.25rem;\n  margin-right: 1.25rem;\n}"
+  },
+  {"name": "is-mx-6",
+    "snippet": ".is-mx-6 {\n  margin-left: 1.5rem;\n  margin-right: 1.5rem;\n}"
+  },
+  {"name": "is-mx-7",
+    "snippet": ".is-mx-7 {\n  margin-left: 1.75rem;\n  margin-right: 1.75rem;\n}"
+  },
+  {"name": "is-mx-8",
+    "snippet": ".is-mx-8 {\n  margin-left: 2rem;\n  margin-right: 2rem;\n}"
+  },
+  {"name": "is-mx-9",
+    "snippet": ".is-mx-9 {\n  margin-left: 2.25rem;\n  margin-right: 2.25rem;\n}"
+  },
+  {"name": "is-mx-10",
+    "snippet": ".is-mx-10 {\n  margin-left: 2.5rem;\n  margin-right: 2.5rem;\n}"
+  },
+  {"name": "is-my-auto",
+    "snippet": ".is-my-auto {\n  margin-top: auto;\n  margin-bottom: auto;\n}"
+  },
+  {"name": "is-my-1",
+    "snippet": ".is-my-1 {\n  margin-top: 0.25rem;\n  margin-bottom: 0.25rem;\n}"
+  },
+  {"name": "is-my-2",
+    "snippet": ".is-my-2 {\n  margin-top: 0.5rem;\n  margin-bottom: 0.5rem;\n}"
+  },
+  {"name": "is-my-3",
+    "snippet": ".is-my-3 {\n  margin-top: 0.75rem;\n  margin-bottom: 0.75rem;\n}"
+  },
+  {"name": "is-my-4",
+    "snippet": ".is-my-4 {\n  margin-top: 1rem;\n  margin-bottom: 1rem;\n}"
+  },
+  {"name": "is-my-5",
+    "snippet": ".is-my-5 {\n  margin-top: 1.25rem;\n  margin-bottom: 1.25rem;\n}"
+  },
+  {"name": "is-my-6",
+    "snippet": ".is-my-6 {\n  margin-top: 1.5rem;\n  margin-bottom: 1.5rem;\n}"
+  },
+  {"name": "is-my-7",
+    "snippet": ".is-my-7 {\n  margin-top: 1.75rem;\n  margin-bottom: 1.75rem;\n}"
+  },
+  {"name": "is-my-8",
+    "snippet": ".is-my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}"
+  },
+  {"name": "is-my-9",
+    "snippet": ".is-my-9 {\n  margin-top: 2.25rem;\n  margin-bottom: 2.25rem;\n}"
+  },
+  {"name": "is-my-10",
+    "snippet": ".is-my-10 {\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n}"
+  },
+  {"name": "is-p-auto",
+    "snippet": ".is-p-auto {\n  padding: auto;\n}"
+  },
+  {"name": "is-p-1",
+    "snippet": ".is-p-1 {\n  padding: 0.25rem;\n}"
+  },
+  {"name": "is-p-2",
+    "snippet": ".is-p-2 {\n  padding: 0.5rem;\n}"
+  },
+  {"name": "is-p-3",
+    "snippet": ".is-p-3 {\n  padding: 0.75rem;\n}"
+  },
+  {"name": "is-p-4",
+    "snippet": ".is-p-4 {\n  padding: 1rem;\n}"
+  },
+  {"name": "is-p-5",
+    "snippet": ".is-p-5 {\n  padding: 1.25rem;\n}"
+  },
+  {"name": "is-p-6",
+    "snippet": ".is-p-6 {\n  padding: 1.5rem;\n}"
+  },
+  {"name": "is-p-7",
+    "snippet": ".is-p-7 {\n  padding: 1.75rem;\n}"
+  },
+  {"name": "is-p-8",
+    "snippet": ".is-p-8 {\n  padding: 2rem;\n}"
+  },
+  {"name": "is-p-9",
+    "snippet": ".is-p-9 {\n  padding: 2.25rem;\n}"
+  },
+  {"name": "is-p-10",
+    "snippet": ".is-p-10 {\n  padding: 2.5rem;\n}"
+  },
+  {"name": "is-pt-auto",
+    "snippet": ".is-pt-auto {\n  padding-top: auto;\n}"
+  },
+  {"name": "is-pt-1",
+    "snippet": ".is-pt-1 {\n  padding-top: 0.25rem;\n}"
+  },
+  {"name": "is-pt-2",
+    "snippet": ".is-pt-2 {\n  padding-top: 0.5rem;\n}"
+  },
+  {"name": "is-pt-3",
+    "snippet": ".is-pt-3 {\n  padding-top: 0.75rem;\n}"
+  },
+  {"name": "is-pt-4",
+    "snippet": ".is-pt-4 {\n  padding-top: 1rem;\n}"
+  },
+  {"name": "is-pt-5",
+    "snippet": ".is-pt-5 {\n  padding-top: 1.25rem;\n}"
+  },
+  {"name": "is-pt-6",
+    "snippet": ".is-pt-6 {\n  padding-top: 1.5rem;\n}"
+  },
+  {"name": "is-pt-7",
+    "snippet": ".is-pt-7 {\n  padding-top: 1.75rem;\n}"
+  },
+  {"name": "is-pt-8",
+    "snippet": ".is-pt-8 {\n  padding-top: 2rem;\n}"
+  },
+  {"name": "is-pt-9",
+    "snippet": ".is-pt-9 {\n  padding-top: 2.25rem;\n}"
+  },
+  {"name": "is-pt-10",
+    "snippet": ".is-pt-10 {\n  padding-top: 2.5rem;\n}"
+  },
+  {"name": "is-pr-auto",
+    "snippet": ".is-pr-auto {\n  padding-right: auto;\n}"
+  },
+  {"name": "is-pr-1",
+    "snippet": ".is-pr-1 {\n  padding-right: 0.25rem;\n}"
+  },
+  {"name": "is-pr-2",
+    "snippet": ".is-pr-2 {\n  padding-right: 0.5rem;\n}"
+  },
+  {"name": "is-pr-3",
+    "snippet": ".is-pr-3 {\n  padding-right: 0.75rem;\n}"
+  },
+  {"name": "is-pr-4",
+    "snippet": ".is-pr-4 {\n  padding-right: 1rem;\n}"
+  },
+  {"name": "is-pr-5",
+    "snippet": ".is-pr-5 {\n  padding-right: 1.25rem;\n}"
+  },
+  {"name": "is-pr-6",
+    "snippet": ".is-pr-6 {\n  padding-right: 1.5rem;\n}"
+  },
+  {"name": "is-pr-7",
+    "snippet": ".is-pr-7 {\n  padding-right: 1.75rem;\n}"
+  },
+  {"name": "is-pr-8",
+    "snippet": ".is-pr-8 {\n  padding-right: 2rem;\n}"
+  },
+  {"name": "is-pr-9",
+    "snippet": ".is-pr-9 {\n  padding-right: 2.25rem;\n}"
+  },
+  {"name": "is-pr-10",
+    "snippet": ".is-pr-10 {\n  padding-right: 2.5rem;\n}"
+  },
+  {"name": "is-pb-auto",
+    "snippet": ".is-pb-auto {\n  padding-bottom: auto;\n}"
+  },
+  {"name": "is-pb-1",
+    "snippet": ".is-pb-1 {\n  padding-bottom: 0.25rem;\n}"
+  },
+  {"name": "is-pb-2",
+    "snippet": ".is-pb-2 {\n  padding-bottom: 0.5rem;\n}"
+  },
+  {"name": "is-pb-3",
+    "snippet": ".is-pb-3 {\n  padding-bottom: 0.75rem;\n}"
+  },
+  {"name": "is-pb-4",
+    "snippet": ".is-pb-4 {\n  padding-bottom: 1rem;\n}"
+  },
+  {"name": "is-pb-5",
+    "snippet": ".is-pb-5 {\n  padding-bottom: 1.25rem;\n}"
+  },
+  {"name": "is-pb-6",
+    "snippet": ".is-pb-6 {\n  padding-bottom: 1.5rem;\n}"
+  },
+  {"name": "is-pb-7",
+    "snippet": ".is-pb-7 {\n  padding-bottom: 1.75rem;\n}"
+  },
+  {"name": "is-pb-8",
+    "snippet": ".is-pb-8 {\n  padding-bottom: 2rem;\n}"
+  },
+  {"name": "is-pb-9",
+    "snippet": ".is-pb-9 {\n  padding-bottom: 2.25rem;\n}"
+  },
+  {"name": "is-pb-10",
+    "snippet": ".is-pb-10 {\n  padding-bottom: 2.5rem;\n}"
+  },
+  {"name": "is-pl-auto",
+    "snippet": ".is-pl-auto {\n  padding-left: auto;\n}"
+  },
+  {"name": "is-pl-1",
+    "snippet": ".is-pl-1 {\n  padding-left: 0.25rem;\n}"
+  },
+  {"name": "is-pl-2",
+    "snippet": ".is-pl-2 {\n  padding-left: 0.5rem;\n}"
+  },
+  {"name": "is-pl-3",
+    "snippet": ".is-pl-3 {\n  padding-left: 0.75rem;\n}"
+  },
+  {"name": "is-pl-4",
+    "snippet": ".is-pl-4 {\n  padding-left: 1rem;\n}"
+  },
+  {"name": "is-pl-5",
+    "snippet": ".is-pl-5 {\n  padding-left: 1.25rem;\n}"
+  },
+  {"name": "is-pl-6",
+    "snippet": ".is-pl-6 {\n  padding-left: 1.5rem;\n}"
+  },
+  {"name": "is-pl-7",
+    "snippet": ".is-pl-7 {\n  padding-left: 1.75rem;\n}"
+  },
+  {"name": "is-pl-8",
+    "snippet": ".is-pl-8 {\n  padding-left: 2rem;\n}"
+  },
+  {"name": "is-pl-9",
+    "snippet": ".is-pl-9 {\n  padding-left: 2.25rem;\n}"
+  },
+  {"name": "is-pl-10",
+    "snippet": ".is-pl-10 {\n  padding-left: 2.5rem;\n}"
+  },
+  {"name": "is-px-auto",
+    "snippet": ".is-px-auto {\n  padding-left: auto;\n  padding-right: auto;\n}"
+  },
+  {"name": "is-px-1",
+    "snippet": ".is-px-1 {\n  padding-left: 0.25rem;\n  padding-right: 0.25rem;\n}"
+  },
+  {"name": "is-px-2",
+    "snippet": ".is-px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}"
+  },
+  {"name": "is-px-3",
+    "snippet": ".is-px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}"
+  },
+  {"name": "is-px-4",
+    "snippet": ".is-px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}"
+  },
+  {"name": "is-px-5",
+    "snippet": ".is-px-5 {\n  padding-left: 1.25rem;\n  padding-right: 1.25rem;\n}"
+  },
+  {"name": "is-px-6",
+    "snippet": ".is-px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}"
+  },
+  {"name": "is-px-7",
+    "snippet": ".is-px-7 {\n  padding-left: 1.75rem;\n  padding-right: 1.75rem;\n}"
+  },
+  {"name": "is-px-8",
+    "snippet": ".is-px-8 {\n  padding-left: 2rem;\n  padding-right: 2rem;\n}"
+  },
+  {"name": "is-px-9",
+    "snippet": ".is-px-9 {\n  padding-left: 2.25rem;\n  padding-right: 2.25rem;\n}"
+  },
+  {"name": "is-px-10",
+    "snippet": ".is-px-10 {\n  padding-left: 2.5rem;\n  padding-right: 2.5rem;\n}"
+  },
+  {"name": "is-py-auto",
+    "snippet": ".is-py-auto {\n  padding-top: auto;\n  padding-bottom: auto;\n}"
+  },
+  {"name": "is-py-1",
+    "snippet": ".is-py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}"
+  },
+  {"name": "is-py-2",
+    "snippet": ".is-py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}"
+  },
+  {"name": "is-py-3",
+    "snippet": ".is-py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}"
+  },
+  {"name": "is-py-4",
+    "snippet": ".is-py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}"
+  },
+  {"name": "is-py-5",
+    "snippet": ".is-py-5 {\n  padding-top: 1.25rem;\n  padding-bottom: 1.25rem;\n}"
+  },
+  {"name": "is-py-6",
+    "snippet": ".is-py-6 {\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n}"
+  },
+  {"name": "is-py-7",
+    "snippet": ".is-py-7 {\n  padding-top: 1.75rem;\n  padding-bottom: 1.75rem;\n}"
+  },
+  {"name": "is-py-8",
+    "snippet": ".is-py-8 {\n  padding-top: 2rem;\n  padding-bottom: 2rem;\n}"
+  },
+  {"name": "is-py-9",
+    "snippet": ".is-py-9 {\n  padding-top: 2.25rem;\n  padding-bottom: 2.25rem;\n}"
+  },
+  {"name": "is-py-10",
+    "snippet": ".is-py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}"
   }
   ]
 }
