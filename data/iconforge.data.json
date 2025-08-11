@@ -6741,6 +6741,46 @@
   },
   {"name": "is-py-10",
     "snippet": ".is-py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}"
+  },
+  {
+    "name": "is-anim-pulse",
+    "snippet": "@keyframes is-pulse {\n 0%, 100% { opacity: 0.5; }\n}\n\n.is-anim-pulse {\n animation: is-pulse 1s ease-in-out infinite alternate; \n}"
+  },
+  {
+    "name": "is-anim-blink",
+    "snippet": "@keyframes is-blink {\n 0%, 100% { opacity: 0; }\n}\n\n.is-anim-blink {\n animation: is-blink 0.5s ease-in-out infinite alternate; \n}"
+  },
+  {
+    "name": "is-anim-ping",
+    "snippet": "@keyframes is-ping {\n 75%, 100% { transform: scale(2); opacity: 0; }\n}\n\n.is-anim-ping {\n animation: is-ping 1s cubic-bezier(0, 0, 0.2, 1) infinite; \n}"
+  },
+  {
+    "name": "is-anim-spin",
+    "snippet": "@keyframes is-spin {\n from { transform: rotate(0deg); }\n}\n\n.is-anim-spin {\n animation: is-spin 2s linear infinite; \n}"
+  },
+  {
+    "name": "is-anim-bounce",
+    "snippet": "@keyframes is-bounce {\n 0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8, 0, 1, 1); }\n}\n\n.is-anim-bounce {\n animation: is-bounce 1s infinite; \n}"
+  },
+  {
+    "name": "is-anim-shake",
+    "snippet": "@keyframes is-shake {\n 0%, 100% { transform: translateX(0); }\n}\n\n.is-anim-shake {\n animation: is-shake 0.5s infinite; \n}"
+  },
+  {
+    "name": "is-anim-wiggle",
+    "snippet": "@keyframes is-wiggle {\n 0%, 50%, 100% { transform: rotate(0deg); }\n}\n animation: is-wiggle 1s ease-in-out infinite; \n}"
+  },
+  {
+    "name": "is-anim-flip",
+    "snippet": "@keyframes is-flip {\n 0% { transform: perspective(400px) rotateY(0deg); }\n}\n\n.is-anim-flip {\n animation: is-flip 1s linear infinite; \n}"
+  },
+  {
+    "name": "is-anim-pop",
+    "snippet": "@keyframes is-pop {\n 0% { transform: scale(0.9); opacity: 0; }\n}\n\n.is-anim-pop {\n animation: is-pop 0.45s ease-out; \n}"
+  },
+  {
+    "name": "is-anim-flicker",
+    "snippet": "@keyframes is-flicker {\n 0%, 19.999%, 22%, 62.999%, 64%, 100% { opacity: 1; }\n}\n\n.is-anim-flicker {\n animation: is-flicker 2s infinite; \n}"
   }
   ]
 }
