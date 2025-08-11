@@ -2,6 +2,7 @@
   "name": "iconforge-intellisense",
   "displayName": "IconForge-Intellisense",
   "publisher": "dkd",
+  "icon": "data/IconForge.png",
 
   "description": "Intellisense for IconForge utility classes.",
   "version": "1.0.0",
